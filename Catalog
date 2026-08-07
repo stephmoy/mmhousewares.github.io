@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Product Catalog | MM Housewares Hardware</title>
+<meta name="description" content="Browse MM Housewares Hardware products organized by the problem you're trying to solve.">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container">
+    <div class="logo">
+      <a href="index.html">MM Housewares Hardware</a>
+      <span>Woodhaven, Queens</span>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="catalog.html" class="active">Product Catalog</a></li>
+        <li><a href="guides.html">How-To Guides</a></li>
+        <li><a href="technicians.html">Find a Technician</a></li>
+        <li><a href="careers.html">Careers &amp; Vocational</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="container">
+    <span class="tagline">Product Catalog</span>
+    <h1>What are you trying to fix today?</h1>
+    <p>We organize our products around the problem you're solving, not just the aisle they're in. Pick a situation below to see what we carry — and where to turn if you need more help.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="placeholder-note">
+      This catalog is populated with sample products to show the structure. Swap in your real inventory, prices, and SKUs when ready.
+    </div>
+
+    <!-- Problem: Leaky faucet -->
+    <div class="section-intro">
+      <span class="eyebrow">Problem</span>
+      <h2>My faucet is leaking</h2>
+      <p>Common fixes for drips and leaks under the sink or at the tap.</p>
+    </div>
+    <div class="card-grid">
+      <div class="card">
+        <span class="tag">Plumbing</span>
+        <h3>Faucet Washer &amp; O-Ring Kit</h3>
+        <p>Assorted sizes to stop drips at the source. Fits most standard residential faucets.</p>
+        <a href="guides.html#faucet-leak" class="card-link">See the how-to guide &rarr;</a>
+      </div>
+      <div class="card">
+        <span class="tag">Plumbing</span>
+        <h3>Adjustable Pipe Wrench, 10&quot;</h3>
+        <p>For loosening and tightening fittings without stripping them.</p>
+        <a href="guides.html#faucet-leak" class="card-link">See the how-to guide &rarr;</a>
+      </div>
+      <div class="card">
+        <span class="tag">Plumbing</span>
+        <h3>Plumber's Tape (PTFE)</h3>
+        <p>Seals threaded pipe connections to prevent leaks.</p>
+        <a href="technicians.html#plumbing" class="card-link">Still leaking? Find a plumber &rarr;</a>
+      </div>
+    </div>
+
+    <!-- Problem: Hanging something heavy -->
+    <div class="section-intro" style="margin-top:48px;">
+      <span class="eyebrow">Problem</span>
+      <h2>I need to hang something heavy</h2>
+      <p>Mirrors, shelves, TVs — the right anchor makes all the difference.</p>
+    </div>
+    <div class="card-grid">
+      <div class="card">
+        <span class="tag">Fasteners</span>
+        <h3>Toggle Bolt Anchors (Heavy-Duty)</h3>
+        <p>Rated for shelves and mirrors on drywall, holds up to 50 lbs per anchor.</p>
+        <a href="guides.html#hanging-heavy" class="card-link">See the how-to guide &rarr;</a>
+      </div>
+      <div class="card">
+        <span class="tag">Fasteners</span>
+        <h3>Stud Finder with Live Wire Detection</h3>
+        <p>Locate studs and avoid wiring before you drill.</p>
+        <a href="guides.html#hanging-heavy" class="card-link">See the how-to guide &rarr;</a>
+      </div>
+      <div class="card">
+        <span class="tag">Fasteners</span>
+        <h3>Picture &amp; Mirror Hanging Kit</h3>
+        <p>Includes hooks, wire, and levelers for frames up to 20 lbs.</p>
+        <a href="guides.html#hanging-heavy" class="card-link">See the how-to guide &rarr;</a>
+      </div>
+    </div>
+
+    <!-- Problem: Door won't lock -->
+    <div class="section-intro" style="margin-top:48px;">
+      <span class="eyebrow">Problem</span>
+      <h2>My door won't lock properly</h2>
+      <p>Sticking, misaligned, or worn-out locks and hardware.</p>
+    </div>
+    <div class="card-grid">
+      <div class="card">
+        <span class="tag">Door Hardware</span>
+        <h3>Adjustable Strike Plate</h3>
+        <p>Fixes misalignment between the door and frame — a common cause of sticky locks.</p>
+        <a href="guides.html#door-lock" class="card-link">See the how-to guide &rarr;</a>
+      </div>
+      <div class="card">
+        <span class="tag">Door Hardware</span>
+        <h3>Single-Cylinder Deadbolt</h3>
+        <p>Standard residential deadbolt, fits most pre-drilled doors.</p>
+        <a href="guides.html#door-lock" class="card-link">See the how-to guide &rarr;</a>
+      </div>
+      <div class="card">
+        <span class="tag">Door Hardware</span>
+        <h3>Door Hinge Set (3-Pack)</h3>
+        <p>Replace worn hinges causing doors to sag or stick.</p>
+        <a href="technicians.html#locksmith" class="card-link">Need a locksmith? &rarr;</a>
+      </div>
+    </div>
+
+    <!-- Problem: Electrical outlet -->
+    <div class="section-intro" style="margin-top:48px;">
+      <span class="eyebrow">Problem</span>
+      <h2>An outlet or switch isn't working</h2>
+      <p>Basic electrical parts for safe, simple fixes. When in doubt, call a licensed electrician.</p>
+    </div>
+    <div class="card-grid">
+      <div class="card">
+        <span class="tag">Electrical</span>
+        <h3>Non-Contact Voltage Tester</h3>
+        <p>Check whether a circuit is live before you touch anything.</p>
+        <a href="guides.html#outlet" class="card-link">See the how-to guide &rarr;</a>
+      </div>
+      <div class="card">
+        <span class="tag">Electrical</span>
+        <h3>Standard Duplex Outlet, 15A</h3>
+        <p>Replacement outlet for worn or discolored receptacles.</p>
+        <a href="technicians.html#electrical" class="card-link">Find an electrician &rarr;</a>
+      </div>
+      <div class="card">
+        <span class="tag">Electrical</span>
+        <h3>Wire Nut Assortment</h3>
+        <p>Color-coded connectors for safely capping wire connections.</p>
+        <a href="technicians.html#electrical" class="card-link">Find an electrician &rarr;</a>
+      </div>
+    </div>
+
+    <!-- Problem: Paint a room -->
+    <div class="section-intro" style="margin-top:48px;">
+      <span class="eyebrow">Problem</span>
+      <h2>I want to paint a room</h2>
+      <p>Everything you need for a clean, even coat.</p>
+    </div>
+    <div class="card-grid">
+      <div class="card">
+        <span class="tag">Paint &amp; Supplies</span>
+        <h3>Interior Latex Paint, Eggshell</h3>
+        <p>Available in a range of base colors, tintable in-store.</p>
+        <a href="guides.html#painting" class="card-link">See the how-to guide &rarr;</a>
+      </div>
+      <div class="card">
+        <span class="tag">Paint &amp; Supplies</span>
+        <h3>Roller &amp; Tray Set</h3>
+        <p>9&quot; roller frame, two nap covers, and a tray with liner.</p>
+        <a href="guides.html#painting" class="card-link">See the how-to guide &rarr;</a>
+      </div>
+      <div class="card">
+        <span class="tag">Paint &amp; Supplies</span>
+        <h3>Painter's Tape, 1.5&quot;</h3>
+        <p>Clean edges on trim, ceilings, and corners.</p>
+        <a href="guides.html#painting" class="card-link">See the how-to guide &rarr;</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <h4>MM Housewares Hardware</h4>
+        <p>Woodhaven, Queens, NY<br>Store address &amp; hours coming soon</p>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="catalog.html">Product Catalog</a></li>
+          <li><a href="guides.html">How-To Guides</a></li>
+          <li><a href="technicians.html">Find a Technician</a></li>
+          <li><a href="careers.html">Careers &amp; Vocational</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Contact</h4>
+        <ul>
+          <li>Phone: (555) 555-5555</li>
+          <li>Email: info@mmhousewares.example</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      &copy; 2026 MM Housewares Hardware. All rights reserved.
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
