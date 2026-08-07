@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Find a Technician | MM Housewares Hardware</title>
+<meta name="description" content="A directory of trusted local technicians near Woodhaven, Queens NY, recommended by MM Housewares Hardware.">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container">
+    <div class="logo">
+      <a href="index.html">MM Housewares Hardware</a>
+      <span>Woodhaven, Queens</span>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="catalog.html">Product Catalog</a></li>
+        <li><a href="guides.html">How-To Guides</a></li>
+        <li><a href="technicians.html" class="active">Find a Technician</a></li>
+        <li><a href="careers.html">Careers &amp; Vocational</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="container">
+    <span class="tagline">Find a Technician</span>
+    <h1>When it's bigger than a DIY fix</h1>
+    <p>These are local technicians we know and trust in and around Woodhaven, Queens. We don't take referral fees — this list exists to help our customers finish the job safely.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="placeholder-note">
+      Sample listings shown below. Replace with real local technicians, their licenses, and current contact info before publishing.
+    </div>
+
+    <div class="section-intro" id="plumbing">
+      <span class="eyebrow">Specialty</span>
+      <h2>Plumbing</h2>
+    </div>
+    <div class="directory-list">
+      <div class="directory-item">
+        <div>
+          <h3>Ridgewood Plumbing &amp; Drain</h3>
+          <p class="meta">Licensed &amp; insured &middot; Serves Woodhaven, Ridgewood, Glendale &middot; Leaks, clogs, water heaters</p>
+        </div>
+        <div class="contact">
+          (555) 010-2200<br>
+          <a href="#">ridgewoodplumbing.example</a>
+        </div>
+      </div>
+      <div class="directory-item">
+        <div>
+          <h3>Queens Rapid Plumbers</h3>
+          <p class="meta">Licensed &amp; insured &middot; 24/7 emergency calls &middot; Serves all of Queens</p>
+        </div>
+        <div class="contact">
+          (555) 010-3311<br>
+          <a href="#">queensrapidplumbers.example</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-intro" id="electrical" style="margin-top:44px;">
+      <span class="eyebrow">Specialty</span>
+      <h2>Electrical</h2>
+    </div>
+    <div class="directory-list">
+      <div class="directory-item">
+        <div>
+          <h3>Forest Park Electric</h3>
+          <p class="meta">Licensed electrician &middot; Serves Woodhaven, Forest Hills &middot; Panels, outlets, wiring</p>
+        </div>
+        <div class="contact">
+          (555) 010-4422<br>
+          <a href="#">forestparkelectric.example</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-intro" id="locksmith" style="margin-top:44px;">
+      <span class="eyebrow">Specialty</span>
+      <h2>Locksmith &amp; Door Repair</h2>
+    </div>
+    <div class="directory-list">
+      <div class="directory-item">
+        <div>
+          <h3>Woodhaven Lock &amp; Key</h3>
+          <p class="meta">Licensed locksmith &middot; Local, walk-in shop &middot; Locks, deadbolts, door alignment</p>
+        </div>
+        <div class="contact">
+          (555) 010-5533<br>
+          <a href="#">Jamaica Ave, Woodhaven</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-intro" id="handyman" style="margin-top:44px;">
+      <span class="eyebrow">Specialty</span>
+      <h2>General Handyman</h2>
+    </div>
+    <div class="directory-list">
+      <div class="directory-item">
+        <div>
+          <h3>Queens General Repairs</h3>
+          <p class="meta">Insured &middot; Serves Woodhaven &amp; nearby &middot; Painting, drywall, small carpentry</p>
+        </div>
+        <div class="contact">
+          (555) 010-6644<br>
+          <a href="#">queensgeneralrepairs.example</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <h4>MM Housewares Hardware</h4>
+        <p>Woodhaven, Queens, NY<br>Store address &amp; hours coming soon</p>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="catalog.html">Product Catalog</a></li>
+          <li><a href="guides.html">How-To Guides</a></li>
+          <li><a href="technicians.html">Find a Technician</a></li>
+          <li><a href="careers.html">Careers &amp; Vocational</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Contact</h4>
+        <ul>
+          <li>Phone: (555) 555-5555</li>
+          <li>Email: info@mmhousewares.example</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      &copy; 2026 MM Housewares Hardware. All rights reserved.
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
