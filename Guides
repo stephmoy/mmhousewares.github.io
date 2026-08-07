@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How-To Guides | MM Housewares Hardware</title>
+<meta name="description" content="Step-by-step how-to guides from MM Housewares Hardware for common home repair projects.">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container">
+    <div class="logo">
+      <a href="index.html">MM Housewares Hardware</a>
+      <span>Woodhaven, Queens</span>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="catalog.html">Product Catalog</a></li>
+        <li><a href="guides.html" class="active">How-To Guides</a></li>
+        <li><a href="technicians.html">Find a Technician</a></li>
+        <li><a href="careers.html">Careers &amp; Vocational</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="container">
+    <span class="tagline">How-To Guides</span>
+    <h1>Step-by-step help for common projects</h1>
+    <p>Written by the same people who stock the shelves. If a job is beyond a weekend fix, every guide links out to a local technician who can take it from there.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="placeholder-note">
+      These are sample guides to demonstrate the layout. Replace with your own step-by-step instructions, photos, and video links.
+    </div>
+
+    <div class="directory-list">
+
+      <div class="directory-item" id="faucet-leak" style="display:block;">
+        <span class="tag">Plumbing</span>
+        <h3>How to Fix a Leaky Faucet</h3>
+        <p class="meta">Tools needed: adjustable wrench, screwdriver, replacement washer or O-ring &middot; ~30 minutes</p>
+        <ol>
+          <li>Shut off the water supply valves under the sink.</li>
+          <li>Remove the faucet handle to expose the cartridge or valve stem.</li>
+          <li>Replace the worn washer or O-ring with a matching size from the kit.</li>
+          <li>Reassemble and turn the water back on slowly, checking for drips.</li>
+        </ol>
+        <p><a href="catalog.html">Shop plumbing supplies &rarr;</a> &nbsp;|&nbsp; <a href="technicians.html#plumbing">Still leaking? Find a plumber &rarr;</a></p>
+      </div>
+
+      <div class="directory-item" id="hanging-heavy" style="display:block;">
+        <span class="tag">Fasteners</span>
+        <h3>How to Hang Something Heavy on Drywall</h3>
+        <p class="meta">Tools needed: stud finder, drill, level &middot; ~20 minutes</p>
+        <ol>
+          <li>Use a stud finder to locate studs; hang directly into a stud when possible.</li>
+          <li>If no stud is available, use a rated toggle bolt anchor for the item's weight.</li>
+          <li>Mark and level your hanging points before drilling.</li>
+          <li>Drill pilot holes, insert anchors, and mount your item.</li>
+        </ol>
+        <p><a href="catalog.html">Shop fasteners &rarr;</a></p>
+      </div>
+
+      <div class="directory-item" id="door-lock" style="display:block;">
+        <span class="tag">Door Hardware</span>
+        <h3>How to Fix a Door That Won't Lock</h3>
+        <p class="meta">Tools needed: screwdriver, file (optional) &middot; ~15 minutes</p>
+        <ol>
+          <li>Close the door and check whether the latch aligns with the strike plate.</li>
+          <li>If it's off by a small amount, file the strike plate opening slightly.</li>
+          <li>If it's off by more, reposition or replace the strike plate.</li>
+          <li>Tighten loose hinge screws, which are a common hidden cause of misalignment.</li>
+        </ol>
+        <p><a href="catalog.html">Shop door hardware &rarr;</a> &nbsp;|&nbsp; <a href="technicians.html#locksmith">Need a locksmith? &rarr;</a></p>
+      </div>
+
+      <div class="directory-item" id="outlet" style="display:block;">
+        <span class="tag">Electrical</span>
+        <h3>How to Safely Check a Dead Outlet</h3>
+        <p class="meta">Tools needed: non-contact voltage tester &middot; ~10 minutes &middot; Safety first</p>
+        <ol>
+          <li>Check the breaker panel for a tripped breaker first.</li>
+          <li>Use a non-contact voltage tester to confirm the outlet is not live before touching it.</li>
+          <li>If the breaker is fine and the outlet still doesn't work, the issue is likely wiring — this is a job for a licensed electrician.</li>
+        </ol>
+        <p><a href="technicians.html#electrical">Find an electrician &rarr;</a></p>
+      </div>
+
+      <div class="directory-item" id="painting" style="display:block;">
+        <span class="tag">Paint &amp; Supplies</span>
+        <h3>How to Paint a Room Like a Pro</h3>
+        <p class="meta">Tools needed: roller, brush, painter's tape, drop cloth &middot; ~1 day</p>
+        <ol>
+          <li>Clean walls and patch any holes; let patches dry fully.</li>
+          <li>Tape off trim, outlets, and ceiling lines.</li>
+          <li>Cut in edges with a brush, then roll large areas in a &quot;W&quot; pattern.</li>
+          <li>Apply a second coat after the first has fully dried, usually 2-4 hours.</li>
+        </ol>
+        <p><a href="catalog.html">Shop paint &amp; supplies &rarr;</a></p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <h4>MM Housewares Hardware</h4>
+        <p>Woodhaven, Queens, NY<br>Store address &amp; hours coming soon</p>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="catalog.html">Product Catalog</a></li>
+          <li><a href="guides.html">How-To Guides</a></li>
+          <li><a href="technicians.html">Find a Technician</a></li>
+          <li><a href="careers.html">Careers &amp; Vocational</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Contact</h4>
+        <ul>
+          <li>Phone: (555) 555-5555</li>
+          <li>Email: info@mmhousewares.example</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      &copy; 2026 MM Housewares Hardware. All rights reserved.
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
