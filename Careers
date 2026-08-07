@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Careers &amp; Vocational Training | MM Housewares Hardware</title>
+<meta name="description" content="Explore vocational schools, certificate programs, and mentors for a career in the trades, curated by MM Housewares Hardware.">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container">
+    <div class="logo">
+      <a href="index.html">MM Housewares Hardware</a>
+      <span>Woodhaven, Queens</span>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="catalog.html">Product Catalog</a></li>
+        <li><a href="guides.html">How-To Guides</a></li>
+        <li><a href="technicians.html">Find a Technician</a></li>
+        <li><a href="careers.html" class="active">Careers &amp; Vocational</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="container">
+    <span class="tagline">Careers &amp; Vocational Training</span>
+    <h1>Thinking about a career in the trades?</h1>
+    <p>Plumbing, electrical, carpentry, and HVAC are in steady demand — and you don't always need a four-year degree to get started. Here's where to look locally for schools, certificate programs, and people willing to mentor you.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="placeholder-note">
+      Sample listings shown below. Replace with real local programs, tuition info, and mentor contacts before publishing.
+    </div>
+
+    <div class="section-intro">
+      <span class="eyebrow">Get started</span>
+      <h2>Vocational Schools &amp; Trade Programs</h2>
+    </div>
+    <div class="card-grid">
+      <div class="card">
+        <span class="tag">Plumbing</span>
+        <h3>Queens Vocational &amp; Technical HS — Adult Ext.</h3>
+        <p>Evening plumbing fundamentals program open to career-changers. Prepares students for apprenticeship applications.</p>
+        <a href="#" class="card-link">Program details &rarr;</a>
+      </div>
+      <div class="card">
+        <span class="tag">Electrical</span>
+        <h3>NYC Electrical Training Center</h3>
+        <p>Pre-apprenticeship coursework covering electrical theory, code, and safety.</p>
+        <a href="#" class="card-link">Program details &rarr;</a>
+      </div>
+      <div class="card">
+        <span class="tag">Carpentry</span>
+        <h3>NYC Carpenters Joint Apprenticeship</h3>
+        <p>Paid apprenticeship combining on-the-job training with classroom instruction.</p>
+        <a href="#" class="card-link">Program details &rarr;</a>
+      </div>
+      <div class="card">
+        <span class="tag">HVAC</span>
+        <h3>Queens Community HVAC Certificate</h3>
+        <p>Part-time certificate program, evenings and weekends, EPA 608 certification included.</p>
+        <a href="#" class="card-link">Program details &rarr;</a>
+      </div>
+    </div>
+
+    <div class="section-intro" style="margin-top:48px;">
+      <span class="eyebrow">Credentials</span>
+      <h2>Certificate &amp; Licensing Programs</h2>
+    </div>
+    <div class="card-grid">
+      <div class="card">
+        <span class="tag">Licensing</span>
+        <h3>NYC DOB Licensing Prep Course</h3>
+        <p>Test prep for master plumber and electrician licensing exams required in NYC.</p>
+        <a href="#" class="card-link">Learn more &rarr;</a>
+      </div>
+      <div class="card">
+        <span class="tag">Safety</span>
+        <h3>OSHA 10 Construction Safety Certificate</h3>
+        <p>Widely required entry credential for construction and trade jobs.</p>
+        <a href="#" class="card-link">Learn more &rarr;</a>
+      </div>
+    </div>
+
+    <div class="section-intro" style="margin-top:48px;">
+      <span class="eyebrow">Connect</span>
+      <h2>Mentors</h2>
+      <p>Local tradespeople who've volunteered to answer questions from students and career-changers.</p>
+    </div>
+    <div class="directory-list">
+      <div class="directory-item">
+        <div>
+          <h3>Carlos M. — Master Plumber, 18 years</h3>
+          <p class="meta">Open to mentoring 1-2 students per season &middot; Woodhaven-based</p>
+        </div>
+        <div class="contact">
+          <a href="mailto:mentor1@mmhousewares.example">Request an intro</a>
+        </div>
+      </div>
+      <div class="directory-item">
+        <div>
+          <h3>Denise R. — Licensed Electrician, 10 years</h3>
+          <p class="meta">Happy to answer questions about apprenticeship applications</p>
+        </div>
+        <div class="contact">
+          <a href="mailto:mentor2@mmhousewares.example">Request an intro</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <h4>MM Housewares Hardware</h4>
+        <p>Woodhaven, Queens, NY<br>Store address &amp; hours coming soon</p>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="catalog.html">Product Catalog</a></li>
+          <li><a href="guides.html">How-To Guides</a></li>
+          <li><a href="technicians.html">Find a Technician</a></li>
+          <li><a href="careers.html">Careers &amp; Vocational</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Contact</h4>
+        <ul>
+          <li>Phone: (555) 555-5555</li>
+          <li>Email: info@mmhousewares.example</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      &copy; 2026 MM Housewares Hardware. All rights reserved.
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
