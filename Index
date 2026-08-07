@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MM Housewares Hardware | Woodhaven, Queens NY</title>
+<meta name="description" content="MM Housewares Hardware is a family-run hardware store in Woodhaven, Queens, NY — find products by problem, how-to guides, trusted local technicians, and vocational career resources.">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container">
+    <div class="logo">
+      <a href="index.html">MM Housewares Hardware</a>
+      <span>Woodhaven, Queens</span>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="catalog.html">Product Catalog</a></li>
+        <li><a href="guides.html">How-To Guides</a></li>
+        <li><a href="technicians.html">Find a Technician</a></li>
+        <li><a href="careers.html">Careers &amp; Vocational</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="container">
+    <span class="tagline">Serving Woodhaven since day one</span>
+    <h1>Your neighborhood hardware store, made easy to navigate online.</h1>
+    <p>Find the right product for the problem you're solving, learn how to use it, get connected to a trusted local technician if you need help, and explore hands-on career paths in the trades.</p>
+    <div class="hero-buttons">
+      <a href="catalog.html" class="btn btn-primary">Browse the Catalog</a>
+      <a href="technicians.html" class="btn btn-outline">Find a Technician</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-intro">
+      <span class="eyebrow">What we offer</span>
+      <h2>Four ways to get what you need</h2>
+    </div>
+    <div class="card-grid">
+      <div class="card">
+        <span class="icon">🧰</span>
+        <h3>Product Catalog</h3>
+        <p>Browse by the problem you're solving — a leaky faucet, a squeaky door, a wall that needs mounting — not just by aisle number.</p>
+        <a href="catalog.html" class="card-link">Browse products &rarr;</a>
+      </div>
+      <div class="card">
+        <span class="icon">📖</span>
+        <h3>How-To Guides</h3>
+        <p>Step-by-step guides for using the products we sell, written for real projects around the house.</p>
+        <a href="guides.html" class="card-link">Read the guides &rarr;</a>
+      </div>
+      <div class="card">
+        <span class="icon">🔧</span>
+        <h3>Local Technicians</h3>
+        <p>Some jobs need a pro. We keep a directory of trusted local technicians for plumbing, electrical, and more.</p>
+        <a href="technicians.html" class="card-link">Find a technician &rarr;</a>
+      </div>
+      <div class="card">
+        <span class="icon">🎓</span>
+        <h3>Careers &amp; Vocational Training</h3>
+        <p>Thinking about a career in the trades? Explore local vocational schools, certificate programs, and mentors.</p>
+        <a href="careers.html" class="card-link">Explore programs &rarr;</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container">
+    <div class="section-intro">
+      <span class="eyebrow">About us</span>
+      <h2>A hardware store rooted in Woodhaven</h2>
+      <p>MM Housewares Hardware has been the go-to stop in Woodhaven, Queens for tools, hardware, and honest advice. This site is our way of bringing that same neighborly help online — so whether you're fixing something tonight or thinking about a whole new career, you know where to start.</p>
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <h4>MM Housewares Hardware</h4>
+        <p>Woodhaven, Queens, NY<br>Store address &amp; hours coming soon</p>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="catalog.html">Product Catalog</a></li>
+          <li><a href="guides.html">How-To Guides</a></li>
+          <li><a href="technicians.html">Find a Technician</a></li>
+          <li><a href="careers.html">Careers &amp; Vocational</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Contact</h4>
+        <ul>
+          <li>Phone: (555) 555-5555</li>
+          <li>Email: info@mmhousewares.example</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      &copy; 2026 MM Housewares Hardware. All rights reserved.
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
