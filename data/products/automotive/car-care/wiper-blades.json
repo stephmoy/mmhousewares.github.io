@@ -1,0 +1,27 @@
+{
+  "department": "Automotive",
+  "category": "Car Care",
+  "subcategory": "Wiper Blades",
+  "aisle": "Aisle 14",
+  "products": [
+    {
+      "id": "automotive__wiper-blades__22-wiper-blade",
+      "name": "22\" Wiper Blade",
+      "description": "Replacement wiper blade for most standard vehicles.",
+      "department": "Automotive",
+      "category": "Car Care",
+      "subcategory": "Wiper Blades",
+      "aisle": "Aisle 14",
+      "folder_path": "products/automotive/car-care/wiper-blades.json",
+      "specs": {
+        "size": "22 in"
+      },
+      "tags": [
+        "wiper blade",
+        "car maintenance"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

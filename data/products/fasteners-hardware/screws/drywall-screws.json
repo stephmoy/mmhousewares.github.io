@@ -1,0 +1,70 @@
+{
+  "department": "Fasteners & Hardware",
+  "category": "Screws",
+  "subcategory": "Drywall Screws",
+  "aisle": "Aisle 1",
+  "products": [
+    {
+      "id": "fasteners-hardware__drywall-screws__1-1-4-coarse-drywall-screws-1lb-box",
+      "name": "1-1/4\" Coarse Drywall Screws (1lb box)",
+      "description": "Standard drywall screws for hanging sheetrock to wood studs.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Drywall Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/drywall-screws.json",
+      "specs": {
+        "length": "1-1/4 in",
+        "thread": "coarse"
+      },
+      "tags": [
+        "drywall screw",
+        "sheetrock",
+        "wall repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__drywall-screws__2-fine-thread-drywall-screws",
+      "name": "2\" Fine-Thread Drywall Screws",
+      "description": "Fine-thread screws for attaching drywall to metal studs.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Drywall Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/drywall-screws.json",
+      "specs": {
+        "length": "2 in",
+        "thread": "fine"
+      },
+      "tags": [
+        "drywall screw",
+        "metal stud",
+        "wall repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__drywall-screws__self-tapping-drywall-screws-bulk-box",
+      "name": "Self-Tapping Drywall Screws (bulk box)",
+      "description": "Sharp-point screws that bite into drywall without pre-drilling.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Drywall Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/drywall-screws.json",
+      "specs": {
+        "count": "500"
+      },
+      "tags": [
+        "drywall screw",
+        "self-tapping",
+        "wall repair"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

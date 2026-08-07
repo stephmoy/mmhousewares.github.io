@@ -1,0 +1,28 @@
+{
+  "department": "Storage & Organization",
+  "category": "Bins & Totes",
+  "subcategory": "Storage Totes",
+  "aisle": "Aisle 13",
+  "products": [
+    {
+      "id": "storage-organization__storage-totes__27-gallon-storage-tote-with-lid",
+      "name": "27-Gallon Storage Tote with Lid",
+      "description": "Stackable plastic tote for garage and basement storage.",
+      "department": "Storage & Organization",
+      "category": "Bins & Totes",
+      "subcategory": "Storage Totes",
+      "aisle": "Aisle 13",
+      "folder_path": "products/storage-organization/bins-totes/storage-totes.json",
+      "specs": {
+        "size": "27 gal"
+      },
+      "tags": [
+        "storage bin",
+        "tote",
+        "organization"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "department": "Paint & Sundries",
+  "category": "Exterior Paint",
+  "subcategory": "Deck & Fence Stains",
+  "aisle": "Aisle 3",
+  "products": [
+    {
+      "id": "paint-sundries__deck-fence-stains__semi-transparent-deck-stain-1-gal",
+      "name": "Semi-Transparent Deck Stain (1 gal)",
+      "description": "Penetrating stain that protects wood decks while showing grain.",
+      "department": "Paint & Sundries",
+      "category": "Exterior Paint",
+      "subcategory": "Deck & Fence Stains",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/exterior-paint/deck-fence-stains.json",
+      "specs": {
+        "size": "1 gal"
+      },
+      "tags": [
+        "stain",
+        "deck stain",
+        "wood protection"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "paint-sundries__deck-fence-stains__solid-fence-stain-1-gal",
+      "name": "Solid Fence Stain (1 gal)",
+      "description": "Opaque, weather-resistant stain for fences and outdoor wood structures.",
+      "department": "Paint & Sundries",
+      "category": "Exterior Paint",
+      "subcategory": "Deck & Fence Stains",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/exterior-paint/deck-fence-stains.json",
+      "specs": {
+        "size": "1 gal"
+      },
+      "tags": [
+        "stain",
+        "fence stain",
+        "wood protection"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "department": "Plumbing",
+  "category": "Pipes & Fittings",
+  "subcategory": "Copper Pipe & Fittings",
+  "aisle": "Aisle 4",
+  "products": [
+    {
+      "id": "plumbing__copper-pipe-fittings__1-2-copper-pipe-10-ft",
+      "name": "1/2\" Copper Pipe (10 ft)",
+      "description": "Type L copper pipe for water supply lines.",
+      "department": "Plumbing",
+      "category": "Pipes & Fittings",
+      "subcategory": "Copper Pipe & Fittings",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/pipes-fittings/copper-pipe-fittings.json",
+      "specs": {
+        "diameter": "0.5 in",
+        "length": "10 ft"
+      },
+      "tags": [
+        "copper pipe",
+        "water supply",
+        "plumbing"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "department": "Paint & Sundries",
+  "category": "Interior Paint",
+  "subcategory": "Interior Wall Paint",
+  "aisle": "Aisle 3",
+  "products": [
+    {
+      "id": "paint-sundries__interior-wall-paint__interior-latex-paint-eggshell-1-gal",
+      "name": "Interior Latex Paint - Eggshell (1 gal)",
+      "description": "Washable eggshell-finish paint for bedrooms, living rooms, and hallways.",
+      "department": "Paint & Sundries",
+      "category": "Interior Paint",
+      "subcategory": "Interior Wall Paint",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/interior-paint/interior-wall-paint.json",
+      "specs": {
+        "finish": "eggshell",
+        "size": "1 gal"
+      },
+      "tags": [
+        "paint",
+        "interior paint",
+        "wall paint"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "paint-sundries__interior-wall-paint__interior-latex-paint-flat-1-gal",
+      "name": "Interior Latex Paint - Flat (1 gal)",
+      "description": "Low-sheen paint that hides imperfections, good for ceilings and low-traffic walls.",
+      "department": "Paint & Sundries",
+      "category": "Interior Paint",
+      "subcategory": "Interior Wall Paint",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/interior-paint/interior-wall-paint.json",
+      "specs": {
+        "finish": "flat",
+        "size": "1 gal"
+      },
+      "tags": [
+        "paint",
+        "interior paint",
+        "ceiling paint"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

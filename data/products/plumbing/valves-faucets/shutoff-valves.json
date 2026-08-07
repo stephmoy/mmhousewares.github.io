@@ -1,0 +1,26 @@
+{
+  "department": "Plumbing",
+  "category": "Valves & Faucets",
+  "subcategory": "Shutoff Valves",
+  "aisle": "Aisle 4",
+  "products": [
+    {
+      "id": "plumbing__shutoff-valves__1-2-quarter-turn-shutoff-valve",
+      "name": "1/2\" Quarter-Turn Shutoff Valve",
+      "description": "Supply-line valve for sinks and toilets, allows quick water shutoff.",
+      "department": "Plumbing",
+      "category": "Valves & Faucets",
+      "subcategory": "Shutoff Valves",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/valves-faucets/shutoff-valves.json",
+      "specs": {},
+      "tags": [
+        "valve",
+        "shutoff valve",
+        "water supply"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

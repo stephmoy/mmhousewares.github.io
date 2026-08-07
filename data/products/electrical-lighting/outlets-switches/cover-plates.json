@@ -1,0 +1,26 @@
+{
+  "department": "Electrical & Lighting",
+  "category": "Outlets & Switches",
+  "subcategory": "Cover Plates",
+  "aisle": "Aisle 5",
+  "products": [
+    {
+      "id": "electrical-lighting__cover-plates__outlet-switch-wall-plates",
+      "name": "Outlet & Switch Wall Plates",
+      "description": "Replacement cover plates for outlets and switches.",
+      "department": "Electrical & Lighting",
+      "category": "Outlets & Switches",
+      "subcategory": "Cover Plates",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/outlets-switches/cover-plates.json",
+      "specs": {},
+      "tags": [
+        "cover plate",
+        "wall plate",
+        "electrical"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "department": "Hand & Power Tools",
+  "category": "Ladders & Access",
+  "subcategory": "Step Ladders",
+  "aisle": "Aisle 2",
+  "products": [
+    {
+      "id": "hand-power-tools__step-ladders__6-ft-aluminum-step-ladder",
+      "name": "6 ft Aluminum Step Ladder",
+      "description": "Lightweight step ladder for indoor and light outdoor tasks.",
+      "department": "Hand & Power Tools",
+      "category": "Ladders & Access",
+      "subcategory": "Step Ladders",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/ladders-access/step-ladders.json",
+      "specs": {
+        "height": "6 ft"
+      },
+      "tags": [
+        "ladder",
+        "step ladder",
+        "access"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

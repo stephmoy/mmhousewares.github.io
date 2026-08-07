@@ -1,0 +1,28 @@
+{
+  "department": "Storage & Organization",
+  "category": "Bins & Totes",
+  "subcategory": "Small Parts Organizers",
+  "aisle": "Aisle 13",
+  "products": [
+    {
+      "id": "storage-organization__small-parts-organizers__small-parts-organizer-box-24-compartment",
+      "name": "Small Parts Organizer Box (24-compartment)",
+      "description": "Compartmented box for screws, nuts, and small hardware.",
+      "department": "Storage & Organization",
+      "category": "Bins & Totes",
+      "subcategory": "Small Parts Organizers",
+      "aisle": "Aisle 13",
+      "folder_path": "products/storage-organization/bins-totes/small-parts-organizers.json",
+      "specs": {
+        "compartments": 24
+      },
+      "tags": [
+        "organizer",
+        "small parts",
+        "hardware storage"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "department": "Fasteners & Hardware",
+  "category": "Screws",
+  "subcategory": "Deck Screws",
+  "aisle": "Aisle 1",
+  "products": [
+    {
+      "id": "fasteners-hardware__deck-screws__3-exterior-deck-screws-5lb-box",
+      "name": "3\" Exterior Deck Screws (5lb box)",
+      "description": "Weather-resistant coated screws for deck boards and outdoor framing.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Deck Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/deck-screws.json",
+      "specs": {
+        "length": "3 in",
+        "coating": "ACQ-safe"
+      },
+      "tags": [
+        "deck screw",
+        "exterior",
+        "outdoor",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__deck-screws__2-1-2-composite-deck-screws",
+      "name": "2-1/2\" Composite Deck Screws",
+      "description": "Color-matched screws designed for composite decking material.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Deck Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/deck-screws.json",
+      "specs": {
+        "length": "2.5 in"
+      },
+      "tags": [
+        "deck screw",
+        "composite decking",
+        "outdoor"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__deck-screws__star-drive-deck-screws",
+      "name": "Star-Drive Deck Screws",
+      "description": "Star-drive head resists cam-out for high-torque deck installs.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Deck Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/deck-screws.json",
+      "specs": {
+        "drive": "star/torx"
+      },
+      "tags": [
+        "deck screw",
+        "outdoor",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

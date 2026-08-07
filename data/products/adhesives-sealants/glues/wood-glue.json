@@ -1,0 +1,28 @@
+{
+  "department": "Adhesives & Sealants",
+  "category": "Glues",
+  "subcategory": "Wood Glue",
+  "aisle": "Aisle 7",
+  "products": [
+    {
+      "id": "adhesives-sealants__wood-glue__wood-glue-16-oz",
+      "name": "Wood Glue (16 oz)",
+      "description": "Interior wood glue for furniture repair and woodworking joints.",
+      "department": "Adhesives & Sealants",
+      "category": "Glues",
+      "subcategory": "Wood Glue",
+      "aisle": "Aisle 7",
+      "folder_path": "products/adhesives-sealants/glues/wood-glue.json",
+      "specs": {
+        "size": "16 oz"
+      },
+      "tags": [
+        "glue",
+        "wood glue",
+        "furniture repair"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

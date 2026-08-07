@@ -1,0 +1,28 @@
+{
+  "department": "Electrical & Lighting",
+  "category": "Extension Cords & Power",
+  "subcategory": "Power Strips & Surge Protectors",
+  "aisle": "Aisle 5",
+  "products": [
+    {
+      "id": "electrical-lighting__power-strips-surge-protectors__6-outlet-surge-protector-power-strip",
+      "name": "6-Outlet Surge Protector Power Strip",
+      "description": "Power strip with surge protection for electronics and appliances.",
+      "department": "Electrical & Lighting",
+      "category": "Extension Cords & Power",
+      "subcategory": "Power Strips & Surge Protectors",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/extension-cords-power/power-strips-surge-protectors.json",
+      "specs": {
+        "outlets": 6
+      },
+      "tags": [
+        "power strip",
+        "surge protector",
+        "electrical"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

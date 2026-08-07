@@ -1,0 +1,25 @@
+{
+  "department": "Safety & PPE",
+  "category": "Eye & Ear Protection",
+  "subcategory": "Hearing Protection",
+  "aisle": "Aisle 12",
+  "products": [
+    {
+      "id": "safety-ppe__hearing-protection__foam-earplugs-pair",
+      "name": "Foam Earplugs (pair)",
+      "description": "Disposable hearing protection for loud power tool use.",
+      "department": "Safety & PPE",
+      "category": "Eye & Ear Protection",
+      "subcategory": "Hearing Protection",
+      "aisle": "Aisle 12",
+      "folder_path": "products/safety-ppe/eye-ear-protection/hearing-protection.json",
+      "specs": {},
+      "tags": [
+        "earplugs",
+        "hearing protection"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

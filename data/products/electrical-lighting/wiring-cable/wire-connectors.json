@@ -1,0 +1,26 @@
+{
+  "department": "Electrical & Lighting",
+  "category": "Wiring & Cable",
+  "subcategory": "Wire Connectors",
+  "aisle": "Aisle 5",
+  "products": [
+    {
+      "id": "electrical-lighting__wire-connectors__wire-nuts-assortment",
+      "name": "Wire Nuts Assortment",
+      "description": "Twist-on connectors for joining electrical wires safely.",
+      "department": "Electrical & Lighting",
+      "category": "Wiring & Cable",
+      "subcategory": "Wire Connectors",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/wiring-cable/wire-connectors.json",
+      "specs": {},
+      "tags": [
+        "wire nut",
+        "wire connector",
+        "electrical"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

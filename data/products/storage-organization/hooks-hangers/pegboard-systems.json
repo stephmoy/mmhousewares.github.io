@@ -1,0 +1,26 @@
+{
+  "department": "Storage & Organization",
+  "category": "Hooks & Hangers",
+  "subcategory": "Pegboard Systems",
+  "aisle": "Aisle 13",
+  "products": [
+    {
+      "id": "storage-organization__pegboard-systems__pegboard-panel-with-hook-kit",
+      "name": "Pegboard Panel with Hook Kit",
+      "description": "Pegboard and hook set for organizing hand tools in a garage or shop.",
+      "department": "Storage & Organization",
+      "category": "Hooks & Hangers",
+      "subcategory": "Pegboard Systems",
+      "aisle": "Aisle 13",
+      "folder_path": "products/storage-organization/hooks-hangers/pegboard-systems.json",
+      "specs": {},
+      "tags": [
+        "pegboard",
+        "tool organization",
+        "garage"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

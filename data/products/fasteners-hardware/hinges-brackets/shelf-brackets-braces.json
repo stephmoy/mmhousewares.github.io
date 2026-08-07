@@ -1,0 +1,46 @@
+{
+  "department": "Fasteners & Hardware",
+  "category": "Hinges & Brackets",
+  "subcategory": "Shelf Brackets & Braces",
+  "aisle": "Aisle 1",
+  "products": [
+    {
+      "id": "fasteners-hardware__shelf-brackets-braces__10-steel-shelf-brackets-pair",
+      "name": "10\" Steel Shelf Brackets (pair)",
+      "description": "Heavy-duty L-brackets for mounting wood or wire shelving to a wall.",
+      "department": "Fasteners & Hardware",
+      "category": "Hinges & Brackets",
+      "subcategory": "Shelf Brackets & Braces",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/hinges-brackets/shelf-brackets-braces.json",
+      "specs": {
+        "size": "10 in"
+      },
+      "tags": [
+        "bracket",
+        "shelf bracket",
+        "shelving"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__shelf-brackets-braces__corner-braces-assortment",
+      "name": "Corner Braces Assortment",
+      "description": "Small L-shaped braces for reinforcing wood joints and frames.",
+      "department": "Fasteners & Hardware",
+      "category": "Hinges & Brackets",
+      "subcategory": "Shelf Brackets & Braces",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/hinges-brackets/shelf-brackets-braces.json",
+      "specs": {},
+      "tags": [
+        "bracket",
+        "corner brace",
+        "joint reinforcement"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

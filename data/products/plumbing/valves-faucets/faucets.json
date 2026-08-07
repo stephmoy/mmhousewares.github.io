@@ -1,0 +1,44 @@
+{
+  "department": "Plumbing",
+  "category": "Valves & Faucets",
+  "subcategory": "Faucets",
+  "aisle": "Aisle 4",
+  "products": [
+    {
+      "id": "plumbing__faucets__single-handle-kitchen-faucet",
+      "name": "Single-Handle Kitchen Faucet",
+      "description": "Replacement kitchen faucet with pull-down sprayer.",
+      "department": "Plumbing",
+      "category": "Valves & Faucets",
+      "subcategory": "Faucets",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/valves-faucets/faucets.json",
+      "specs": {},
+      "tags": [
+        "faucet",
+        "kitchen faucet",
+        "sink"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__faucets__bathroom-sink-faucet",
+      "name": "Bathroom Sink Faucet",
+      "description": "Two-handle replacement faucet for bathroom vanities.",
+      "department": "Plumbing",
+      "category": "Valves & Faucets",
+      "subcategory": "Faucets",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/valves-faucets/faucets.json",
+      "specs": {},
+      "tags": [
+        "faucet",
+        "bathroom faucet",
+        "sink"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

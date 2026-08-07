@@ -1,0 +1,25 @@
+{
+  "department": "Housewares & Kitchen",
+  "category": "Household Storage",
+  "subcategory": "Food Storage",
+  "aisle": "Aisle 15",
+  "products": [
+    {
+      "id": "housewares-kitchen__food-storage__airtight-food-storage-container-set",
+      "name": "Airtight Food Storage Container Set",
+      "description": "Stackable containers for pantry and leftover storage.",
+      "department": "Housewares & Kitchen",
+      "category": "Household Storage",
+      "subcategory": "Food Storage",
+      "aisle": "Aisle 15",
+      "folder_path": "products/housewares-kitchen/household-storage/food-storage.json",
+      "specs": {},
+      "tags": [
+        "food storage",
+        "kitchen organization"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,1133 @@
+{
+  "problems": [
+    {
+      "id": "fix-a-leaky-faucet",
+      "title": "Fix a Leaky Faucet",
+      "department": "Plumbing",
+      "description": "A dripping faucet is usually a worn washer or cartridge. Learn how to shut off water, disassemble the handle, and replace the part.",
+      "difficulty": "Beginner",
+      "tags": [
+        "faucet repair",
+        "leaky faucet",
+        "cartridge",
+        "washer",
+        "wrench"
+      ],
+      "how_to_guide": {
+        "title": "How to: Fix a Leaky Faucet",
+        "slug": "guide-fix-a-leaky-faucet",
+        "topics_covered": [
+          "turning off water supply",
+          "removing the handle",
+          "replacing the cartridge or washer"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "unclog-a-slow-or-blocked-drain",
+      "title": "Unclog a Slow or Blocked Drain",
+      "department": "Plumbing",
+      "description": "Clear hair, grease, and debris clogs using a plunger, drain snake, or chemical cleaner.",
+      "difficulty": "Beginner",
+      "tags": [
+        "clogged drain",
+        "plunger",
+        "drain snake",
+        "drain cleaner"
+      ],
+      "how_to_guide": {
+        "title": "How to: Unclog a Slow or Blocked Drain",
+        "slug": "guide-unclog-a-slow-or-blocked-drain",
+        "topics_covered": [
+          "when to plunge vs snake",
+          "using a hand auger",
+          "chemical vs mechanical clearing"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "stop-a-running-toilet",
+      "title": "Stop a Running Toilet",
+      "department": "Plumbing",
+      "description": "A toilet that runs constantly usually needs a new fill valve or flapper.",
+      "difficulty": "Beginner",
+      "tags": [
+        "running toilet",
+        "fill valve",
+        "flapper",
+        "toilet repair"
+      ],
+      "how_to_guide": {
+        "title": "How to: Stop a Running Toilet",
+        "slug": "guide-stop-a-running-toilet",
+        "topics_covered": [
+          "identifying fill valve vs flapper issues",
+          "replacing the flapper",
+          "adjusting the fill valve"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "fix-a-clogged-or-leaking-toilet",
+      "title": "Fix a Clogged or Leaking Toilet",
+      "department": "Plumbing",
+      "description": "Clear stubborn toilet clogs and diagnose leaks at the base or tank.",
+      "difficulty": "Beginner",
+      "tags": [
+        "clogged toilet",
+        "toilet repair",
+        "wax ring",
+        "plunger"
+      ],
+      "how_to_guide": {
+        "title": "How to: Fix a Clogged or Leaking Toilet",
+        "slug": "guide-fix-a-clogged-or-leaking-toilet",
+        "topics_covered": [
+          "using a flange plunger",
+          "checking the wax ring seal"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "install-a-new-faucet",
+      "title": "Install a New Faucet",
+      "department": "Plumbing",
+      "description": "Replace an old kitchen or bathroom faucet with a new one.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "faucet",
+        "kitchen faucet",
+        "bathroom faucet",
+        "shutoff valve",
+        "wrench"
+      ],
+      "how_to_guide": {
+        "title": "How to: Install a New Faucet",
+        "slug": "guide-install-a-new-faucet",
+        "topics_covered": [
+          "shutting off supply lines",
+          "removing the old faucet",
+          "sealing and connecting the new one"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "sweat-or-connect-copper-pex-pipe",
+      "title": "Sweat or Connect Copper/PEX Pipe",
+      "department": "Plumbing",
+      "description": "Repair or extend a water supply line using copper or PEX pipe and fittings.",
+      "difficulty": "Advanced",
+      "tags": [
+        "copper pipe",
+        "pex",
+        "water supply",
+        "plumbing pipe"
+      ],
+      "how_to_guide": {
+        "title": "How to: Sweat or Connect Copper/PEX Pipe",
+        "slug": "guide-sweat-or-connect-copper-pex-pipe",
+        "topics_covered": [
+          "choosing copper vs pex",
+          "cutting and joining pipe",
+          "testing for leaks"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "hang-a-shelf-on-drywall",
+      "title": "Hang a Shelf on Drywall",
+      "department": "Storage & Organization",
+      "description": "Mount a shelf securely on hollow drywall using the right anchors for the weight.",
+      "difficulty": "Beginner",
+      "tags": [
+        "shelf bracket",
+        "drywall anchor",
+        "toggle bolt",
+        "level",
+        "shelving"
+      ],
+      "how_to_guide": {
+        "title": "How to: Hang a Shelf on Drywall",
+        "slug": "guide-hang-a-shelf-on-drywall",
+        "topics_covered": [
+          "finding a stud vs using anchors",
+          "choosing anchor weight rating",
+          "leveling the shelf"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "mount-a-tv-on-the-wall",
+      "title": "Mount a TV on the Wall",
+      "department": "Storage & Organization",
+      "description": "Safely mount a flat-screen TV using the correct anchors or stud placement.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "toggle bolt",
+        "drywall anchor",
+        "level",
+        "tv mount"
+      ],
+      "how_to_guide": {
+        "title": "How to: Mount a TV on the Wall",
+        "slug": "guide-mount-a-tv-on-the-wall",
+        "topics_covered": [
+          "locating studs",
+          "weight-rated anchors",
+          "cable management"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "organize-a-garage-or-shed",
+      "title": "Organize a Garage or Shed",
+      "department": "Storage & Organization",
+      "description": "Use shelving, pegboard, and hooks to organize tools and equipment.",
+      "difficulty": "Beginner",
+      "tags": [
+        "shelving",
+        "pegboard",
+        "hook",
+        "garage organization",
+        "storage bin"
+      ],
+      "how_to_guide": {
+        "title": "How to: Organize a Garage or Shed",
+        "slug": "guide-organize-a-garage-or-shed",
+        "topics_covered": [
+          "planning a layout",
+          "wall-mounted vs freestanding storage"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "fix-a-loose-door-hinge",
+      "title": "Fix a Loose Door Hinge",
+      "department": "Fasteners & Hardware",
+      "description": "Tighten or replace stripped screws on a sagging door hinge.",
+      "difficulty": "Beginner",
+      "tags": [
+        "hinge",
+        "door hinge",
+        "door repair",
+        "wood screw"
+      ],
+      "how_to_guide": {
+        "title": "How to: Fix a Loose Door Hinge",
+        "slug": "guide-fix-a-loose-door-hinge",
+        "topics_covered": [
+          "filling stripped screw holes",
+          "replacing hinge screws"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "repair-a-squeaky-or-sticking-door",
+      "title": "Repair a Squeaky or Sticking Door",
+      "department": "Fasteners & Hardware",
+      "description": "Fix hinge squeaks and doors that stick or don't latch properly.",
+      "difficulty": "Beginner",
+      "tags": [
+        "hinge",
+        "door repair",
+        "hardware"
+      ],
+      "how_to_guide": {
+        "title": "How to: Repair a Squeaky or Sticking Door",
+        "slug": "guide-repair-a-squeaky-or-sticking-door",
+        "topics_covered": [
+          "lubricating hinges",
+          "adjusting strike plates"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "patch-a-hole-in-drywall",
+      "title": "Patch a Hole in Drywall",
+      "department": "Building Materials",
+      "description": "Repair small to medium holes in a wall using patch, joint compound, and tape.",
+      "difficulty": "Beginner",
+      "tags": [
+        "drywall repair",
+        "joint compound",
+        "drywall tape",
+        "spackle",
+        "sandpaper"
+      ],
+      "how_to_guide": {
+        "title": "How to: Patch a Hole in Drywall",
+        "slug": "guide-patch-a-hole-in-drywall",
+        "topics_covered": [
+          "small nail-hole patches",
+          "larger patch kits",
+          "sanding and priming"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "build-a-deck",
+      "title": "Build a Deck",
+      "department": "Building Materials",
+      "description": "Plan and build a wood deck using pressure-treated lumber and deck screws.",
+      "difficulty": "Advanced",
+      "tags": [
+        "deck screw",
+        "pressure treated",
+        "lumber",
+        "carriage bolt"
+      ],
+      "how_to_guide": {
+        "title": "How to: Build a Deck",
+        "slug": "guide-build-a-deck",
+        "topics_covered": [
+          "footing and framing basics",
+          "decking fasteners",
+          "local permit considerations"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "build-or-repair-a-fence",
+      "title": "Build or Repair a Fence",
+      "department": "Building Materials",
+      "description": "Construct or repair a wood fence using posts, boards, and fasteners.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "fence stain",
+        "carriage bolt",
+        "lumber",
+        "deck screw"
+      ],
+      "how_to_guide": {
+        "title": "How to: Build or Repair a Fence",
+        "slug": "guide-build-or-repair-a-fence",
+        "topics_covered": [
+          "setting posts",
+          "attaching fence boards",
+          "staining for weather protection"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "insulate-an-attic-or-wall",
+      "title": "Insulate an Attic or Wall",
+      "department": "Building Materials",
+      "description": "Improve energy efficiency by adding insulation to attics, walls, or rim joists.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "insulation",
+        "fiberglass",
+        "spray foam",
+        "energy efficiency"
+      ],
+      "how_to_guide": {
+        "title": "How to: Insulate an Attic or Wall",
+        "slug": "guide-insulate-an-attic-or-wall",
+        "topics_covered": [
+          "choosing R-value",
+          "safety gear for insulation work",
+          "air sealing before insulating"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "repair-a-roof-leak",
+      "title": "Repair a Roof Leak",
+      "department": "Building Materials",
+      "description": "Locate and patch a minor roof leak using roofing cement or replacement shingles.",
+      "difficulty": "Advanced",
+      "tags": [
+        "roofing cement",
+        "shingles",
+        "roof repair",
+        "leak"
+      ],
+      "how_to_guide": {
+        "title": "How to: Repair a Roof Leak",
+        "slug": "guide-repair-a-roof-leak",
+        "topics_covered": [
+          "finding the leak source",
+          "patching with roofing cement",
+          "when to call a professional"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "paint-a-room",
+      "title": "Paint a Room",
+      "department": "Paint & Sundries",
+      "description": "Prep, prime, and paint interior walls for a clean, professional finish.",
+      "difficulty": "Beginner",
+      "tags": [
+        "paint",
+        "interior paint",
+        "primer",
+        "painter's tape",
+        "roller"
+      ],
+      "how_to_guide": {
+        "title": "How to: Paint a Room",
+        "slug": "guide-paint-a-room",
+        "topics_covered": [
+          "prepping and taping",
+          "choosing sheen",
+          "cutting in vs rolling"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "stain-or-reseal-a-wood-deck",
+      "title": "Stain or Reseal a Wood Deck",
+      "department": "Paint & Sundries",
+      "description": "Protect an outdoor deck from weather with stain or sealer.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "deck stain",
+        "stain",
+        "wood protection"
+      ],
+      "how_to_guide": {
+        "title": "How to: Stain or Reseal a Wood Deck",
+        "slug": "guide-stain-or-reseal-a-wood-deck",
+        "topics_covered": [
+          "cleaning before staining",
+          "choosing solid vs semi-transparent stain"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "remove-old-paint-or-varnish",
+      "title": "Remove Old Paint or Varnish",
+      "department": "Paint & Sundries",
+      "description": "Strip old finishes from wood or metal before refinishing.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "paint stripper",
+        "solvent",
+        "refinishing"
+      ],
+      "how_to_guide": {
+        "title": "How to: Remove Old Paint or Varnish",
+        "slug": "guide-remove-old-paint-or-varnish",
+        "topics_covered": [
+          "chemical stripping safety",
+          "sanding after stripping"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "clean-paint-brushes-and-tools",
+      "title": "Clean Paint Brushes and Tools",
+      "department": "Paint & Sundries",
+      "description": "Properly clean brushes, rollers, and spills after a paint job.",
+      "difficulty": "Beginner",
+      "tags": [
+        "mineral spirits",
+        "brush cleaner",
+        "solvent",
+        "cleaner"
+      ],
+      "how_to_guide": {
+        "title": "How to: Clean Paint Brushes and Tools",
+        "slug": "guide-clean-paint-brushes-and-tools",
+        "topics_covered": [
+          "cleaning oil-based vs latex paint",
+          "disposing of solvents safely"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "replace-a-light-fixture-or-switch",
+      "title": "Replace a Light Fixture or Switch",
+      "department": "Electrical & Lighting",
+      "description": "Swap an old light switch, outlet, or fixture safely.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "light switch",
+        "outlet",
+        "electrical",
+        "wire nut"
+      ],
+      "how_to_guide": {
+        "title": "How to: Replace a Light Fixture or Switch",
+        "slug": "guide-replace-a-light-fixture-or-switch",
+        "topics_covered": [
+          "shutting off the breaker",
+          "testing for power",
+          "wiring connections"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "fix-a-dead-outlet",
+      "title": "Fix a Dead Outlet",
+      "department": "Electrical & Lighting",
+      "description": "Diagnose and repair an outlet that has stopped working.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "outlet",
+        "receptacle",
+        "electrical",
+        "circuit breaker"
+      ],
+      "how_to_guide": {
+        "title": "How to: Fix a Dead Outlet",
+        "slug": "guide-fix-a-dead-outlet",
+        "topics_covered": [
+          "checking the breaker/GFCI reset",
+          "testing with a multimeter"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "install-a-gfci-outlet",
+      "title": "Install a GFCI Outlet",
+      "department": "Electrical & Lighting",
+      "description": "Add ground-fault protection required near sinks and outdoor areas.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "gfci",
+        "outlet",
+        "bathroom",
+        "kitchen",
+        "electrical safety"
+      ],
+      "how_to_guide": {
+        "title": "How to: Install a GFCI Outlet",
+        "slug": "guide-install-a-gfci-outlet",
+        "topics_covered": [
+          "where GFCI is required",
+          "wiring line vs load"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "choose-the-right-light-bulb",
+      "title": "Choose the Right Light Bulb",
+      "department": "Electrical & Lighting",
+      "description": "Pick the correct bulb shape, base, brightness, and color temperature for a fixture.",
+      "difficulty": "Beginner",
+      "tags": [
+        "light bulb",
+        "led bulb",
+        "lamp",
+        "daylight"
+      ],
+      "how_to_guide": {
+        "title": "How to: Choose the Right Light Bulb",
+        "slug": "guide-choose-the-right-light-bulb",
+        "topics_covered": [
+          "understanding lumens vs watts",
+          "color temperature",
+          "base sizes"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "extend-an-extension-cord-safely",
+      "title": "Extend an Extension Cord Safely",
+      "department": "Electrical & Lighting",
+      "description": "Choose the right gauge and length of cord for outdoor and indoor power needs.",
+      "difficulty": "Beginner",
+      "tags": [
+        "extension cord",
+        "power strip",
+        "electrical"
+      ],
+      "how_to_guide": {
+        "title": "How to: Extend an Extension Cord Safely",
+        "slug": "guide-extend-an-extension-cord-safely",
+        "topics_covered": [
+          "indoor vs outdoor cords",
+          "amperage ratings"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "get-rid-of-ants-or-roaches",
+      "title": "Get Rid of Ants or Roaches",
+      "department": "Outdoor & Garden",
+      "description": "Treat and prevent common household insect infestations.",
+      "difficulty": "Beginner",
+      "tags": [
+        "pest control",
+        "insect spray",
+        "ants",
+        "roaches"
+      ],
+      "how_to_guide": {
+        "title": "How to: Get Rid of Ants or Roaches",
+        "slug": "guide-get-rid-of-ants-or-roaches",
+        "topics_covered": [
+          "indoor spot treatment",
+          "sealing entry points",
+          "outdoor perimeter treatment"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "get-rid-of-mice",
+      "title": "Get Rid of Mice",
+      "department": "Outdoor & Garden",
+      "description": "Trap and prevent mice from entering the home.",
+      "difficulty": "Beginner",
+      "tags": [
+        "pest control",
+        "mouse trap",
+        "rodents"
+      ],
+      "how_to_guide": {
+        "title": "How to: Get Rid of Mice",
+        "slug": "guide-get-rid-of-mice",
+        "topics_covered": [
+          "trap placement",
+          "sealing entry points"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "start-a-vegetable-or-flower-garden",
+      "title": "Start a Vegetable or Flower Garden",
+      "department": "Outdoor & Garden",
+      "description": "Prepare soil and plant a garden bed.",
+      "difficulty": "Beginner",
+      "tags": [
+        "garden soil",
+        "garden tool",
+        "trowel",
+        "planting"
+      ],
+      "how_to_guide": {
+        "title": "How to: Start a Vegetable or Flower Garden",
+        "slug": "guide-start-a-vegetable-or-flower-garden",
+        "topics_covered": [
+          "soil prep",
+          "planting basics",
+          "watering schedule"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "maintain-a-lawn-mower",
+      "title": "Maintain a Lawn Mower",
+      "department": "Outdoor & Garden",
+      "description": "Basic seasonal maintenance to keep a mower running well.",
+      "difficulty": "Beginner",
+      "tags": [
+        "lawn mower",
+        "mower blade",
+        "lawn care"
+      ],
+      "how_to_guide": {
+        "title": "How to: Maintain a Lawn Mower",
+        "slug": "guide-maintain-a-lawn-mower",
+        "topics_covered": [
+          "blade sharpening/replacement",
+          "oil changes",
+          "seasonal storage"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "set-up-a-sprinkler-or-watering-system",
+      "title": "Set Up a Sprinkler or Watering System",
+      "department": "Outdoor & Garden",
+      "description": "Water a lawn or garden efficiently with hoses and sprinklers.",
+      "difficulty": "Beginner",
+      "tags": [
+        "hose",
+        "sprinkler",
+        "watering"
+      ],
+      "how_to_guide": {
+        "title": "How to: Set Up a Sprinkler or Watering System",
+        "slug": "guide-set-up-a-sprinkler-or-watering-system",
+        "topics_covered": [
+          "choosing a sprinkler type",
+          "hose care"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "secure-a-home-entry-door",
+      "title": "Secure a Home Entry Door",
+      "department": "Locks & Security",
+      "description": "Upgrade locks and hardware to improve entry door security.",
+      "difficulty": "Beginner",
+      "tags": [
+        "deadbolt",
+        "lock",
+        "door security"
+      ],
+      "how_to_guide": {
+        "title": "How to: Secure a Home Entry Door",
+        "slug": "guide-secure-a-home-entry-door",
+        "topics_covered": [
+          "choosing a deadbolt grade",
+          "reinforcing the strike plate"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "install-a-smart-lock",
+      "title": "Install a Smart Lock",
+      "department": "Locks & Security",
+      "description": "Replace a standard deadbolt with a keyless smart lock.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "smart lock",
+        "deadbolt",
+        "keyless entry"
+      ],
+      "how_to_guide": {
+        "title": "How to: Install a Smart Lock",
+        "slug": "guide-install-a-smart-lock",
+        "topics_covered": [
+          "compatibility with door prep",
+          "pairing with a phone app"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "set-up-basic-home-security",
+      "title": "Set Up Basic Home Security",
+      "department": "Locks & Security",
+      "description": "Add cameras and door/window sensors for home monitoring.",
+      "difficulty": "Beginner",
+      "tags": [
+        "security camera",
+        "home security",
+        "alarm",
+        "door sensor"
+      ],
+      "how_to_guide": {
+        "title": "How to: Set Up Basic Home Security",
+        "slug": "guide-set-up-basic-home-security",
+        "topics_covered": [
+          "camera placement",
+          "wireless vs wired systems"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "seal-drafts-around-windows-and-doors",
+      "title": "Seal Drafts Around Windows and Doors",
+      "department": "Heating, Cooling & Weatherization",
+      "description": "Reduce energy loss with weatherstripping, caulk, and door sweeps.",
+      "difficulty": "Beginner",
+      "tags": [
+        "weatherstripping",
+        "draft sealing",
+        "door sweep",
+        "caulk"
+      ],
+      "how_to_guide": {
+        "title": "How to: Seal Drafts Around Windows and Doors",
+        "slug": "guide-seal-drafts-around-windows-and-doors",
+        "topics_covered": [
+          "finding draft sources",
+          "applying weatherstripping",
+          "installing a door sweep"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "improve-bathroom-ventilation",
+      "title": "Improve Bathroom Ventilation",
+      "department": "Heating, Cooling & Weatherization",
+      "description": "Reduce moisture and mold with proper exhaust fans.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "exhaust fan",
+        "bathroom",
+        "ventilation"
+      ],
+      "how_to_guide": {
+        "title": "How to: Improve Bathroom Ventilation",
+        "slug": "guide-improve-bathroom-ventilation",
+        "topics_covered": [
+          "sizing a fan for room size",
+          "venting to the exterior"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "change-an-hvac-filter",
+      "title": "Change an HVAC Filter",
+      "department": "Heating, Cooling & Weatherization",
+      "description": "Maintain air quality and system efficiency with regular filter changes.",
+      "difficulty": "Beginner",
+      "tags": [
+        "air filter",
+        "hvac",
+        "furnace filter"
+      ],
+      "how_to_guide": {
+        "title": "How to: Change an HVAC Filter",
+        "slug": "guide-change-an-hvac-filter",
+        "topics_covered": [
+          "finding the right filter size",
+          "how often to change"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "remove-mold-or-mildew-in-a-bathroom",
+      "title": "Remove Mold or Mildew in a Bathroom",
+      "department": "Cleaning Supplies",
+      "description": "Clean and prevent mold/mildew buildup in wet areas.",
+      "difficulty": "Beginner",
+      "tags": [
+        "mold remover",
+        "cleaner",
+        "bathroom"
+      ],
+      "how_to_guide": {
+        "title": "How to: Remove Mold or Mildew in a Bathroom",
+        "slug": "guide-remove-mold-or-mildew-in-a-bathroom",
+        "topics_covered": [
+          "safe cleaning practices",
+          "ventilation to prevent recurrence"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "deep-clean-a-kitchen",
+      "title": "Deep Clean a Kitchen",
+      "department": "Cleaning Supplies",
+      "description": "Tackle grease, grime, and stains on kitchen surfaces.",
+      "difficulty": "Beginner",
+      "tags": [
+        "cleaner",
+        "all-purpose cleaner",
+        "degreaser"
+      ],
+      "how_to_guide": {
+        "title": "How to: Deep Clean a Kitchen",
+        "slug": "guide-deep-clean-a-kitchen",
+        "topics_covered": [
+          "degreasing stovetops",
+          "cleaning countertops"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "protect-yourself-when-sanding-or-cutting",
+      "title": "Protect Yourself When Sanding or Cutting",
+      "department": "Safety & PPE",
+      "description": "Choose the right protective gear for dusty or loud power tool work.",
+      "difficulty": "Beginner",
+      "tags": [
+        "safety glasses",
+        "dust mask",
+        "earplugs",
+        "gloves"
+      ],
+      "how_to_guide": {
+        "title": "How to: Protect Yourself When Sanding or Cutting",
+        "slug": "guide-protect-yourself-when-sanding-or-cutting",
+        "topics_covered": [
+          "eye and ear protection basics",
+          "respirator ratings for dust vs fumes"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "handle-paint-fumes-and-chemicals-safely",
+      "title": "Handle Paint Fumes and Chemicals Safely",
+      "department": "Safety & PPE",
+      "description": "Protect yourself when working with solvents, paint, and strippers.",
+      "difficulty": "Beginner",
+      "tags": [
+        "respirator",
+        "paint fumes",
+        "nitrile gloves"
+      ],
+      "how_to_guide": {
+        "title": "How to: Handle Paint Fumes and Chemicals Safely",
+        "slug": "guide-handle-paint-fumes-and-chemicals-safely",
+        "topics_covered": [
+          "ventilation",
+          "choosing the right respirator cartridge"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "assemble-flat-pack-furniture",
+      "title": "Assemble Flat-Pack Furniture",
+      "department": "Hand & Power Tools",
+      "description": "Use the right hand tools to assemble furniture kits without stripping hardware.",
+      "difficulty": "Beginner",
+      "tags": [
+        "screwdriver",
+        "hammer",
+        "allen wrench",
+        "furniture assembly"
+      ],
+      "how_to_guide": {
+        "title": "How to: Assemble Flat-Pack Furniture",
+        "slug": "guide-assemble-flat-pack-furniture",
+        "topics_covered": [
+          "organizing hardware",
+          "avoiding stripped screws"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "cut-lumber-to-size",
+      "title": "Cut Lumber to Size",
+      "department": "Hand & Power Tools",
+      "description": "Choose the right saw for straight, curved, or rough cuts.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "saw",
+        "circular saw",
+        "jigsaw",
+        "lumber"
+      ],
+      "how_to_guide": {
+        "title": "How to: Cut Lumber to Size",
+        "slug": "guide-cut-lumber-to-size",
+        "topics_covered": [
+          "choosing a saw type",
+          "measuring and marking cuts"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "drill-into-different-materials",
+      "title": "Drill Into Different Materials",
+      "department": "Hand & Power Tools",
+      "description": "Select the right drill bit and technique for wood, metal, masonry, or tile.",
+      "difficulty": "Beginner",
+      "tags": [
+        "drill",
+        "drill bit",
+        "drilling"
+      ],
+      "how_to_guide": {
+        "title": "How to: Drill Into Different Materials",
+        "slug": "guide-drill-into-different-materials",
+        "topics_covered": [
+          "bit types by material",
+          "using a hammer drill for masonry"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "remove-a-stripped-screw",
+      "title": "Remove a Stripped Screw",
+      "department": "Hand & Power Tools",
+      "description": "Extract a screw with a damaged head using the right tools.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "screwdriver",
+        "screw extractor",
+        "pliers"
+      ],
+      "how_to_guide": {
+        "title": "How to: Remove a Stripped Screw",
+        "slug": "guide-remove-a-stripped-screw",
+        "topics_covered": [
+          "rubber band trick",
+          "screw extractor bits"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "set-up-a-home-workshop",
+      "title": "Set Up a Home Workshop",
+      "department": "Storage & Organization",
+      "description": "Organize tools, fasteners, and materials for a functional home workshop.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "pegboard",
+        "small parts organizer",
+        "shelving",
+        "garage organization"
+      ],
+      "how_to_guide": {
+        "title": "How to: Set Up a Home Workshop",
+        "slug": "guide-set-up-a-home-workshop",
+        "topics_covered": [
+          "workbench basics",
+          "tool storage systems"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "fasten-something-to-concrete-or-masonry",
+      "title": "Fasten Something to Concrete or Masonry",
+      "department": "Fasteners & Hardware",
+      "description": "Choose the right anchor and drill bit for mounting to concrete or brick.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "concrete anchor",
+        "masonry anchor",
+        "concrete nail"
+      ],
+      "how_to_guide": {
+        "title": "How to: Fasten Something to Concrete or Masonry",
+        "slug": "guide-fasten-something-to-concrete-or-masonry",
+        "topics_covered": [
+          "masonry drill bits",
+          "expansion vs adhesive anchors"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "choose-the-right-screw-for-the-job",
+      "title": "Choose the Right Screw for the Job",
+      "department": "Fasteners & Hardware",
+      "description": "Match screw type, length, and material to the project.",
+      "difficulty": "Beginner",
+      "tags": [
+        "wood screw",
+        "deck screw",
+        "self-tapping",
+        "drywall screw"
+      ],
+      "how_to_guide": {
+        "title": "How to: Choose the Right Screw for the Job",
+        "slug": "guide-choose-the-right-screw-for-the-job",
+        "topics_covered": [
+          "coarse vs fine thread",
+          "screw length rules of thumb"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "prepare-for-winter-weather",
+      "title": "Prepare for Winter Weather",
+      "department": "Seasonal",
+      "description": "Stock up on snow and ice removal supplies before winter storms.",
+      "difficulty": "Beginner",
+      "tags": [
+        "snow shovel",
+        "ice melt",
+        "snow removal",
+        "winter"
+      ],
+      "how_to_guide": {
+        "title": "How to: Prepare for Winter Weather",
+        "slug": "guide-prepare-for-winter-weather",
+        "topics_covered": [
+          "choosing ice melt safe for pets/plants",
+          "shovel types"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "set-up-a-grill-for-the-season",
+      "title": "Set Up a Grill for the Season",
+      "department": "Seasonal",
+      "description": "Get a gas or charcoal grill ready and maintained for grilling season.",
+      "difficulty": "Beginner",
+      "tags": [
+        "propane",
+        "grilling",
+        "grill brush"
+      ],
+      "how_to_guide": {
+        "title": "How to: Set Up a Grill for the Season",
+        "slug": "guide-set-up-a-grill-for-the-season",
+        "topics_covered": [
+          "checking propane connections",
+          "cleaning grates"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "refinish-or-fix-furniture",
+      "title": "Refinish or Fix Furniture",
+      "department": "Adhesives & Sealants",
+      "description": "Repair loose joints or refinish worn furniture surfaces.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "wood glue",
+        "furniture repair",
+        "glue"
+      ],
+      "how_to_guide": {
+        "title": "How to: Refinish or Fix Furniture",
+        "slug": "guide-refinish-or-fix-furniture",
+        "topics_covered": [
+          "clamping glued joints",
+          "matching stain finishes"
+        ]
+      },
+      "connect_a_technician": true
+    },
+    {
+      "id": "seal-a-bathroom-or-kitchen-for-water-protection",
+      "title": "Seal a Bathroom or Kitchen for Water Protection",
+      "department": "Adhesives & Sealants",
+      "description": "Re-caulk sinks, tubs, and counters to prevent water damage.",
+      "difficulty": "Beginner",
+      "tags": [
+        "caulk",
+        "silicone caulk",
+        "bathroom",
+        "waterproofing"
+      ],
+      "how_to_guide": {
+        "title": "How to: Seal a Bathroom or Kitchen for Water Protection",
+        "slug": "guide-seal-a-bathroom-or-kitchen-for-water-protection",
+        "topics_covered": [
+          "removing old caulk",
+          "applying a clean bead"
+        ]
+      },
+      "connect_a_technician": true
+    }
+  ]
+}

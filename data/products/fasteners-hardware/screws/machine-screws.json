@@ -1,0 +1,50 @@
+{
+  "department": "Fasteners & Hardware",
+  "category": "Screws",
+  "subcategory": "Machine Screws",
+  "aisle": "Aisle 1",
+  "products": [
+    {
+      "id": "fasteners-hardware__machine-screws__m4-x-20mm-machine-screws-25-pack",
+      "name": "M4 x 20mm Machine Screws (25-pack)",
+      "description": "Metric machine screws for electronics and small equipment assembly.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Machine Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/machine-screws.json",
+      "specs": {
+        "size": "M4",
+        "length": "20mm"
+      },
+      "tags": [
+        "machine screw",
+        "metric",
+        "electronics"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__machine-screws__10-32-x-1-machine-screws",
+      "name": "10-32 x 1\" Machine Screws",
+      "description": "Standard machine screws for metal-to-metal fastening with a nut or tapped hole.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Machine Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/machine-screws.json",
+      "specs": {
+        "size": "10-32",
+        "length": "1 in"
+      },
+      "tags": [
+        "machine screw",
+        "metal",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

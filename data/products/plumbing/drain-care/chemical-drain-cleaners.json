@@ -1,0 +1,28 @@
+{
+  "department": "Plumbing",
+  "category": "Drain Care",
+  "subcategory": "Chemical Drain Cleaners",
+  "aisle": "Aisle 4",
+  "products": [
+    {
+      "id": "plumbing__chemical-drain-cleaners__gel-drain-cleaner-32-oz",
+      "name": "Gel Drain Cleaner (32 oz)",
+      "description": "Fast-acting gel for dissolving hair and grease clogs.",
+      "department": "Plumbing",
+      "category": "Drain Care",
+      "subcategory": "Chemical Drain Cleaners",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/drain-care/chemical-drain-cleaners.json",
+      "specs": {
+        "size": "32 oz"
+      },
+      "tags": [
+        "drain cleaner",
+        "clogged drain",
+        "chemical"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

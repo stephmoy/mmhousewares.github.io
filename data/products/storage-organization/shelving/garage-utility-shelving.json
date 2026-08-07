@@ -1,0 +1,28 @@
+{
+  "department": "Storage & Organization",
+  "category": "Shelving",
+  "subcategory": "Garage & Utility Shelving",
+  "aisle": "Aisle 13",
+  "products": [
+    {
+      "id": "storage-organization__garage-utility-shelving__5-tier-wire-shelving-unit",
+      "name": "5-Tier Wire Shelving Unit",
+      "description": "Adjustable shelving for garage, basement, or pantry storage.",
+      "department": "Storage & Organization",
+      "category": "Shelving",
+      "subcategory": "Garage & Utility Shelving",
+      "aisle": "Aisle 13",
+      "folder_path": "products/storage-organization/shelving/garage-utility-shelving.json",
+      "specs": {
+        "tiers": 5
+      },
+      "tags": [
+        "shelving",
+        "garage storage",
+        "organization"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "department": "Hand & Power Tools",
+  "category": "Hand Tools",
+  "subcategory": "Wrenches",
+  "aisle": "Aisle 2",
+  "products": [
+    {
+      "id": "hand-power-tools__wrenches__adjustable-wrench-10",
+      "name": "Adjustable Wrench 10\"",
+      "description": "Adjustable jaw wrench for plumbing and general mechanical work.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Wrenches",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/wrenches.json",
+      "specs": {
+        "length": "10 in"
+      },
+      "tags": [
+        "wrench",
+        "adjustable wrench",
+        "plumbing"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__wrenches__combination-wrench-set-sae",
+      "name": "Combination Wrench Set (SAE)",
+      "description": "Standard open/box-end wrench set for nuts and bolts.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Wrenches",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/wrenches.json",
+      "specs": {},
+      "tags": [
+        "wrench",
+        "socket",
+        "mechanical repair"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

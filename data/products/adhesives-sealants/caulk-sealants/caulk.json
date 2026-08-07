@@ -1,0 +1,45 @@
+{
+  "department": "Adhesives & Sealants",
+  "category": "Caulk & Sealants",
+  "subcategory": "Caulk",
+  "aisle": "Aisle 7",
+  "products": [
+    {
+      "id": "adhesives-sealants__caulk__100-silicone-caulk-clear",
+      "name": "100% Silicone Caulk, Clear",
+      "description": "Waterproof caulk for kitchens, bathrooms, and around windows.",
+      "department": "Adhesives & Sealants",
+      "category": "Caulk & Sealants",
+      "subcategory": "Caulk",
+      "aisle": "Aisle 7",
+      "folder_path": "products/adhesives-sealants/caulk-sealants/caulk.json",
+      "specs": {},
+      "tags": [
+        "caulk",
+        "silicone caulk",
+        "bathroom",
+        "waterproofing"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "adhesives-sealants__caulk__paintable-acrylic-caulk",
+      "name": "Paintable Acrylic Caulk",
+      "description": "Caulk for interior trim and gaps that will be painted over.",
+      "department": "Adhesives & Sealants",
+      "category": "Caulk & Sealants",
+      "subcategory": "Caulk",
+      "aisle": "Aisle 7",
+      "folder_path": "products/adhesives-sealants/caulk-sealants/caulk.json",
+      "specs": {},
+      "tags": [
+        "caulk",
+        "acrylic caulk",
+        "trim"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

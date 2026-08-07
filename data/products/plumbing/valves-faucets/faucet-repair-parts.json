@@ -1,0 +1,44 @@
+{
+  "department": "Plumbing",
+  "category": "Valves & Faucets",
+  "subcategory": "Faucet Repair Parts",
+  "aisle": "Aisle 4",
+  "products": [
+    {
+      "id": "plumbing__faucet-repair-parts__faucet-cartridge-replacement-kit",
+      "name": "Faucet Cartridge Replacement Kit",
+      "description": "Replacement cartridge to fix a dripping single-handle faucet.",
+      "department": "Plumbing",
+      "category": "Valves & Faucets",
+      "subcategory": "Faucet Repair Parts",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/valves-faucets/faucet-repair-parts.json",
+      "specs": {},
+      "tags": [
+        "faucet repair",
+        "cartridge",
+        "leaky faucet"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__faucet-repair-parts__rubber-washers-assortment-plumbing",
+      "name": "Rubber Washers Assortment (plumbing)",
+      "description": "Assorted faucet washers to stop drips at the handle or spout.",
+      "department": "Plumbing",
+      "category": "Valves & Faucets",
+      "subcategory": "Faucet Repair Parts",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/valves-faucets/faucet-repair-parts.json",
+      "specs": {},
+      "tags": [
+        "faucet repair",
+        "washer",
+        "leaky faucet"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

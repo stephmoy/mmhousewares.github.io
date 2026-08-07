@@ -1,0 +1,26 @@
+{
+  "department": "Heating, Cooling & Weatherization",
+  "category": "Weatherization",
+  "subcategory": "Window Insulation",
+  "aisle": "Aisle 10",
+  "products": [
+    {
+      "id": "heating-cooling-weatherization__window-insulation__window-insulation-film-kit",
+      "name": "Window Insulation Film Kit",
+      "description": "Shrink film kit that adds an insulating layer to windows in winter.",
+      "department": "Heating, Cooling & Weatherization",
+      "category": "Weatherization",
+      "subcategory": "Window Insulation",
+      "aisle": "Aisle 10",
+      "folder_path": "products/heating-cooling-weatherization/weatherization/window-insulation.json",
+      "specs": {},
+      "tags": [
+        "window insulation",
+        "draft sealing",
+        "energy efficiency"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

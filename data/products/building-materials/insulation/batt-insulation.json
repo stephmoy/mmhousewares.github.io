@@ -1,0 +1,28 @@
+{
+  "department": "Building Materials",
+  "category": "Insulation",
+  "subcategory": "Batt Insulation",
+  "aisle": "Aisle 6",
+  "products": [
+    {
+      "id": "building-materials__batt-insulation__r-13-fiberglass-batt-insulation",
+      "name": "R-13 Fiberglass Batt Insulation",
+      "description": "Insulation for 2x4 wall cavities to improve energy efficiency.",
+      "department": "Building Materials",
+      "category": "Insulation",
+      "subcategory": "Batt Insulation",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/insulation/batt-insulation.json",
+      "specs": {
+        "r_value": "R-13"
+      },
+      "tags": [
+        "insulation",
+        "fiberglass",
+        "energy efficiency"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

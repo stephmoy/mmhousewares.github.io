@@ -1,0 +1,45 @@
+{
+  "department": "Locks & Security",
+  "category": "Door Locks",
+  "subcategory": "Deadbolts",
+  "aisle": "Aisle 9",
+  "products": [
+    {
+      "id": "locks-security__deadbolts__single-cylinder-deadbolt",
+      "name": "Single-Cylinder Deadbolt",
+      "description": "Standard deadbolt for exterior door security.",
+      "department": "Locks & Security",
+      "category": "Door Locks",
+      "subcategory": "Deadbolts",
+      "aisle": "Aisle 9",
+      "folder_path": "products/locks-security/door-locks/deadbolts.json",
+      "specs": {},
+      "tags": [
+        "lock",
+        "deadbolt",
+        "door security"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "locks-security__deadbolts__smart-deadbolt-keypad",
+      "name": "Smart Deadbolt (keypad)",
+      "description": "Keyless deadbolt with keypad entry and smartphone app control.",
+      "department": "Locks & Security",
+      "category": "Door Locks",
+      "subcategory": "Deadbolts",
+      "aisle": "Aisle 9",
+      "folder_path": "products/locks-security/door-locks/deadbolts.json",
+      "specs": {},
+      "tags": [
+        "lock",
+        "smart lock",
+        "deadbolt",
+        "keyless entry"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

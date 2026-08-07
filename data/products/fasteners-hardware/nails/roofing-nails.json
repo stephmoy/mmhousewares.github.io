@@ -1,0 +1,49 @@
+{
+  "department": "Fasteners & Hardware",
+  "category": "Nails",
+  "subcategory": "Roofing Nails",
+  "aisle": "Aisle 1",
+  "products": [
+    {
+      "id": "fasteners-hardware__roofing-nails__galvanized-roofing-nails-1-1-4",
+      "name": "Galvanized Roofing Nails 1-1/4\"",
+      "description": "Wide-head galvanized nails for asphalt shingles and roofing felt.",
+      "department": "Fasteners & Hardware",
+      "category": "Nails",
+      "subcategory": "Roofing Nails",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/nails/roofing-nails.json",
+      "specs": {
+        "length": "1.25 in",
+        "coating": "galvanized"
+      },
+      "tags": [
+        "roofing nail",
+        "shingles",
+        "roof repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__roofing-nails__coil-roofing-nails-for-nail-gun",
+      "name": "Coil Roofing Nails for Nail Gun",
+      "description": "Coiled roofing nails sized for pneumatic roofing nailers.",
+      "department": "Fasteners & Hardware",
+      "category": "Nails",
+      "subcategory": "Roofing Nails",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/nails/roofing-nails.json",
+      "specs": {
+        "format": "coil"
+      },
+      "tags": [
+        "roofing nail",
+        "roof repair",
+        "nail gun"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

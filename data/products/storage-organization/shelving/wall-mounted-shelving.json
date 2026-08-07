@@ -1,0 +1,26 @@
+{
+  "department": "Storage & Organization",
+  "category": "Shelving",
+  "subcategory": "Wall-Mounted Shelving",
+  "aisle": "Aisle 13",
+  "products": [
+    {
+      "id": "storage-organization__wall-mounted-shelving__floating-wall-shelf",
+      "name": "Floating Wall Shelf",
+      "description": "Wall-mounted shelf for display or light storage.",
+      "department": "Storage & Organization",
+      "category": "Shelving",
+      "subcategory": "Wall-Mounted Shelving",
+      "aisle": "Aisle 13",
+      "folder_path": "products/storage-organization/shelving/wall-mounted-shelving.json",
+      "specs": {},
+      "tags": [
+        "shelf",
+        "wall shelf",
+        "organization"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

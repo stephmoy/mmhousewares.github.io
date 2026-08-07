@@ -1,0 +1,28 @@
+{
+  "department": "Adhesives & Sealants",
+  "category": "Glues",
+  "subcategory": "Construction Adhesive",
+  "aisle": "Aisle 7",
+  "products": [
+    {
+      "id": "adhesives-sealants__construction-adhesive__construction-adhesive-10-oz-tube",
+      "name": "Construction Adhesive (10 oz tube)",
+      "description": "Heavy-duty adhesive for paneling, subfloor, and general construction bonding.",
+      "department": "Adhesives & Sealants",
+      "category": "Glues",
+      "subcategory": "Construction Adhesive",
+      "aisle": "Aisle 7",
+      "folder_path": "products/adhesives-sealants/glues/construction-adhesive.json",
+      "specs": {
+        "size": "10 oz"
+      },
+      "tags": [
+        "adhesive",
+        "construction adhesive",
+        "subfloor"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

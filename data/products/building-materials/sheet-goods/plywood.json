@@ -1,0 +1,29 @@
+{
+  "department": "Building Materials",
+  "category": "Sheet Goods",
+  "subcategory": "Plywood",
+  "aisle": "Aisle 6",
+  "products": [
+    {
+      "id": "building-materials__plywood__1-2-plywood-sheet-4x8",
+      "name": "1/2\" Plywood Sheet (4x8)",
+      "description": "General-purpose plywood for shelving, subfloor, and paneling.",
+      "department": "Building Materials",
+      "category": "Sheet Goods",
+      "subcategory": "Plywood",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/sheet-goods/plywood.json",
+      "specs": {
+        "thickness": "0.5 in",
+        "size": "4x8 ft"
+      },
+      "tags": [
+        "plywood",
+        "sheet goods",
+        "subfloor"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

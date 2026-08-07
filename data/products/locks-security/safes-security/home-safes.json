@@ -1,0 +1,26 @@
+{
+  "department": "Locks & Security",
+  "category": "Safes & Security",
+  "subcategory": "Home Safes",
+  "aisle": "Aisle 9",
+  "products": [
+    {
+      "id": "locks-security__home-safes__fireproof-document-safe",
+      "name": "Fireproof Document Safe",
+      "description": "Small fireproof safe for important documents and valuables.",
+      "department": "Locks & Security",
+      "category": "Safes & Security",
+      "subcategory": "Home Safes",
+      "aisle": "Aisle 9",
+      "folder_path": "products/locks-security/safes-security/home-safes.json",
+      "specs": {},
+      "tags": [
+        "safe",
+        "fireproof safe",
+        "home security"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "department": "Locks & Security",
+  "category": "Door Locks",
+  "subcategory": "Doorknobs & Levers",
+  "aisle": "Aisle 9",
+  "products": [
+    {
+      "id": "locks-security__doorknobs-levers__entry-door-lever-set",
+      "name": "Entry Door Lever Set",
+      "description": "Locking lever set for exterior doors.",
+      "department": "Locks & Security",
+      "category": "Door Locks",
+      "subcategory": "Doorknobs & Levers",
+      "aisle": "Aisle 9",
+      "folder_path": "products/locks-security/door-locks/doorknobs-levers.json",
+      "specs": {},
+      "tags": [
+        "door lock",
+        "lever set",
+        "entry door"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "locks-security__doorknobs-levers__passage-doorknob-non-locking",
+      "name": "Passage Doorknob (non-locking)",
+      "description": "Non-locking knob for closets and interior passageways.",
+      "department": "Locks & Security",
+      "category": "Door Locks",
+      "subcategory": "Doorknobs & Levers",
+      "aisle": "Aisle 9",
+      "folder_path": "products/locks-security/door-locks/doorknobs-levers.json",
+      "specs": {},
+      "tags": [
+        "doorknob",
+        "interior door"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,1049 @@
+{
+  "departments": [
+    {
+      "name": "Fasteners & Hardware",
+      "folder": "fasteners-hardware",
+      "aisle": "Aisle 1",
+      "categories": [
+        {
+          "name": "Screws",
+          "folder": "screws",
+          "subcategories": [
+            {
+              "name": "Wood Screws",
+              "folder": "wood-screws",
+              "product_count": 3
+            },
+            {
+              "name": "Drywall Screws",
+              "folder": "drywall-screws",
+              "product_count": 3
+            },
+            {
+              "name": "Deck Screws",
+              "folder": "deck-screws",
+              "product_count": 3
+            },
+            {
+              "name": "Machine Screws",
+              "folder": "machine-screws",
+              "product_count": 2
+            },
+            {
+              "name": "Self-Tapping Screws",
+              "folder": "self-tapping-screws",
+              "product_count": 2
+            }
+          ]
+        },
+        {
+          "name": "Nails",
+          "folder": "nails",
+          "subcategories": [
+            {
+              "name": "Common & Framing Nails",
+              "folder": "common-framing-nails",
+              "product_count": 2
+            },
+            {
+              "name": "Finishing & Trim Nails",
+              "folder": "finishing-trim-nails",
+              "product_count": 2
+            },
+            {
+              "name": "Roofing Nails",
+              "folder": "roofing-nails",
+              "product_count": 2
+            },
+            {
+              "name": "Concrete & Masonry Nails",
+              "folder": "concrete-masonry-nails",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Bolts, Nuts & Washers",
+          "folder": "bolts-nuts-washers",
+          "subcategories": [
+            {
+              "name": "Hex Bolts",
+              "folder": "hex-bolts",
+              "product_count": 2
+            },
+            {
+              "name": "Nuts",
+              "folder": "nuts",
+              "product_count": 2
+            },
+            {
+              "name": "Washers",
+              "folder": "washers",
+              "product_count": 2
+            }
+          ]
+        },
+        {
+          "name": "Anchors & Wall Fasteners",
+          "folder": "anchors-wall-fasteners",
+          "subcategories": [
+            {
+              "name": "Drywall Anchors",
+              "folder": "drywall-anchors",
+              "product_count": 2
+            },
+            {
+              "name": "Concrete Anchors",
+              "folder": "concrete-anchors",
+              "product_count": 2
+            }
+          ]
+        },
+        {
+          "name": "Hinges & Brackets",
+          "folder": "hinges-brackets",
+          "subcategories": [
+            {
+              "name": "Door Hinges",
+              "folder": "door-hinges",
+              "product_count": 2
+            },
+            {
+              "name": "Shelf Brackets & Braces",
+              "folder": "shelf-brackets-braces",
+              "product_count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hand & Power Tools",
+      "folder": "hand-power-tools",
+      "aisle": "Aisle 2",
+      "categories": [
+        {
+          "name": "Hand Tools",
+          "folder": "hand-tools",
+          "subcategories": [
+            {
+              "name": "Hammers & Mallets",
+              "folder": "hammers-mallets",
+              "product_count": 2
+            },
+            {
+              "name": "Screwdrivers & Nut Drivers",
+              "folder": "screwdrivers-nut-drivers",
+              "product_count": 2
+            },
+            {
+              "name": "Wrenches",
+              "folder": "wrenches",
+              "product_count": 2
+            },
+            {
+              "name": "Pliers & Cutters",
+              "folder": "pliers-cutters",
+              "product_count": 3
+            },
+            {
+              "name": "Measuring & Layout",
+              "folder": "measuring-layout",
+              "product_count": 3
+            }
+          ]
+        },
+        {
+          "name": "Power Tools",
+          "folder": "power-tools",
+          "subcategories": [
+            {
+              "name": "Drills & Drivers",
+              "folder": "drills-drivers",
+              "product_count": 3
+            },
+            {
+              "name": "Saws",
+              "folder": "saws",
+              "product_count": 3
+            },
+            {
+              "name": "Sanders & Grinders",
+              "folder": "sanders-grinders",
+              "product_count": 2
+            },
+            {
+              "name": "Batteries & Chargers",
+              "folder": "batteries-chargers",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Ladders & Access",
+          "folder": "ladders-access",
+          "subcategories": [
+            {
+              "name": "Step Ladders",
+              "folder": "step-ladders",
+              "product_count": 1
+            },
+            {
+              "name": "Extension Ladders",
+              "folder": "extension-ladders",
+              "product_count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paint & Sundries",
+      "folder": "paint-sundries",
+      "aisle": "Aisle 3",
+      "categories": [
+        {
+          "name": "Interior Paint",
+          "folder": "interior-paint",
+          "subcategories": [
+            {
+              "name": "Interior Wall Paint",
+              "folder": "interior-wall-paint",
+              "product_count": 2
+            },
+            {
+              "name": "Primers",
+              "folder": "primers",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Exterior Paint",
+          "folder": "exterior-paint",
+          "subcategories": [
+            {
+              "name": "Exterior Wall Paint",
+              "folder": "exterior-wall-paint",
+              "product_count": 1
+            },
+            {
+              "name": "Deck & Fence Stains",
+              "folder": "deck-fence-stains",
+              "product_count": 2
+            }
+          ]
+        },
+        {
+          "name": "Solvents & Thinners",
+          "folder": "solvents-thinners",
+          "subcategories": [
+            {
+              "name": "Paint Thinners & Removers",
+              "folder": "paint-thinners-removers",
+              "product_count": 3
+            },
+            {
+              "name": "Degreasers & Cleaners",
+              "folder": "degreasers-cleaners",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Brushes, Rollers & Tape",
+          "folder": "brushes-rollers-tape",
+          "subcategories": [
+            {
+              "name": "Paint Brushes",
+              "folder": "paint-brushes",
+              "product_count": 1
+            },
+            {
+              "name": "Rollers & Trays",
+              "folder": "rollers-trays",
+              "product_count": 1
+            },
+            {
+              "name": "Painter's Tape",
+              "folder": "painter-s-tape",
+              "product_count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Plumbing",
+      "folder": "plumbing",
+      "aisle": "Aisle 4",
+      "categories": [
+        {
+          "name": "Pipes & Fittings",
+          "folder": "pipes-fittings",
+          "subcategories": [
+            {
+              "name": "PVC Pipe & Fittings",
+              "folder": "pvc-pipe-fittings",
+              "product_count": 2
+            },
+            {
+              "name": "Copper Pipe & Fittings",
+              "folder": "copper-pipe-fittings",
+              "product_count": 1
+            },
+            {
+              "name": "PEX Pipe & Fittings",
+              "folder": "pex-pipe-fittings",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Valves & Faucets",
+          "folder": "valves-faucets",
+          "subcategories": [
+            {
+              "name": "Shutoff Valves",
+              "folder": "shutoff-valves",
+              "product_count": 1
+            },
+            {
+              "name": "Faucets",
+              "folder": "faucets",
+              "product_count": 2
+            },
+            {
+              "name": "Faucet Repair Parts",
+              "folder": "faucet-repair-parts",
+              "product_count": 2
+            }
+          ]
+        },
+        {
+          "name": "Drain Care",
+          "folder": "drain-care",
+          "subcategories": [
+            {
+              "name": "Drain Cleaning Tools",
+              "folder": "drain-cleaning-tools",
+              "product_count": 3
+            },
+            {
+              "name": "Chemical Drain Cleaners",
+              "folder": "chemical-drain-cleaners",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Toilet Parts",
+          "folder": "toilet-parts",
+          "subcategories": [
+            {
+              "name": "Toilet Repair Kits",
+              "folder": "toilet-repair-kits",
+              "product_count": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electrical & Lighting",
+      "folder": "electrical-lighting",
+      "aisle": "Aisle 5",
+      "categories": [
+        {
+          "name": "Wiring & Cable",
+          "folder": "wiring-cable",
+          "subcategories": [
+            {
+              "name": "Electrical Wire",
+              "folder": "electrical-wire",
+              "product_count": 2
+            },
+            {
+              "name": "Wire Connectors",
+              "folder": "wire-connectors",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Outlets & Switches",
+          "folder": "outlets-switches",
+          "subcategories": [
+            {
+              "name": "Outlets",
+              "folder": "outlets",
+              "product_count": 2
+            },
+            {
+              "name": "Switches",
+              "folder": "switches",
+              "product_count": 2
+            },
+            {
+              "name": "Cover Plates",
+              "folder": "cover-plates",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Light Bulbs",
+          "folder": "light-bulbs",
+          "subcategories": [
+            {
+              "name": "LED Bulbs",
+              "folder": "led-bulbs",
+              "product_count": 2
+            },
+            {
+              "name": "Specialty Bulbs",
+              "folder": "specialty-bulbs",
+              "product_count": 3
+            }
+          ]
+        },
+        {
+          "name": "Circuit Breakers & Panels",
+          "folder": "circuit-breakers-panels",
+          "subcategories": [
+            {
+              "name": "Circuit Breakers",
+              "folder": "circuit-breakers",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Extension Cords & Power",
+          "folder": "extension-cords-power",
+          "subcategories": [
+            {
+              "name": "Extension Cords",
+              "folder": "extension-cords",
+              "product_count": 1
+            },
+            {
+              "name": "Power Strips & Surge Protectors",
+              "folder": "power-strips-surge-protectors",
+              "product_count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Building Materials",
+      "folder": "building-materials",
+      "aisle": "Aisle 6",
+      "categories": [
+        {
+          "name": "Lumber",
+          "folder": "lumber",
+          "subcategories": [
+            {
+              "name": "Dimensional Lumber",
+              "folder": "dimensional-lumber",
+              "product_count": 2
+            },
+            {
+              "name": "Pressure-Treated Lumber",
+              "folder": "pressure-treated-lumber",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Sheet Goods",
+          "folder": "sheet-goods",
+          "subcategories": [
+            {
+              "name": "Plywood",
+              "folder": "plywood",
+              "product_count": 1
+            },
+            {
+              "name": "OSB",
+              "folder": "osb",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Drywall & Compound",
+          "folder": "drywall-compound",
+          "subcategories": [
+            {
+              "name": "Drywall Sheets",
+              "folder": "drywall-sheets",
+              "product_count": 1
+            },
+            {
+              "name": "Joint Compound & Tape",
+              "folder": "joint-compound-tape",
+              "product_count": 2
+            }
+          ]
+        },
+        {
+          "name": "Insulation",
+          "folder": "insulation",
+          "subcategories": [
+            {
+              "name": "Batt Insulation",
+              "folder": "batt-insulation",
+              "product_count": 1
+            },
+            {
+              "name": "Spray Foam",
+              "folder": "spray-foam",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Roofing Materials",
+          "folder": "roofing-materials",
+          "subcategories": [
+            {
+              "name": "Shingles",
+              "folder": "shingles",
+              "product_count": 1
+            },
+            {
+              "name": "Roofing Underlayment & Sealant",
+              "folder": "roofing-underlayment-sealant",
+              "product_count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adhesives & Sealants",
+      "folder": "adhesives-sealants",
+      "aisle": "Aisle 7",
+      "categories": [
+        {
+          "name": "Glues",
+          "folder": "glues",
+          "subcategories": [
+            {
+              "name": "Wood Glue",
+              "folder": "wood-glue",
+              "product_count": 1
+            },
+            {
+              "name": "Super Glue & Epoxy",
+              "folder": "super-glue-epoxy",
+              "product_count": 2
+            },
+            {
+              "name": "Construction Adhesive",
+              "folder": "construction-adhesive",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Caulk & Sealants",
+          "folder": "caulk-sealants",
+          "subcategories": [
+            {
+              "name": "Caulk",
+              "folder": "caulk",
+              "product_count": 2
+            },
+            {
+              "name": "Weatherproof Sealants",
+              "folder": "weatherproof-sealants",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Tapes",
+          "folder": "tapes",
+          "subcategories": [
+            {
+              "name": "Duct & Utility Tape",
+              "folder": "duct-utility-tape",
+              "product_count": 1
+            },
+            {
+              "name": "Electrical Tape",
+              "folder": "electrical-tape",
+              "product_count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outdoor & Garden",
+      "folder": "outdoor-garden",
+      "aisle": "Aisle 8",
+      "categories": [
+        {
+          "name": "Lawn Care",
+          "folder": "lawn-care",
+          "subcategories": [
+            {
+              "name": "Lawn Mowers & Parts",
+              "folder": "lawn-mowers-parts",
+              "product_count": 2
+            },
+            {
+              "name": "Trimmers & Edgers",
+              "folder": "trimmers-edgers",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Garden Tools",
+          "folder": "garden-tools",
+          "subcategories": [
+            {
+              "name": "Hand Tools",
+              "folder": "hand-tools",
+              "product_count": 2
+            },
+            {
+              "name": "Long-Handle Tools",
+              "folder": "long-handle-tools",
+              "product_count": 2
+            }
+          ]
+        },
+        {
+          "name": "Soil, Mulch & Fertilizer",
+          "folder": "soil-mulch-fertilizer",
+          "subcategories": [
+            {
+              "name": "Soil & Mulch",
+              "folder": "soil-mulch",
+              "product_count": 2
+            },
+            {
+              "name": "Fertilizer",
+              "folder": "fertilizer",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Pest Control",
+          "folder": "pest-control",
+          "subcategories": [
+            {
+              "name": "Insect Control",
+              "folder": "insect-control",
+              "product_count": 2
+            },
+            {
+              "name": "Rodent Control",
+              "folder": "rodent-control",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Hoses & Watering",
+          "folder": "hoses-watering",
+          "subcategories": [
+            {
+              "name": "Garden Hoses",
+              "folder": "garden-hoses",
+              "product_count": 1
+            },
+            {
+              "name": "Sprinklers & Nozzles",
+              "folder": "sprinklers-nozzles",
+              "product_count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Locks & Security",
+      "folder": "locks-security",
+      "aisle": "Aisle 9",
+      "categories": [
+        {
+          "name": "Door Locks",
+          "folder": "door-locks",
+          "subcategories": [
+            {
+              "name": "Deadbolts",
+              "folder": "deadbolts",
+              "product_count": 2
+            },
+            {
+              "name": "Doorknobs & Levers",
+              "folder": "doorknobs-levers",
+              "product_count": 2
+            }
+          ]
+        },
+        {
+          "name": "Padlocks & Chains",
+          "folder": "padlocks-chains",
+          "subcategories": [
+            {
+              "name": "Padlocks",
+              "folder": "padlocks",
+              "product_count": 2
+            }
+          ]
+        },
+        {
+          "name": "Safes & Security",
+          "folder": "safes-security",
+          "subcategories": [
+            {
+              "name": "Home Safes",
+              "folder": "home-safes",
+              "product_count": 1
+            },
+            {
+              "name": "Cameras & Alarms",
+              "folder": "cameras-alarms",
+              "product_count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heating, Cooling & Weatherization",
+      "folder": "heating-cooling-weatherization",
+      "aisle": "Aisle 10",
+      "categories": [
+        {
+          "name": "Weatherization",
+          "folder": "weatherization",
+          "subcategories": [
+            {
+              "name": "Weatherstripping",
+              "folder": "weatherstripping",
+              "product_count": 2
+            },
+            {
+              "name": "Window Insulation",
+              "folder": "window-insulation",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Fans & Ventilation",
+          "folder": "fans-ventilation",
+          "subcategories": [
+            {
+              "name": "Fans",
+              "folder": "fans",
+              "product_count": 2
+            }
+          ]
+        },
+        {
+          "name": "Heating",
+          "folder": "heating",
+          "subcategories": [
+            {
+              "name": "Space Heaters",
+              "folder": "space-heaters",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Air Filters",
+          "folder": "air-filters",
+          "subcategories": [
+            {
+              "name": "HVAC Filters",
+              "folder": "hvac-filters",
+              "product_count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cleaning Supplies",
+      "folder": "cleaning-supplies",
+      "aisle": "Aisle 11",
+      "categories": [
+        {
+          "name": "Cleaning Tools",
+          "folder": "cleaning-tools",
+          "subcategories": [
+            {
+              "name": "Mops & Brooms",
+              "folder": "mops-brooms",
+              "product_count": 2
+            },
+            {
+              "name": "Buckets & Caddies",
+              "folder": "buckets-caddies",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Cleaning Chemicals",
+          "folder": "cleaning-chemicals",
+          "subcategories": [
+            {
+              "name": "All-Purpose Cleaners",
+              "folder": "all-purpose-cleaners",
+              "product_count": 1
+            },
+            {
+              "name": "Specialty Cleaners",
+              "folder": "specialty-cleaners",
+              "product_count": 2
+            }
+          ]
+        },
+        {
+          "name": "Trash & Storage Bags",
+          "folder": "trash-storage-bags",
+          "subcategories": [
+            {
+              "name": "Trash Bags",
+              "folder": "trash-bags",
+              "product_count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Safety & PPE",
+      "folder": "safety-ppe",
+      "aisle": "Aisle 12",
+      "categories": [
+        {
+          "name": "Hand & Body Protection",
+          "folder": "hand-body-protection",
+          "subcategories": [
+            {
+              "name": "Work Gloves",
+              "folder": "work-gloves",
+              "product_count": 2
+            }
+          ]
+        },
+        {
+          "name": "Eye & Ear Protection",
+          "folder": "eye-ear-protection",
+          "subcategories": [
+            {
+              "name": "Safety Glasses & Goggles",
+              "folder": "safety-glasses-goggles",
+              "product_count": 1
+            },
+            {
+              "name": "Hearing Protection",
+              "folder": "hearing-protection",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Respiratory Protection",
+          "folder": "respiratory-protection",
+          "subcategories": [
+            {
+              "name": "Masks & Respirators",
+              "folder": "masks-respirators",
+              "product_count": 2
+            }
+          ]
+        },
+        {
+          "name": "First Aid",
+          "folder": "first-aid",
+          "subcategories": [
+            {
+              "name": "First Aid Kits",
+              "folder": "first-aid-kits",
+              "product_count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Storage & Organization",
+      "folder": "storage-organization",
+      "aisle": "Aisle 13",
+      "categories": [
+        {
+          "name": "Shelving",
+          "folder": "shelving",
+          "subcategories": [
+            {
+              "name": "Garage & Utility Shelving",
+              "folder": "garage-utility-shelving",
+              "product_count": 1
+            },
+            {
+              "name": "Wall-Mounted Shelving",
+              "folder": "wall-mounted-shelving",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Bins & Totes",
+          "folder": "bins-totes",
+          "subcategories": [
+            {
+              "name": "Storage Totes",
+              "folder": "storage-totes",
+              "product_count": 1
+            },
+            {
+              "name": "Small Parts Organizers",
+              "folder": "small-parts-organizers",
+              "product_count": 1
+            }
+          ]
+        },
+        {
+          "name": "Hooks & Hangers",
+          "folder": "hooks-hangers",
+          "subcategories": [
+            {
+              "name": "Wall Hooks",
+              "folder": "wall-hooks",
+              "product_count": 1
+            },
+            {
+              "name": "Pegboard Systems",
+              "folder": "pegboard-systems",
+              "product_count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Automotive",
+      "folder": "automotive",
+      "aisle": "Aisle 14",
+      "categories": [
+        {
+          "name": "Fluids",
+          "folder": "fluids",
+          "subcategories": [
+            {
+              "name": "Motor Oil & Fluids",
+              "folder": "motor-oil-fluids",
+              "product_count": 2
+            }
+          ]
+        },
+        {
+          "name": "Car Care",
+          "folder": "car-care",
+          "subcategories": [
+            {
+              "name": "Wiper Blades",
+              "folder": "wiper-blades",
+              "product_count": 1
+            },
+            {
+              "name": "Cleaning & Detailing",
+              "folder": "cleaning-detailing",
+              "product_count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Housewares & Kitchen",
+      "folder": "housewares-kitchen",
+      "aisle": "Aisle 15",
+      "categories": [
+        {
+          "name": "Kitchen Tools",
+          "folder": "kitchen-tools",
+          "subcategories": [
+            {
+              "name": "Cookware",
+              "folder": "cookware",
+              "product_count": 2
+            },
+            {
+              "name": "Kitchen Gadgets",
+              "folder": "kitchen-gadgets",
+              "product_count": 2
+            }
+          ]
+        },
+        {
+          "name": "Small Appliances",
+          "folder": "small-appliances",
+          "subcategories": [
+            {
+              "name": "Countertop Appliances",
+              "folder": "countertop-appliances",
+              "product_count": 2
+            }
+          ]
+        },
+        {
+          "name": "Household Storage",
+          "folder": "household-storage",
+          "subcategories": [
+            {
+              "name": "Food Storage",
+              "folder": "food-storage",
+              "product_count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Seasonal",
+      "folder": "seasonal",
+      "aisle": "Aisle 16",
+      "categories": [
+        {
+          "name": "Snow Removal",
+          "folder": "snow-removal",
+          "subcategories": [
+            {
+              "name": "Shovels & Ice Melt",
+              "folder": "shovels-ice-melt",
+              "product_count": 2
+            }
+          ]
+        },
+        {
+          "name": "Grilling & Outdoor Cooking",
+          "folder": "grilling-outdoor-cooking",
+          "subcategories": [
+            {
+              "name": "Grill Accessories",
+              "folder": "grill-accessories",
+              "product_count": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

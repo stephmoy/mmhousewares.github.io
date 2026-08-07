@@ -1,0 +1,29 @@
+{
+  "department": "Building Materials",
+  "category": "Lumber",
+  "subcategory": "Pressure-Treated Lumber",
+  "aisle": "Aisle 6",
+  "products": [
+    {
+      "id": "building-materials__pressure-treated-lumber__2x6-pressure-treated-board-8-ft",
+      "name": "2x6 Pressure-Treated Board (8 ft)",
+      "description": "Rot-resistant lumber rated for outdoor and ground contact use.",
+      "department": "Building Materials",
+      "category": "Lumber",
+      "subcategory": "Pressure-Treated Lumber",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/lumber/pressure-treated-lumber.json",
+      "specs": {
+        "length": "8 ft"
+      },
+      "tags": [
+        "lumber",
+        "pressure treated",
+        "deck",
+        "outdoor"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

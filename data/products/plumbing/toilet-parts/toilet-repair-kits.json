@@ -1,0 +1,62 @@
+{
+  "department": "Plumbing",
+  "category": "Toilet Parts",
+  "subcategory": "Toilet Repair Kits",
+  "aisle": "Aisle 4",
+  "products": [
+    {
+      "id": "plumbing__toilet-repair-kits__universal-toilet-fill-valve",
+      "name": "Universal Toilet Fill Valve",
+      "description": "Replacement fill valve to fix a toilet that runs constantly.",
+      "department": "Plumbing",
+      "category": "Toilet Parts",
+      "subcategory": "Toilet Repair Kits",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/toilet-parts/toilet-repair-kits.json",
+      "specs": {},
+      "tags": [
+        "toilet repair",
+        "fill valve",
+        "running toilet"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__toilet-repair-kits__toilet-flapper-replacement",
+      "name": "Toilet Flapper Replacement",
+      "description": "Replacement flapper to stop toilet leaks between flushes.",
+      "department": "Plumbing",
+      "category": "Toilet Parts",
+      "subcategory": "Toilet Repair Kits",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/toilet-parts/toilet-repair-kits.json",
+      "specs": {},
+      "tags": [
+        "toilet repair",
+        "flapper",
+        "running toilet"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__toilet-repair-kits__wax-ring-toilet-seal",
+      "name": "Wax Ring Toilet Seal",
+      "description": "Seals the base of the toilet to the drain flange.",
+      "department": "Plumbing",
+      "category": "Toilet Parts",
+      "subcategory": "Toilet Repair Kits",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/toilet-parts/toilet-repair-kits.json",
+      "specs": {},
+      "tags": [
+        "toilet repair",
+        "wax ring",
+        "toilet leak"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

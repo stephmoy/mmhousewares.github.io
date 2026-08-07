@@ -1,0 +1,28 @@
+{
+  "department": "Paint & Sundries",
+  "category": "Interior Paint",
+  "subcategory": "Primers",
+  "aisle": "Aisle 3",
+  "products": [
+    {
+      "id": "paint-sundries__primers__stain-blocking-primer-1-gal",
+      "name": "Stain-Blocking Primer (1 gal)",
+      "description": "Seals stains, odors, and repairs before top-coating.",
+      "department": "Paint & Sundries",
+      "category": "Interior Paint",
+      "subcategory": "Primers",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/interior-paint/primers.json",
+      "specs": {
+        "size": "1 gal"
+      },
+      "tags": [
+        "primer",
+        "stain blocking",
+        "wall repair"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

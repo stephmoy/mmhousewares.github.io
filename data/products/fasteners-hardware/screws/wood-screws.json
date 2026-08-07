@@ -1,0 +1,78 @@
+{
+  "department": "Fasteners & Hardware",
+  "category": "Screws",
+  "subcategory": "Wood Screws",
+  "aisle": "Aisle 1",
+  "products": [
+    {
+      "id": "fasteners-hardware__wood-screws__8-x-1-1-4-wood-screws-100-pack",
+      "name": "#8 x 1-1/4\" Wood Screws (100-pack)",
+      "description": "Coarse-thread wood screws for general carpentry and furniture assembly.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Wood Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/wood-screws.json",
+      "specs": {
+        "gauge": "#8",
+        "length": "1-1/4 in",
+        "drive": "Phillips",
+        "material": "steel"
+      },
+      "tags": [
+        "wood screw",
+        "carpentry",
+        "furniture",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__wood-screws__10-x-2-wood-screws-50-pack",
+      "name": "#10 x 2\" Wood Screws (50-pack)",
+      "description": "Heavier-gauge wood screws for framing and load-bearing wood joints.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Wood Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/wood-screws.json",
+      "specs": {
+        "gauge": "#10",
+        "length": "2 in",
+        "drive": "Phillips",
+        "material": "steel"
+      },
+      "tags": [
+        "wood screw",
+        "framing",
+        "joint",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__wood-screws__brass-wood-screws-assortment",
+      "name": "Brass Wood Screws Assortment",
+      "description": "Corrosion-resistant brass screws for fine furniture and cabinetry.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Wood Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/wood-screws.json",
+      "specs": {
+        "material": "brass",
+        "drive": "slotted"
+      },
+      "tags": [
+        "wood screw",
+        "brass",
+        "cabinetry",
+        "furniture"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

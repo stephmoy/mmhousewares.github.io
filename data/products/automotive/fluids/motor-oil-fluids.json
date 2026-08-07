@@ -1,0 +1,46 @@
+{
+  "department": "Automotive",
+  "category": "Fluids",
+  "subcategory": "Motor Oil & Fluids",
+  "aisle": "Aisle 14",
+  "products": [
+    {
+      "id": "automotive__motor-oil-fluids__5w-30-motor-oil-5-qt",
+      "name": "5W-30 Motor Oil (5 qt)",
+      "description": "Conventional motor oil for routine oil changes.",
+      "department": "Automotive",
+      "category": "Fluids",
+      "subcategory": "Motor Oil & Fluids",
+      "aisle": "Aisle 14",
+      "folder_path": "products/automotive/fluids/motor-oil-fluids.json",
+      "specs": {
+        "size": "5 qt"
+      },
+      "tags": [
+        "motor oil",
+        "car maintenance"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "automotive__motor-oil-fluids__windshield-washer-fluid-1-gal",
+      "name": "Windshield Washer Fluid (1 gal)",
+      "description": "All-season washer fluid for windshield cleaning.",
+      "department": "Automotive",
+      "category": "Fluids",
+      "subcategory": "Motor Oil & Fluids",
+      "aisle": "Aisle 14",
+      "folder_path": "products/automotive/fluids/motor-oil-fluids.json",
+      "specs": {
+        "size": "1 gal"
+      },
+      "tags": [
+        "washer fluid",
+        "car maintenance"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

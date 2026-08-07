@@ -1,0 +1,28 @@
+{
+  "department": "Building Materials",
+  "category": "Roofing Materials",
+  "subcategory": "Roofing Underlayment & Sealant",
+  "aisle": "Aisle 6",
+  "products": [
+    {
+      "id": "building-materials__roofing-underlayment-sealant__roofing-cement-10-3-oz-tube",
+      "name": "Roofing Cement (10.3 oz tube)",
+      "description": "Waterproof sealant for patching roof leaks and flashing.",
+      "department": "Building Materials",
+      "category": "Roofing Materials",
+      "subcategory": "Roofing Underlayment & Sealant",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/roofing-materials/roofing-underlayment-sealant.json",
+      "specs": {
+        "size": "10.3 oz"
+      },
+      "tags": [
+        "roofing cement",
+        "roof repair",
+        "leak"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

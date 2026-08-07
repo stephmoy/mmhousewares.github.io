@@ -31,7 +31,20 @@
   <div class="container">
     <span class="tagline">Product Catalog</span>
     <h1>What are you trying to fix today?</h1>
-    <p>We organize our products around the problem you're solving, not just the aisle they're in. Pick a situation below to see what we carry — and where to turn if you need more help.</p>
+    <p>We organize our products around the problem you're solving, not just the aisle they're in. Search for a product or describe the problem below, or browse a situation further down the page.</p>
+
+    <div class="search-widget" data-site-search-wrap>
+      <label for="catalog-search" class="visually-hidden">Search products or problems</label>
+      <input
+        type="text"
+        id="catalog-search"
+        class="search-input"
+        data-site-search
+        autocomplete="off"
+        placeholder="Search products or problems (e.g. &quot;leaky faucet&quot;, &quot;deck screws&quot;)"
+        aria-label="Search products or problems">
+      <div class="search-results" data-site-search-results hidden></div>
+    </div>
   </div>
 </section>
 
@@ -208,5 +221,6 @@
   </div>
 </footer>
 
+<script src="js/search.js" defer></script>
 </body>
 </html>

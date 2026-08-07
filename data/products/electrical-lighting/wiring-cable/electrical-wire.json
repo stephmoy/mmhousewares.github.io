@@ -1,0 +1,50 @@
+{
+  "department": "Electrical & Lighting",
+  "category": "Wiring & Cable",
+  "subcategory": "Electrical Wire",
+  "aisle": "Aisle 5",
+  "products": [
+    {
+      "id": "electrical-lighting__electrical-wire__14-2-nm-b-romex-wire-25-ft",
+      "name": "14/2 NM-B Romex Wire (25 ft)",
+      "description": "Standard indoor electrical wire for 15-amp circuits.",
+      "department": "Electrical & Lighting",
+      "category": "Wiring & Cable",
+      "subcategory": "Electrical Wire",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/wiring-cable/electrical-wire.json",
+      "specs": {
+        "gauge": "14 AWG",
+        "length": "25 ft"
+      },
+      "tags": [
+        "wire",
+        "romex",
+        "electrical wiring"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__electrical-wire__12-2-nm-b-romex-wire-25-ft",
+      "name": "12/2 NM-B Romex Wire (25 ft)",
+      "description": "Electrical wire for 20-amp circuits like kitchen outlets.",
+      "department": "Electrical & Lighting",
+      "category": "Wiring & Cable",
+      "subcategory": "Electrical Wire",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/wiring-cable/electrical-wire.json",
+      "specs": {
+        "gauge": "12 AWG",
+        "length": "25 ft"
+      },
+      "tags": [
+        "wire",
+        "romex",
+        "electrical wiring"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

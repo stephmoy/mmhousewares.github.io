@@ -1,0 +1,46 @@
+{
+  "department": "Seasonal",
+  "category": "Grilling & Outdoor Cooking",
+  "subcategory": "Grill Accessories",
+  "aisle": "Aisle 16",
+  "products": [
+    {
+      "id": "seasonal__grill-accessories__propane-grill-tank-refill-exchange",
+      "name": "Propane Grill Tank Refill/Exchange",
+      "description": "Standard 20 lb propane tank for gas grills.",
+      "department": "Seasonal",
+      "category": "Grilling & Outdoor Cooking",
+      "subcategory": "Grill Accessories",
+      "aisle": "Aisle 16",
+      "folder_path": "products/seasonal/grilling-outdoor-cooking/grill-accessories.json",
+      "specs": {
+        "size": "20 lb"
+      },
+      "tags": [
+        "propane",
+        "grilling",
+        "outdoor cooking"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "seasonal__grill-accessories__grill-cleaning-brush",
+      "name": "Grill Cleaning Brush",
+      "description": "Wire brush for cleaning grill grates.",
+      "department": "Seasonal",
+      "category": "Grilling & Outdoor Cooking",
+      "subcategory": "Grill Accessories",
+      "aisle": "Aisle 16",
+      "folder_path": "products/seasonal/grilling-outdoor-cooking/grill-accessories.json",
+      "specs": {},
+      "tags": [
+        "grill brush",
+        "grilling",
+        "cleaning"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

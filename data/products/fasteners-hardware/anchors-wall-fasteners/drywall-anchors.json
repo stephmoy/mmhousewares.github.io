@@ -1,0 +1,49 @@
+{
+  "department": "Fasteners & Hardware",
+  "category": "Anchors & Wall Fasteners",
+  "subcategory": "Drywall Anchors",
+  "aisle": "Aisle 1",
+  "products": [
+    {
+      "id": "fasteners-hardware__drywall-anchors__self-drilling-drywall-anchors-20-pack",
+      "name": "Self-Drilling Drywall Anchors (20-pack)",
+      "description": "Plastic anchors that screw directly into drywall for light-duty hanging.",
+      "department": "Fasteners & Hardware",
+      "category": "Anchors & Wall Fasteners",
+      "subcategory": "Drywall Anchors",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/anchors-wall-fasteners/drywall-anchors.json",
+      "specs": {
+        "weight_rating": "up to 50 lb"
+      },
+      "tags": [
+        "drywall anchor",
+        "wall hanging",
+        "picture frame"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__drywall-anchors__toggle-bolts-1-8",
+      "name": "Toggle Bolts 1/8\"",
+      "description": "Spring-wing toggle bolts for heavier items on hollow walls, like shelves or TV mounts.",
+      "department": "Fasteners & Hardware",
+      "category": "Anchors & Wall Fasteners",
+      "subcategory": "Drywall Anchors",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/anchors-wall-fasteners/drywall-anchors.json",
+      "specs": {
+        "weight_rating": "up to 100 lb"
+      },
+      "tags": [
+        "toggle bolt",
+        "drywall anchor",
+        "shelf",
+        "tv mount"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "department": "Paint & Sundries",
+  "category": "Brushes, Rollers & Tape",
+  "subcategory": "Paint Brushes",
+  "aisle": "Aisle 3",
+  "products": [
+    {
+      "id": "paint-sundries__paint-brushes__2-angled-sash-brush",
+      "name": "2\" Angled Sash Brush",
+      "description": "Precision brush for cutting in edges and trim work.",
+      "department": "Paint & Sundries",
+      "category": "Brushes, Rollers & Tape",
+      "subcategory": "Paint Brushes",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/brushes-rollers-tape/paint-brushes.json",
+      "specs": {
+        "width": "2 in"
+      },
+      "tags": [
+        "brush",
+        "paint brush",
+        "trim work"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

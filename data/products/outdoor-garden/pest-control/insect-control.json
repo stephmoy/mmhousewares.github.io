@@ -1,0 +1,45 @@
+{
+  "department": "Outdoor & Garden",
+  "category": "Pest Control",
+  "subcategory": "Insect Control",
+  "aisle": "Aisle 8",
+  "products": [
+    {
+      "id": "outdoor-garden__insect-control__ant-roach-killer-spray",
+      "name": "Ant & Roach Killer Spray",
+      "description": "Fast-acting spray for common household insects.",
+      "department": "Outdoor & Garden",
+      "category": "Pest Control",
+      "subcategory": "Insect Control",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/pest-control/insect-control.json",
+      "specs": {},
+      "tags": [
+        "pest control",
+        "insect spray",
+        "ants",
+        "roaches"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__insect-control__outdoor-insect-granules",
+      "name": "Outdoor Insect Granules",
+      "description": "Perimeter treatment for lawns to reduce insect activity.",
+      "department": "Outdoor & Garden",
+      "category": "Pest Control",
+      "subcategory": "Insect Control",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/pest-control/insect-control.json",
+      "specs": {},
+      "tags": [
+        "pest control",
+        "outdoor",
+        "insects"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

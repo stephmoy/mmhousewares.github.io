@@ -1,0 +1,26 @@
+{
+  "department": "Outdoor & Garden",
+  "category": "Lawn Care",
+  "subcategory": "Trimmers & Edgers",
+  "aisle": "Aisle 8",
+  "products": [
+    {
+      "id": "outdoor-garden__trimmers-edgers__cordless-string-trimmer",
+      "name": "Cordless String Trimmer",
+      "description": "Battery-powered trimmer for edges and hard-to-mow areas.",
+      "department": "Outdoor & Garden",
+      "category": "Lawn Care",
+      "subcategory": "Trimmers & Edgers",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/lawn-care/trimmers-edgers.json",
+      "specs": {},
+      "tags": [
+        "trimmer",
+        "weed eater",
+        "lawn care"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

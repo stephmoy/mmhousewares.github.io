@@ -1,0 +1,25 @@
+{
+  "department": "Cleaning Supplies",
+  "category": "Cleaning Chemicals",
+  "subcategory": "All-Purpose Cleaners",
+  "aisle": "Aisle 11",
+  "products": [
+    {
+      "id": "cleaning-supplies__all-purpose-cleaners__all-purpose-cleaner-spray",
+      "name": "All-Purpose Cleaner Spray",
+      "description": "General cleaner for countertops, appliances, and hard surfaces.",
+      "department": "Cleaning Supplies",
+      "category": "Cleaning Chemicals",
+      "subcategory": "All-Purpose Cleaners",
+      "aisle": "Aisle 11",
+      "folder_path": "products/cleaning-supplies/cleaning-chemicals/all-purpose-cleaners.json",
+      "specs": {},
+      "tags": [
+        "cleaner",
+        "all-purpose cleaner"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

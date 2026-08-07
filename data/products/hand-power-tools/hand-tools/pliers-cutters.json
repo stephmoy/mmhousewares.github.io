@@ -1,0 +1,61 @@
+{
+  "department": "Hand & Power Tools",
+  "category": "Hand Tools",
+  "subcategory": "Pliers & Cutters",
+  "aisle": "Aisle 2",
+  "products": [
+    {
+      "id": "hand-power-tools__pliers-cutters__slip-joint-pliers",
+      "name": "Slip-Joint Pliers",
+      "description": "General-purpose gripping pliers with adjustable jaw width.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Pliers & Cutters",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/pliers-cutters.json",
+      "specs": {},
+      "tags": [
+        "pliers",
+        "gripping tool"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__pliers-cutters__wire-cutters-diagonal-cutters",
+      "name": "Wire Cutters / Diagonal Cutters",
+      "description": "Cutting pliers for wire, cable ties, and small-gauge wire.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Pliers & Cutters",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/pliers-cutters.json",
+      "specs": {},
+      "tags": [
+        "pliers",
+        "wire cutter",
+        "electrical"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__pliers-cutters__locking-pliers-vise-grip-style",
+      "name": "Locking Pliers (Vise-Grip style)",
+      "description": "Self-locking pliers for clamping and holding stubborn fasteners.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Pliers & Cutters",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/pliers-cutters.json",
+      "specs": {},
+      "tags": [
+        "pliers",
+        "locking pliers",
+        "clamp"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

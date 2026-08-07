@@ -1,0 +1,51 @@
+{
+  "department": "Fasteners & Hardware",
+  "category": "Bolts, Nuts & Washers",
+  "subcategory": "Hex Bolts",
+  "aisle": "Aisle 1",
+  "products": [
+    {
+      "id": "fasteners-hardware__hex-bolts__1-4-20-x-2-hex-bolts",
+      "name": "1/4\"-20 x 2\" Hex Bolts",
+      "description": "Standard hex-head bolts for general mechanical assembly.",
+      "department": "Fasteners & Hardware",
+      "category": "Bolts, Nuts & Washers",
+      "subcategory": "Hex Bolts",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/bolts-nuts-washers/hex-bolts.json",
+      "specs": {
+        "size": "1/4-20",
+        "length": "2 in"
+      },
+      "tags": [
+        "bolt",
+        "hex bolt",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__hex-bolts__carriage-bolts-3-8-x-3",
+      "name": "Carriage Bolts 3/8\" x 3\"",
+      "description": "Smooth-head bolts for wood-to-wood connections like fences and decks.",
+      "department": "Fasteners & Hardware",
+      "category": "Bolts, Nuts & Washers",
+      "subcategory": "Hex Bolts",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/bolts-nuts-washers/hex-bolts.json",
+      "specs": {
+        "size": "3/8 in",
+        "length": "3 in"
+      },
+      "tags": [
+        "bolt",
+        "carriage bolt",
+        "fence",
+        "deck"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

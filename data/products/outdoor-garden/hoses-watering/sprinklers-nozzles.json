@@ -1,0 +1,42 @@
+{
+  "department": "Outdoor & Garden",
+  "category": "Hoses & Watering",
+  "subcategory": "Sprinklers & Nozzles",
+  "aisle": "Aisle 8",
+  "products": [
+    {
+      "id": "outdoor-garden__sprinklers-nozzles__oscillating-sprinkler",
+      "name": "Oscillating Sprinkler",
+      "description": "Sprinkler for even lawn watering coverage.",
+      "department": "Outdoor & Garden",
+      "category": "Hoses & Watering",
+      "subcategory": "Sprinklers & Nozzles",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/hoses-watering/sprinklers-nozzles.json",
+      "specs": {},
+      "tags": [
+        "sprinkler",
+        "lawn watering"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__sprinklers-nozzles__adjustable-hose-nozzle",
+      "name": "Adjustable Hose Nozzle",
+      "description": "Multi-pattern nozzle for hand watering and cleaning.",
+      "department": "Outdoor & Garden",
+      "category": "Hoses & Watering",
+      "subcategory": "Sprinklers & Nozzles",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/hoses-watering/sprinklers-nozzles.json",
+      "specs": {},
+      "tags": [
+        "hose nozzle",
+        "watering"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

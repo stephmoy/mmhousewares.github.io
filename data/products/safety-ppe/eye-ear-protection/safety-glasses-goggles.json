@@ -1,0 +1,25 @@
+{
+  "department": "Safety & PPE",
+  "category": "Eye & Ear Protection",
+  "subcategory": "Safety Glasses & Goggles",
+  "aisle": "Aisle 12",
+  "products": [
+    {
+      "id": "safety-ppe__safety-glasses-goggles__clear-safety-glasses",
+      "name": "Clear Safety Glasses",
+      "description": "ANSI-rated eye protection for cutting, grinding, and general shop work.",
+      "department": "Safety & PPE",
+      "category": "Eye & Ear Protection",
+      "subcategory": "Safety Glasses & Goggles",
+      "aisle": "Aisle 12",
+      "folder_path": "products/safety-ppe/eye-ear-protection/safety-glasses-goggles.json",
+      "specs": {},
+      "tags": [
+        "safety glasses",
+        "eye protection"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

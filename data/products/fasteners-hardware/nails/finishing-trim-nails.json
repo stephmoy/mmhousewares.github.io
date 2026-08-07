@@ -1,0 +1,51 @@
+{
+  "department": "Fasteners & Hardware",
+  "category": "Nails",
+  "subcategory": "Finishing & Trim Nails",
+  "aisle": "Aisle 1",
+  "products": [
+    {
+      "id": "fasteners-hardware__finishing-trim-nails__finishing-nails-1-1-2",
+      "name": "Finishing Nails 1-1/2\"",
+      "description": "Small-head nails for trim, molding, and cabinetry where the head is set below the surface.",
+      "department": "Fasteners & Hardware",
+      "category": "Nails",
+      "subcategory": "Finishing & Trim Nails",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/nails/finishing-trim-nails.json",
+      "specs": {
+        "length": "1.5 in"
+      },
+      "tags": [
+        "nail",
+        "trim",
+        "molding",
+        "finish carpentry"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__finishing-trim-nails__brad-nails-18-gauge-5000-pack",
+      "name": "Brad Nails 18-Gauge (5000-pack)",
+      "description": "Thin brad nails for pneumatic nailers, used in trim and craft projects.",
+      "department": "Fasteners & Hardware",
+      "category": "Nails",
+      "subcategory": "Finishing & Trim Nails",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/nails/finishing-trim-nails.json",
+      "specs": {
+        "gauge": "18",
+        "length": "assorted"
+      },
+      "tags": [
+        "nail",
+        "brad",
+        "trim",
+        "nail gun"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

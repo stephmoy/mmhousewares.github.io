@@ -1,0 +1,25 @@
+{
+  "department": "Safety & PPE",
+  "category": "First Aid",
+  "subcategory": "First Aid Kits",
+  "aisle": "Aisle 12",
+  "products": [
+    {
+      "id": "safety-ppe__first-aid-kits__home-first-aid-kit",
+      "name": "Home First Aid Kit",
+      "description": "Basic kit with bandages and supplies for minor injuries around the home or shop.",
+      "department": "Safety & PPE",
+      "category": "First Aid",
+      "subcategory": "First Aid Kits",
+      "aisle": "Aisle 12",
+      "folder_path": "products/safety-ppe/first-aid/first-aid-kits.json",
+      "specs": {},
+      "tags": [
+        "first aid",
+        "safety"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

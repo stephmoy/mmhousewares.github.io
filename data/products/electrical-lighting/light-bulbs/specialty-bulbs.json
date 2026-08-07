@@ -1,0 +1,64 @@
+{
+  "department": "Electrical & Lighting",
+  "category": "Light Bulbs",
+  "subcategory": "Specialty Bulbs",
+  "aisle": "Aisle 5",
+  "products": [
+    {
+      "id": "electrical-lighting__specialty-bulbs__led-candelabra-bulb-chandelier",
+      "name": "LED Candelabra Bulb (chandelier)",
+      "description": "Small-base decorative bulb for chandeliers and sconces.",
+      "department": "Electrical & Lighting",
+      "category": "Light Bulbs",
+      "subcategory": "Specialty Bulbs",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/light-bulbs/specialty-bulbs.json",
+      "specs": {
+        "base": "E12"
+      },
+      "tags": [
+        "light bulb",
+        "candelabra bulb",
+        "chandelier"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__specialty-bulbs__outdoor-floodlight-bulb",
+      "name": "Outdoor Floodlight Bulb",
+      "description": "Weather-resistant bulb for outdoor security and floodlight fixtures.",
+      "department": "Electrical & Lighting",
+      "category": "Light Bulbs",
+      "subcategory": "Specialty Bulbs",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/light-bulbs/specialty-bulbs.json",
+      "specs": {},
+      "tags": [
+        "light bulb",
+        "floodlight",
+        "outdoor lighting"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__specialty-bulbs__3-way-led-bulb",
+      "name": "3-Way LED Bulb",
+      "description": "Bulb with three brightness settings for compatible lamps.",
+      "department": "Electrical & Lighting",
+      "category": "Light Bulbs",
+      "subcategory": "Specialty Bulbs",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/light-bulbs/specialty-bulbs.json",
+      "specs": {},
+      "tags": [
+        "light bulb",
+        "3-way bulb",
+        "lamp"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

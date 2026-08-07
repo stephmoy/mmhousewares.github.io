@@ -1,0 +1,28 @@
+{
+  "department": "Heating, Cooling & Weatherization",
+  "category": "Air Filters",
+  "subcategory": "HVAC Filters",
+  "aisle": "Aisle 10",
+  "products": [
+    {
+      "id": "heating-cooling-weatherization__hvac-filters__16x20x1-pleated-hvac-filter",
+      "name": "16x20x1 Pleated HVAC Filter",
+      "description": "Furnace/AC filter for improving indoor air quality.",
+      "department": "Heating, Cooling & Weatherization",
+      "category": "Air Filters",
+      "subcategory": "HVAC Filters",
+      "aisle": "Aisle 10",
+      "folder_path": "products/heating-cooling-weatherization/air-filters/hvac-filters.json",
+      "specs": {
+        "size": "16x20x1"
+      },
+      "tags": [
+        "air filter",
+        "hvac",
+        "furnace filter"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "department": "Electrical & Lighting",
+  "category": "Light Bulbs",
+  "subcategory": "LED Bulbs",
+  "aisle": "Aisle 5",
+  "products": [
+    {
+      "id": "electrical-lighting__led-bulbs__led-a19-bulb-soft-white-60w-equiv",
+      "name": "LED A19 Bulb, Soft White (60W equiv)",
+      "description": "Energy-efficient bulb for lamps and general fixtures.",
+      "department": "Electrical & Lighting",
+      "category": "Light Bulbs",
+      "subcategory": "LED Bulbs",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/light-bulbs/led-bulbs.json",
+      "specs": {
+        "equivalent": "60W",
+        "color": "soft white",
+        "base": "E26"
+      },
+      "tags": [
+        "light bulb",
+        "led bulb",
+        "lamp"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__led-bulbs__led-daylight-bulb-100w-equiv",
+      "name": "LED Daylight Bulb (100W equiv)",
+      "description": "Bright, cool-white LED bulb for kitchens, garages, and workspaces.",
+      "department": "Electrical & Lighting",
+      "category": "Light Bulbs",
+      "subcategory": "LED Bulbs",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/light-bulbs/led-bulbs.json",
+      "specs": {
+        "equivalent": "100W",
+        "color": "daylight"
+      },
+      "tags": [
+        "light bulb",
+        "led bulb",
+        "daylight"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

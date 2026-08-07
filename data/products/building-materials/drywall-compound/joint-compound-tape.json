@@ -1,0 +1,46 @@
+{
+  "department": "Building Materials",
+  "category": "Drywall & Compound",
+  "subcategory": "Joint Compound & Tape",
+  "aisle": "Aisle 6",
+  "products": [
+    {
+      "id": "building-materials__joint-compound-tape__joint-compound-all-purpose-5-gal",
+      "name": "Joint Compound (all-purpose, 5 gal)",
+      "description": "Ready-mixed compound for finishing drywall seams and patching holes.",
+      "department": "Building Materials",
+      "category": "Drywall & Compound",
+      "subcategory": "Joint Compound & Tape",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/drywall-compound/joint-compound-tape.json",
+      "specs": {
+        "size": "5 gal"
+      },
+      "tags": [
+        "joint compound",
+        "drywall repair",
+        "spackle"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "building-materials__joint-compound-tape__drywall-joint-tape",
+      "name": "Drywall Joint Tape",
+      "description": "Paper tape for reinforcing drywall seams before compound is applied.",
+      "department": "Building Materials",
+      "category": "Drywall & Compound",
+      "subcategory": "Joint Compound & Tape",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/drywall-compound/joint-compound-tape.json",
+      "specs": {},
+      "tags": [
+        "drywall tape",
+        "joint tape",
+        "drywall repair"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

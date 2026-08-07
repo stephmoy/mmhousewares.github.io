@@ -1,0 +1,44 @@
+{
+  "department": "Fasteners & Hardware",
+  "category": "Bolts, Nuts & Washers",
+  "subcategory": "Washers",
+  "aisle": "Aisle 1",
+  "products": [
+    {
+      "id": "fasteners-hardware__washers__flat-washers-assortment-kit",
+      "name": "Flat Washers Assortment Kit",
+      "description": "Assorted flat washers to distribute load under bolt and screw heads.",
+      "department": "Fasteners & Hardware",
+      "category": "Bolts, Nuts & Washers",
+      "subcategory": "Washers",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/bolts-nuts-washers/washers.json",
+      "specs": {},
+      "tags": [
+        "washer",
+        "flat washer",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__washers__lock-washers-split-ring-assortment",
+      "name": "Lock Washers (split-ring) Assortment",
+      "description": "Split-ring washers that resist loosening from vibration.",
+      "department": "Fasteners & Hardware",
+      "category": "Bolts, Nuts & Washers",
+      "subcategory": "Washers",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/bolts-nuts-washers/washers.json",
+      "specs": {},
+      "tags": [
+        "washer",
+        "lock washer",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "department": "Fasteners & Hardware",
+  "category": "Nails",
+  "subcategory": "Common & Framing Nails",
+  "aisle": "Aisle 1",
+  "products": [
+    {
+      "id": "fasteners-hardware__common-framing-nails__16d-common-nails-5lb-box",
+      "name": "16d Common Nails (5lb box)",
+      "description": "Standard framing nails for structural wood-to-wood connections.",
+      "department": "Fasteners & Hardware",
+      "category": "Nails",
+      "subcategory": "Common & Framing Nails",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/nails/common-framing-nails.json",
+      "specs": {
+        "size": "16d",
+        "length": "3.5 in"
+      },
+      "tags": [
+        "nail",
+        "framing",
+        "construction"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__common-framing-nails__8d-box-nails",
+      "name": "8d Box Nails",
+      "description": "Lighter-gauge nails for general construction and box framing.",
+      "department": "Fasteners & Hardware",
+      "category": "Nails",
+      "subcategory": "Common & Framing Nails",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/nails/common-framing-nails.json",
+      "specs": {
+        "size": "8d"
+      },
+      "tags": [
+        "nail",
+        "construction",
+        "framing"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

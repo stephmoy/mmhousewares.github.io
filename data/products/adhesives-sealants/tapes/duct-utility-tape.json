@@ -1,0 +1,26 @@
+{
+  "department": "Adhesives & Sealants",
+  "category": "Tapes",
+  "subcategory": "Duct & Utility Tape",
+  "aisle": "Aisle 7",
+  "products": [
+    {
+      "id": "adhesives-sealants__duct-utility-tape__duct-tape-heavy-duty",
+      "name": "Duct Tape (Heavy-Duty)",
+      "description": "All-purpose utility tape for repairs, bundling, and temporary fixes.",
+      "department": "Adhesives & Sealants",
+      "category": "Tapes",
+      "subcategory": "Duct & Utility Tape",
+      "aisle": "Aisle 7",
+      "folder_path": "products/adhesives-sealants/tapes/duct-utility-tape.json",
+      "specs": {},
+      "tags": [
+        "tape",
+        "duct tape",
+        "repair"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

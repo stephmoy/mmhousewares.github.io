@@ -1,0 +1,26 @@
+{
+  "department": "Building Materials",
+  "category": "Roofing Materials",
+  "subcategory": "Shingles",
+  "aisle": "Aisle 6",
+  "products": [
+    {
+      "id": "building-materials__shingles__architectural-asphalt-shingles-bundle",
+      "name": "Architectural Asphalt Shingles (bundle)",
+      "description": "Dimensional shingles for residential roof replacement and repair.",
+      "department": "Building Materials",
+      "category": "Roofing Materials",
+      "subcategory": "Shingles",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/roofing-materials/shingles.json",
+      "specs": {},
+      "tags": [
+        "shingles",
+        "roofing",
+        "roof repair"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

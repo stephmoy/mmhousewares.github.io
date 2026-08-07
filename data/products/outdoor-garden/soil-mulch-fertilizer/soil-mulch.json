@@ -1,0 +1,48 @@
+{
+  "department": "Outdoor & Garden",
+  "category": "Soil, Mulch & Fertilizer",
+  "subcategory": "Soil & Mulch",
+  "aisle": "Aisle 8",
+  "products": [
+    {
+      "id": "outdoor-garden__soil-mulch__garden-soil-1-cu-ft-bag",
+      "name": "Garden Soil (1 cu ft bag)",
+      "description": "All-purpose soil for garden beds and containers.",
+      "department": "Outdoor & Garden",
+      "category": "Soil, Mulch & Fertilizer",
+      "subcategory": "Soil & Mulch",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/soil-mulch-fertilizer/soil-mulch.json",
+      "specs": {
+        "size": "1 cu ft"
+      },
+      "tags": [
+        "soil",
+        "garden soil",
+        "planting"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__soil-mulch__hardwood-mulch-2-cu-ft-bag",
+      "name": "Hardwood Mulch (2 cu ft bag)",
+      "description": "Mulch for moisture retention and weed suppression in garden beds.",
+      "department": "Outdoor & Garden",
+      "category": "Soil, Mulch & Fertilizer",
+      "subcategory": "Soil & Mulch",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/soil-mulch-fertilizer/soil-mulch.json",
+      "specs": {
+        "size": "2 cu ft"
+      },
+      "tags": [
+        "mulch",
+        "landscaping",
+        "weed control"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

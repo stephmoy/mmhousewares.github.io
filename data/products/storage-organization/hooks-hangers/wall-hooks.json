@@ -1,0 +1,26 @@
+{
+  "department": "Storage & Organization",
+  "category": "Hooks & Hangers",
+  "subcategory": "Wall Hooks",
+  "aisle": "Aisle 13",
+  "products": [
+    {
+      "id": "storage-organization__wall-hooks__heavy-duty-utility-hooks-set",
+      "name": "Heavy-Duty Utility Hooks (set)",
+      "description": "Wall-mounted hooks for hanging tools, bikes, and ladders.",
+      "department": "Storage & Organization",
+      "category": "Hooks & Hangers",
+      "subcategory": "Wall Hooks",
+      "aisle": "Aisle 13",
+      "folder_path": "products/storage-organization/hooks-hangers/wall-hooks.json",
+      "specs": {},
+      "tags": [
+        "hook",
+        "utility hook",
+        "garage organization"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

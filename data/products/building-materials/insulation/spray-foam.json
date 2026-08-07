@@ -1,0 +1,26 @@
+{
+  "department": "Building Materials",
+  "category": "Insulation",
+  "subcategory": "Spray Foam",
+  "aisle": "Aisle 6",
+  "products": [
+    {
+      "id": "building-materials__spray-foam__gap-crack-spray-foam-sealant",
+      "name": "Gap & Crack Spray Foam Sealant",
+      "description": "Expanding foam for sealing drafts around windows, doors, and pipes.",
+      "department": "Building Materials",
+      "category": "Insulation",
+      "subcategory": "Spray Foam",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/insulation/spray-foam.json",
+      "specs": {},
+      "tags": [
+        "insulation",
+        "spray foam",
+        "draft sealing"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

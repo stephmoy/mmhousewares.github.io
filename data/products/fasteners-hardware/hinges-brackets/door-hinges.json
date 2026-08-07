@@ -1,0 +1,46 @@
+{
+  "department": "Fasteners & Hardware",
+  "category": "Hinges & Brackets",
+  "subcategory": "Door Hinges",
+  "aisle": "Aisle 1",
+  "products": [
+    {
+      "id": "fasteners-hardware__door-hinges__3-5-interior-door-hinges-pair",
+      "name": "3.5\" Interior Door Hinges (pair)",
+      "description": "Standard steel hinges for interior door installation or replacement.",
+      "department": "Fasteners & Hardware",
+      "category": "Hinges & Brackets",
+      "subcategory": "Door Hinges",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/hinges-brackets/door-hinges.json",
+      "specs": {
+        "size": "3.5 in"
+      },
+      "tags": [
+        "hinge",
+        "door hinge",
+        "door repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__door-hinges__self-closing-cabinet-hinges",
+      "name": "Self-Closing Cabinet Hinges",
+      "description": "Spring-loaded hinges that automatically close cabinet doors.",
+      "department": "Fasteners & Hardware",
+      "category": "Hinges & Brackets",
+      "subcategory": "Door Hinges",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/hinges-brackets/door-hinges.json",
+      "specs": {},
+      "tags": [
+        "hinge",
+        "cabinet hinge",
+        "cabinet repair"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

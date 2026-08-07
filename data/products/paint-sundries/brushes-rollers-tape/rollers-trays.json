@@ -1,0 +1,28 @@
+{
+  "department": "Paint & Sundries",
+  "category": "Brushes, Rollers & Tape",
+  "subcategory": "Rollers & Trays",
+  "aisle": "Aisle 3",
+  "products": [
+    {
+      "id": "paint-sundries__rollers-trays__9-roller-tray-kit",
+      "name": "9\" Roller & Tray Kit",
+      "description": "Standard roller frame, cover, and tray for painting large wall areas.",
+      "department": "Paint & Sundries",
+      "category": "Brushes, Rollers & Tape",
+      "subcategory": "Rollers & Trays",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/brushes-rollers-tape/rollers-trays.json",
+      "specs": {
+        "size": "9 in"
+      },
+      "tags": [
+        "roller",
+        "paint roller",
+        "wall paint"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "department": "Paint & Sundries",
+  "category": "Solvents & Thinners",
+  "subcategory": "Paint Thinners & Removers",
+  "aisle": "Aisle 3",
+  "products": [
+    {
+      "id": "paint-sundries__paint-thinners-removers__mineral-spirits-1-qt",
+      "name": "Mineral Spirits (1 qt)",
+      "description": "Solvent for thinning oil-based paint and cleaning brushes.",
+      "department": "Paint & Sundries",
+      "category": "Solvents & Thinners",
+      "subcategory": "Paint Thinners & Removers",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/solvents-thinners/paint-thinners-removers.json",
+      "specs": {
+        "size": "1 qt"
+      },
+      "tags": [
+        "solvent",
+        "mineral spirits",
+        "paint thinner",
+        "brush cleaner"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "paint-sundries__paint-thinners-removers__paint-varnish-stripper",
+      "name": "Paint & Varnish Stripper",
+      "description": "Chemical stripper for removing old paint and varnish from wood and metal.",
+      "department": "Paint & Sundries",
+      "category": "Solvents & Thinners",
+      "subcategory": "Paint Thinners & Removers",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/solvents-thinners/paint-thinners-removers.json",
+      "specs": {},
+      "tags": [
+        "solvent",
+        "paint stripper",
+        "refinishing"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "paint-sundries__paint-thinners-removers__acetone-1-qt",
+      "name": "Acetone (1 qt)",
+      "description": "Fast-evaporating solvent for cleaning tools and dissolving adhesives.",
+      "department": "Paint & Sundries",
+      "category": "Solvents & Thinners",
+      "subcategory": "Paint Thinners & Removers",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/solvents-thinners/paint-thinners-removers.json",
+      "specs": {
+        "size": "1 qt"
+      },
+      "tags": [
+        "solvent",
+        "acetone",
+        "adhesive remover",
+        "cleaner"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

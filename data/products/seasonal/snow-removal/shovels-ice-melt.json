@@ -1,0 +1,46 @@
+{
+  "department": "Seasonal",
+  "category": "Snow Removal",
+  "subcategory": "Shovels & Ice Melt",
+  "aisle": "Aisle 16",
+  "products": [
+    {
+      "id": "seasonal__shovels-ice-melt__steel-edge-snow-shovel",
+      "name": "Steel-Edge Snow Shovel",
+      "description": "Shovel for clearing snow from walkways and driveways.",
+      "department": "Seasonal",
+      "category": "Snow Removal",
+      "subcategory": "Shovels & Ice Melt",
+      "aisle": "Aisle 16",
+      "folder_path": "products/seasonal/snow-removal/shovels-ice-melt.json",
+      "specs": {},
+      "tags": [
+        "snow shovel",
+        "snow removal",
+        "winter"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "seasonal__shovels-ice-melt__ice-melt-25-lb-bag",
+      "name": "Ice Melt (25 lb bag)",
+      "description": "Fast-acting ice melt for sidewalks and driveways.",
+      "department": "Seasonal",
+      "category": "Snow Removal",
+      "subcategory": "Shovels & Ice Melt",
+      "aisle": "Aisle 16",
+      "folder_path": "products/seasonal/snow-removal/shovels-ice-melt.json",
+      "specs": {
+        "size": "25 lb"
+      },
+      "tags": [
+        "ice melt",
+        "snow removal",
+        "winter"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

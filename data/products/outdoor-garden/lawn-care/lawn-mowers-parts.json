@@ -1,0 +1,45 @@
+{
+  "department": "Outdoor & Garden",
+  "category": "Lawn Care",
+  "subcategory": "Lawn Mowers & Parts",
+  "aisle": "Aisle 8",
+  "products": [
+    {
+      "id": "outdoor-garden__lawn-mowers-parts__21-push-lawn-mower",
+      "name": "21\" Push Lawn Mower",
+      "description": "Gas-powered push mower for small to medium residential lawns.",
+      "department": "Outdoor & Garden",
+      "category": "Lawn Care",
+      "subcategory": "Lawn Mowers & Parts",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/lawn-care/lawn-mowers-parts.json",
+      "specs": {
+        "cut_width": "21 in"
+      },
+      "tags": [
+        "lawn mower",
+        "lawn care",
+        "grass"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__lawn-mowers-parts__replacement-mower-blade",
+      "name": "Replacement Mower Blade",
+      "description": "Universal replacement blade for push mowers.",
+      "department": "Outdoor & Garden",
+      "category": "Lawn Care",
+      "subcategory": "Lawn Mowers & Parts",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/lawn-care/lawn-mowers-parts.json",
+      "specs": {},
+      "tags": [
+        "mower blade",
+        "lawn mower repair"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

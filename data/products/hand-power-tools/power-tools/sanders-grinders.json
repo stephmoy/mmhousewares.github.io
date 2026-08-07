@@ -1,0 +1,46 @@
+{
+  "department": "Hand & Power Tools",
+  "category": "Power Tools",
+  "subcategory": "Sanders & Grinders",
+  "aisle": "Aisle 2",
+  "products": [
+    {
+      "id": "hand-power-tools__sanders-grinders__orbital-sander",
+      "name": "Orbital Sander",
+      "description": "Palm sander for smoothing wood surfaces before finishing.",
+      "department": "Hand & Power Tools",
+      "category": "Power Tools",
+      "subcategory": "Sanders & Grinders",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/power-tools/sanders-grinders.json",
+      "specs": {},
+      "tags": [
+        "sander",
+        "sanding",
+        "wood finishing"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__sanders-grinders__angle-grinder-4-1-2",
+      "name": "Angle Grinder 4-1/2\"",
+      "description": "Grinder for cutting, grinding, and polishing metal.",
+      "department": "Hand & Power Tools",
+      "category": "Power Tools",
+      "subcategory": "Sanders & Grinders",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/power-tools/sanders-grinders.json",
+      "specs": {
+        "disc": "4.5 in"
+      },
+      "tags": [
+        "grinder",
+        "metal work",
+        "cutting"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

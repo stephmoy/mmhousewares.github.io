@@ -1,0 +1,3652 @@
+{
+  "count": 191,
+  "products": [
+    {
+      "id": "adhesives-sealants__caulk__100-silicone-caulk-clear",
+      "name": "100% Silicone Caulk, Clear",
+      "description": "Waterproof caulk for kitchens, bathrooms, and around windows.",
+      "department": "Adhesives & Sealants",
+      "category": "Caulk & Sealants",
+      "subcategory": "Caulk",
+      "aisle": "Aisle 7",
+      "folder_path": "products/adhesives-sealants/caulk-sealants/caulk.json",
+      "specs": {},
+      "tags": [
+        "caulk",
+        "silicone caulk",
+        "bathroom",
+        "waterproofing"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "adhesives-sealants__caulk__paintable-acrylic-caulk",
+      "name": "Paintable Acrylic Caulk",
+      "description": "Caulk for interior trim and gaps that will be painted over.",
+      "department": "Adhesives & Sealants",
+      "category": "Caulk & Sealants",
+      "subcategory": "Caulk",
+      "aisle": "Aisle 7",
+      "folder_path": "products/adhesives-sealants/caulk-sealants/caulk.json",
+      "specs": {},
+      "tags": [
+        "caulk",
+        "acrylic caulk",
+        "trim"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "adhesives-sealants__weatherproof-sealants__exterior-window-door-sealant",
+      "name": "Exterior Window & Door Sealant",
+      "description": "Weatherproof sealant for gaps around windows and doors.",
+      "department": "Adhesives & Sealants",
+      "category": "Caulk & Sealants",
+      "subcategory": "Weatherproof Sealants",
+      "aisle": "Aisle 7",
+      "folder_path": "products/adhesives-sealants/caulk-sealants/weatherproof-sealants.json",
+      "specs": {},
+      "tags": [
+        "sealant",
+        "weatherproofing",
+        "draft sealing"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "adhesives-sealants__wood-glue__wood-glue-16-oz",
+      "name": "Wood Glue (16 oz)",
+      "description": "Interior wood glue for furniture repair and woodworking joints.",
+      "department": "Adhesives & Sealants",
+      "category": "Glues",
+      "subcategory": "Wood Glue",
+      "aisle": "Aisle 7",
+      "folder_path": "products/adhesives-sealants/glues/wood-glue.json",
+      "specs": {
+        "size": "16 oz"
+      },
+      "tags": [
+        "glue",
+        "wood glue",
+        "furniture repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "adhesives-sealants__construction-adhesive__construction-adhesive-10-oz-tube",
+      "name": "Construction Adhesive (10 oz tube)",
+      "description": "Heavy-duty adhesive for paneling, subfloor, and general construction bonding.",
+      "department": "Adhesives & Sealants",
+      "category": "Glues",
+      "subcategory": "Construction Adhesive",
+      "aisle": "Aisle 7",
+      "folder_path": "products/adhesives-sealants/glues/construction-adhesive.json",
+      "specs": {
+        "size": "10 oz"
+      },
+      "tags": [
+        "adhesive",
+        "construction adhesive",
+        "subfloor"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "adhesives-sealants__super-glue-epoxy__cyanoacrylate-super-glue",
+      "name": "Cyanoacrylate Super Glue",
+      "description": "Fast-bonding glue for small repairs on ceramic, plastic, and rubber.",
+      "department": "Adhesives & Sealants",
+      "category": "Glues",
+      "subcategory": "Super Glue & Epoxy",
+      "aisle": "Aisle 7",
+      "folder_path": "products/adhesives-sealants/glues/super-glue-epoxy.json",
+      "specs": {},
+      "tags": [
+        "glue",
+        "super glue",
+        "quick repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "adhesives-sealants__super-glue-epoxy__5-minute-epoxy-2-part",
+      "name": "5-Minute Epoxy (2-part)",
+      "description": "Strong two-part epoxy for bonding metal, wood, and ceramic.",
+      "department": "Adhesives & Sealants",
+      "category": "Glues",
+      "subcategory": "Super Glue & Epoxy",
+      "aisle": "Aisle 7",
+      "folder_path": "products/adhesives-sealants/glues/super-glue-epoxy.json",
+      "specs": {},
+      "tags": [
+        "glue",
+        "epoxy",
+        "strong bond"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "adhesives-sealants__electrical-tape__electrical-tape-black",
+      "name": "Electrical Tape (black)",
+      "description": "Vinyl tape for insulating electrical connections.",
+      "department": "Adhesives & Sealants",
+      "category": "Tapes",
+      "subcategory": "Electrical Tape",
+      "aisle": "Aisle 7",
+      "folder_path": "products/adhesives-sealants/tapes/electrical-tape.json",
+      "specs": {},
+      "tags": [
+        "tape",
+        "electrical tape",
+        "wiring"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "adhesives-sealants__duct-utility-tape__duct-tape-heavy-duty",
+      "name": "Duct Tape (Heavy-Duty)",
+      "description": "All-purpose utility tape for repairs, bundling, and temporary fixes.",
+      "department": "Adhesives & Sealants",
+      "category": "Tapes",
+      "subcategory": "Duct & Utility Tape",
+      "aisle": "Aisle 7",
+      "folder_path": "products/adhesives-sealants/tapes/duct-utility-tape.json",
+      "specs": {},
+      "tags": [
+        "tape",
+        "duct tape",
+        "repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "automotive__motor-oil-fluids__5w-30-motor-oil-5-qt",
+      "name": "5W-30 Motor Oil (5 qt)",
+      "description": "Conventional motor oil for routine oil changes.",
+      "department": "Automotive",
+      "category": "Fluids",
+      "subcategory": "Motor Oil & Fluids",
+      "aisle": "Aisle 14",
+      "folder_path": "products/automotive/fluids/motor-oil-fluids.json",
+      "specs": {
+        "size": "5 qt"
+      },
+      "tags": [
+        "motor oil",
+        "car maintenance"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "automotive__motor-oil-fluids__windshield-washer-fluid-1-gal",
+      "name": "Windshield Washer Fluid (1 gal)",
+      "description": "All-season washer fluid for windshield cleaning.",
+      "department": "Automotive",
+      "category": "Fluids",
+      "subcategory": "Motor Oil & Fluids",
+      "aisle": "Aisle 14",
+      "folder_path": "products/automotive/fluids/motor-oil-fluids.json",
+      "specs": {
+        "size": "1 gal"
+      },
+      "tags": [
+        "washer fluid",
+        "car maintenance"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "automotive__cleaning-detailing__car-wash-soap-1-gal",
+      "name": "Car Wash Soap (1 gal)",
+      "description": "Concentrated soap for hand-washing vehicles.",
+      "department": "Automotive",
+      "category": "Car Care",
+      "subcategory": "Cleaning & Detailing",
+      "aisle": "Aisle 14",
+      "folder_path": "products/automotive/car-care/cleaning-detailing.json",
+      "specs": {
+        "size": "1 gal"
+      },
+      "tags": [
+        "car wash",
+        "car care"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "automotive__wiper-blades__22-wiper-blade",
+      "name": "22\" Wiper Blade",
+      "description": "Replacement wiper blade for most standard vehicles.",
+      "department": "Automotive",
+      "category": "Car Care",
+      "subcategory": "Wiper Blades",
+      "aisle": "Aisle 14",
+      "folder_path": "products/automotive/car-care/wiper-blades.json",
+      "specs": {
+        "size": "22 in"
+      },
+      "tags": [
+        "wiper blade",
+        "car maintenance"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__circuit-breakers__20a-single-pole-circuit-breaker",
+      "name": "20A Single-Pole Circuit Breaker",
+      "description": "Replacement breaker for standard household panels.",
+      "department": "Electrical & Lighting",
+      "category": "Circuit Breakers & Panels",
+      "subcategory": "Circuit Breakers",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/circuit-breakers-panels/circuit-breakers.json",
+      "specs": {
+        "amperage": "20A"
+      },
+      "tags": [
+        "circuit breaker",
+        "electrical panel"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__electrical-wire__14-2-nm-b-romex-wire-25-ft",
+      "name": "14/2 NM-B Romex Wire (25 ft)",
+      "description": "Standard indoor electrical wire for 15-amp circuits.",
+      "department": "Electrical & Lighting",
+      "category": "Wiring & Cable",
+      "subcategory": "Electrical Wire",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/wiring-cable/electrical-wire.json",
+      "specs": {
+        "gauge": "14 AWG",
+        "length": "25 ft"
+      },
+      "tags": [
+        "wire",
+        "romex",
+        "electrical wiring"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__electrical-wire__12-2-nm-b-romex-wire-25-ft",
+      "name": "12/2 NM-B Romex Wire (25 ft)",
+      "description": "Electrical wire for 20-amp circuits like kitchen outlets.",
+      "department": "Electrical & Lighting",
+      "category": "Wiring & Cable",
+      "subcategory": "Electrical Wire",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/wiring-cable/electrical-wire.json",
+      "specs": {
+        "gauge": "12 AWG",
+        "length": "25 ft"
+      },
+      "tags": [
+        "wire",
+        "romex",
+        "electrical wiring"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__wire-connectors__wire-nuts-assortment",
+      "name": "Wire Nuts Assortment",
+      "description": "Twist-on connectors for joining electrical wires safely.",
+      "department": "Electrical & Lighting",
+      "category": "Wiring & Cable",
+      "subcategory": "Wire Connectors",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/wiring-cable/wire-connectors.json",
+      "specs": {},
+      "tags": [
+        "wire nut",
+        "wire connector",
+        "electrical"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__switches__single-pole-light-switch",
+      "name": "Single-Pole Light Switch",
+      "description": "Standard on/off switch for controlling a single light fixture.",
+      "department": "Electrical & Lighting",
+      "category": "Outlets & Switches",
+      "subcategory": "Switches",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/outlets-switches/switches.json",
+      "specs": {},
+      "tags": [
+        "switch",
+        "light switch",
+        "electrical"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__switches__dimmer-switch",
+      "name": "Dimmer Switch",
+      "description": "Switch that adjusts light brightness, compatible with dimmable bulbs.",
+      "department": "Electrical & Lighting",
+      "category": "Outlets & Switches",
+      "subcategory": "Switches",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/outlets-switches/switches.json",
+      "specs": {},
+      "tags": [
+        "switch",
+        "dimmer",
+        "lighting control"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__cover-plates__outlet-switch-wall-plates",
+      "name": "Outlet & Switch Wall Plates",
+      "description": "Replacement cover plates for outlets and switches.",
+      "department": "Electrical & Lighting",
+      "category": "Outlets & Switches",
+      "subcategory": "Cover Plates",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/outlets-switches/cover-plates.json",
+      "specs": {},
+      "tags": [
+        "cover plate",
+        "wall plate",
+        "electrical"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__outlets__15a-duplex-outlet",
+      "name": "15A Duplex Outlet",
+      "description": "Standard grounded outlet for general household use.",
+      "department": "Electrical & Lighting",
+      "category": "Outlets & Switches",
+      "subcategory": "Outlets",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/outlets-switches/outlets.json",
+      "specs": {
+        "amperage": "15A"
+      },
+      "tags": [
+        "outlet",
+        "receptacle",
+        "electrical"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__outlets__gfci-outlet",
+      "name": "GFCI Outlet",
+      "description": "Ground-fault protected outlet required near water sources like kitchens and bathrooms.",
+      "department": "Electrical & Lighting",
+      "category": "Outlets & Switches",
+      "subcategory": "Outlets",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/outlets-switches/outlets.json",
+      "specs": {},
+      "tags": [
+        "outlet",
+        "gfci",
+        "bathroom",
+        "kitchen",
+        "electrical safety"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__led-bulbs__led-a19-bulb-soft-white-60w-equiv",
+      "name": "LED A19 Bulb, Soft White (60W equiv)",
+      "description": "Energy-efficient bulb for lamps and general fixtures.",
+      "department": "Electrical & Lighting",
+      "category": "Light Bulbs",
+      "subcategory": "LED Bulbs",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/light-bulbs/led-bulbs.json",
+      "specs": {
+        "equivalent": "60W",
+        "color": "soft white",
+        "base": "E26"
+      },
+      "tags": [
+        "light bulb",
+        "led bulb",
+        "lamp"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__led-bulbs__led-daylight-bulb-100w-equiv",
+      "name": "LED Daylight Bulb (100W equiv)",
+      "description": "Bright, cool-white LED bulb for kitchens, garages, and workspaces.",
+      "department": "Electrical & Lighting",
+      "category": "Light Bulbs",
+      "subcategory": "LED Bulbs",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/light-bulbs/led-bulbs.json",
+      "specs": {
+        "equivalent": "100W",
+        "color": "daylight"
+      },
+      "tags": [
+        "light bulb",
+        "led bulb",
+        "daylight"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__specialty-bulbs__led-candelabra-bulb-chandelier",
+      "name": "LED Candelabra Bulb (chandelier)",
+      "description": "Small-base decorative bulb for chandeliers and sconces.",
+      "department": "Electrical & Lighting",
+      "category": "Light Bulbs",
+      "subcategory": "Specialty Bulbs",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/light-bulbs/specialty-bulbs.json",
+      "specs": {
+        "base": "E12"
+      },
+      "tags": [
+        "light bulb",
+        "candelabra bulb",
+        "chandelier"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__specialty-bulbs__outdoor-floodlight-bulb",
+      "name": "Outdoor Floodlight Bulb",
+      "description": "Weather-resistant bulb for outdoor security and floodlight fixtures.",
+      "department": "Electrical & Lighting",
+      "category": "Light Bulbs",
+      "subcategory": "Specialty Bulbs",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/light-bulbs/specialty-bulbs.json",
+      "specs": {},
+      "tags": [
+        "light bulb",
+        "floodlight",
+        "outdoor lighting"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__specialty-bulbs__3-way-led-bulb",
+      "name": "3-Way LED Bulb",
+      "description": "Bulb with three brightness settings for compatible lamps.",
+      "department": "Electrical & Lighting",
+      "category": "Light Bulbs",
+      "subcategory": "Specialty Bulbs",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/light-bulbs/specialty-bulbs.json",
+      "specs": {},
+      "tags": [
+        "light bulb",
+        "3-way bulb",
+        "lamp"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__extension-cords__25-ft-outdoor-extension-cord",
+      "name": "25 ft Outdoor Extension Cord",
+      "description": "Heavy-duty weatherproof cord for outdoor tools and lighting.",
+      "department": "Electrical & Lighting",
+      "category": "Extension Cords & Power",
+      "subcategory": "Extension Cords",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/extension-cords-power/extension-cords.json",
+      "specs": {
+        "length": "25 ft"
+      },
+      "tags": [
+        "extension cord",
+        "outdoor",
+        "power"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__power-strips-surge-protectors__6-outlet-surge-protector-power-strip",
+      "name": "6-Outlet Surge Protector Power Strip",
+      "description": "Power strip with surge protection for electronics and appliances.",
+      "department": "Electrical & Lighting",
+      "category": "Extension Cords & Power",
+      "subcategory": "Power Strips & Surge Protectors",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/extension-cords-power/power-strips-surge-protectors.json",
+      "specs": {
+        "outlets": 6
+      },
+      "tags": [
+        "power strip",
+        "surge protector",
+        "electrical"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "paint-sundries__exterior-wall-paint__exterior-acrylic-paint-satin-1-gal",
+      "name": "Exterior Acrylic Paint - Satin (1 gal)",
+      "description": "Weather-resistant paint for siding, trim, and exterior surfaces.",
+      "department": "Paint & Sundries",
+      "category": "Exterior Paint",
+      "subcategory": "Exterior Wall Paint",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/exterior-paint/exterior-wall-paint.json",
+      "specs": {
+        "finish": "satin",
+        "size": "1 gal"
+      },
+      "tags": [
+        "paint",
+        "exterior paint",
+        "siding"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "paint-sundries__deck-fence-stains__semi-transparent-deck-stain-1-gal",
+      "name": "Semi-Transparent Deck Stain (1 gal)",
+      "description": "Penetrating stain that protects wood decks while showing grain.",
+      "department": "Paint & Sundries",
+      "category": "Exterior Paint",
+      "subcategory": "Deck & Fence Stains",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/exterior-paint/deck-fence-stains.json",
+      "specs": {
+        "size": "1 gal"
+      },
+      "tags": [
+        "stain",
+        "deck stain",
+        "wood protection"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "paint-sundries__deck-fence-stains__solid-fence-stain-1-gal",
+      "name": "Solid Fence Stain (1 gal)",
+      "description": "Opaque, weather-resistant stain for fences and outdoor wood structures.",
+      "department": "Paint & Sundries",
+      "category": "Exterior Paint",
+      "subcategory": "Deck & Fence Stains",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/exterior-paint/deck-fence-stains.json",
+      "specs": {
+        "size": "1 gal"
+      },
+      "tags": [
+        "stain",
+        "fence stain",
+        "wood protection"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "paint-sundries__paint-thinners-removers__mineral-spirits-1-qt",
+      "name": "Mineral Spirits (1 qt)",
+      "description": "Solvent for thinning oil-based paint and cleaning brushes.",
+      "department": "Paint & Sundries",
+      "category": "Solvents & Thinners",
+      "subcategory": "Paint Thinners & Removers",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/solvents-thinners/paint-thinners-removers.json",
+      "specs": {
+        "size": "1 qt"
+      },
+      "tags": [
+        "solvent",
+        "mineral spirits",
+        "paint thinner",
+        "brush cleaner"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "paint-sundries__paint-thinners-removers__paint-varnish-stripper",
+      "name": "Paint & Varnish Stripper",
+      "description": "Chemical stripper for removing old paint and varnish from wood and metal.",
+      "department": "Paint & Sundries",
+      "category": "Solvents & Thinners",
+      "subcategory": "Paint Thinners & Removers",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/solvents-thinners/paint-thinners-removers.json",
+      "specs": {},
+      "tags": [
+        "solvent",
+        "paint stripper",
+        "refinishing"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "paint-sundries__paint-thinners-removers__acetone-1-qt",
+      "name": "Acetone (1 qt)",
+      "description": "Fast-evaporating solvent for cleaning tools and dissolving adhesives.",
+      "department": "Paint & Sundries",
+      "category": "Solvents & Thinners",
+      "subcategory": "Paint Thinners & Removers",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/solvents-thinners/paint-thinners-removers.json",
+      "specs": {
+        "size": "1 qt"
+      },
+      "tags": [
+        "solvent",
+        "acetone",
+        "adhesive remover",
+        "cleaner"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "paint-sundries__degreasers-cleaners__tsp-heavy-duty-cleaner",
+      "name": "TSP Heavy-Duty Cleaner",
+      "description": "Trisodium phosphate substitute for prepping walls before painting.",
+      "department": "Paint & Sundries",
+      "category": "Solvents & Thinners",
+      "subcategory": "Degreasers & Cleaners",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/solvents-thinners/degreasers-cleaners.json",
+      "specs": {},
+      "tags": [
+        "cleaner",
+        "degreaser",
+        "paint prep"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "paint-sundries__interior-wall-paint__interior-latex-paint-eggshell-1-gal",
+      "name": "Interior Latex Paint - Eggshell (1 gal)",
+      "description": "Washable eggshell-finish paint for bedrooms, living rooms, and hallways.",
+      "department": "Paint & Sundries",
+      "category": "Interior Paint",
+      "subcategory": "Interior Wall Paint",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/interior-paint/interior-wall-paint.json",
+      "specs": {
+        "finish": "eggshell",
+        "size": "1 gal"
+      },
+      "tags": [
+        "paint",
+        "interior paint",
+        "wall paint"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "paint-sundries__interior-wall-paint__interior-latex-paint-flat-1-gal",
+      "name": "Interior Latex Paint - Flat (1 gal)",
+      "description": "Low-sheen paint that hides imperfections, good for ceilings and low-traffic walls.",
+      "department": "Paint & Sundries",
+      "category": "Interior Paint",
+      "subcategory": "Interior Wall Paint",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/interior-paint/interior-wall-paint.json",
+      "specs": {
+        "finish": "flat",
+        "size": "1 gal"
+      },
+      "tags": [
+        "paint",
+        "interior paint",
+        "ceiling paint"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "paint-sundries__primers__stain-blocking-primer-1-gal",
+      "name": "Stain-Blocking Primer (1 gal)",
+      "description": "Seals stains, odors, and repairs before top-coating.",
+      "department": "Paint & Sundries",
+      "category": "Interior Paint",
+      "subcategory": "Primers",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/interior-paint/primers.json",
+      "specs": {
+        "size": "1 gal"
+      },
+      "tags": [
+        "primer",
+        "stain blocking",
+        "wall repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "paint-sundries__rollers-trays__9-roller-tray-kit",
+      "name": "9\" Roller & Tray Kit",
+      "description": "Standard roller frame, cover, and tray for painting large wall areas.",
+      "department": "Paint & Sundries",
+      "category": "Brushes, Rollers & Tape",
+      "subcategory": "Rollers & Trays",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/brushes-rollers-tape/rollers-trays.json",
+      "specs": {
+        "size": "9 in"
+      },
+      "tags": [
+        "roller",
+        "paint roller",
+        "wall paint"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "paint-sundries__painter-s-tape__1-5-painter-s-tape",
+      "name": "1.5\" Painter's Tape",
+      "description": "Low-tack tape for clean paint lines that removes without residue.",
+      "department": "Paint & Sundries",
+      "category": "Brushes, Rollers & Tape",
+      "subcategory": "Painter's Tape",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/brushes-rollers-tape/painter-s-tape.json",
+      "specs": {
+        "width": "1.5 in"
+      },
+      "tags": [
+        "tape",
+        "painter's tape",
+        "masking"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "paint-sundries__paint-brushes__2-angled-sash-brush",
+      "name": "2\" Angled Sash Brush",
+      "description": "Precision brush for cutting in edges and trim work.",
+      "department": "Paint & Sundries",
+      "category": "Brushes, Rollers & Tape",
+      "subcategory": "Paint Brushes",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/brushes-rollers-tape/paint-brushes.json",
+      "specs": {
+        "width": "2 in"
+      },
+      "tags": [
+        "brush",
+        "paint brush",
+        "trim work"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "cleaning-supplies__trash-bags__13-gallon-kitchen-trash-bags",
+      "name": "13-Gallon Kitchen Trash Bags",
+      "description": "Drawstring trash bags for kitchen use.",
+      "department": "Cleaning Supplies",
+      "category": "Trash & Storage Bags",
+      "subcategory": "Trash Bags",
+      "aisle": "Aisle 11",
+      "folder_path": "products/cleaning-supplies/trash-storage-bags/trash-bags.json",
+      "specs": {
+        "size": "13 gal"
+      },
+      "tags": [
+        "trash bag",
+        "kitchen"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "cleaning-supplies__trash-bags__42-gallon-contractor-trash-bags",
+      "name": "42-Gallon Contractor Trash Bags",
+      "description": "Heavy-duty bags for yard waste and construction debris.",
+      "department": "Cleaning Supplies",
+      "category": "Trash & Storage Bags",
+      "subcategory": "Trash Bags",
+      "aisle": "Aisle 11",
+      "folder_path": "products/cleaning-supplies/trash-storage-bags/trash-bags.json",
+      "specs": {
+        "size": "42 gal"
+      },
+      "tags": [
+        "trash bag",
+        "contractor bag",
+        "yard waste"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "cleaning-supplies__all-purpose-cleaners__all-purpose-cleaner-spray",
+      "name": "All-Purpose Cleaner Spray",
+      "description": "General cleaner for countertops, appliances, and hard surfaces.",
+      "department": "Cleaning Supplies",
+      "category": "Cleaning Chemicals",
+      "subcategory": "All-Purpose Cleaners",
+      "aisle": "Aisle 11",
+      "folder_path": "products/cleaning-supplies/cleaning-chemicals/all-purpose-cleaners.json",
+      "specs": {},
+      "tags": [
+        "cleaner",
+        "all-purpose cleaner"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "cleaning-supplies__specialty-cleaners__glass-window-cleaner",
+      "name": "Glass & Window Cleaner",
+      "description": "Streak-free cleaner for glass and mirrors.",
+      "department": "Cleaning Supplies",
+      "category": "Cleaning Chemicals",
+      "subcategory": "Specialty Cleaners",
+      "aisle": "Aisle 11",
+      "folder_path": "products/cleaning-supplies/cleaning-chemicals/specialty-cleaners.json",
+      "specs": {},
+      "tags": [
+        "cleaner",
+        "glass cleaner"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "cleaning-supplies__specialty-cleaners__bathroom-mold-mildew-remover",
+      "name": "Bathroom Mold & Mildew Remover",
+      "description": "Cleaner formulated to remove mold and mildew stains in bathrooms.",
+      "department": "Cleaning Supplies",
+      "category": "Cleaning Chemicals",
+      "subcategory": "Specialty Cleaners",
+      "aisle": "Aisle 11",
+      "folder_path": "products/cleaning-supplies/cleaning-chemicals/specialty-cleaners.json",
+      "specs": {},
+      "tags": [
+        "cleaner",
+        "mold remover",
+        "bathroom"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "cleaning-supplies__buckets-caddies__5-gallon-utility-bucket",
+      "name": "5-Gallon Utility Bucket",
+      "description": "Multi-purpose bucket for cleaning and general project use.",
+      "department": "Cleaning Supplies",
+      "category": "Cleaning Tools",
+      "subcategory": "Buckets & Caddies",
+      "aisle": "Aisle 11",
+      "folder_path": "products/cleaning-supplies/cleaning-tools/buckets-caddies.json",
+      "specs": {
+        "size": "5 gal"
+      },
+      "tags": [
+        "bucket",
+        "cleaning",
+        "utility"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "cleaning-supplies__mops-brooms__microfiber-flat-mop",
+      "name": "Microfiber Flat Mop",
+      "description": "Reusable mop for hard floors.",
+      "department": "Cleaning Supplies",
+      "category": "Cleaning Tools",
+      "subcategory": "Mops & Brooms",
+      "aisle": "Aisle 11",
+      "folder_path": "products/cleaning-supplies/cleaning-tools/mops-brooms.json",
+      "specs": {},
+      "tags": [
+        "mop",
+        "floor cleaning"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "cleaning-supplies__mops-brooms__angle-broom-dustpan-set",
+      "name": "Angle Broom & Dustpan Set",
+      "description": "Broom and dustpan combo for sweeping indoor and outdoor surfaces.",
+      "department": "Cleaning Supplies",
+      "category": "Cleaning Tools",
+      "subcategory": "Mops & Brooms",
+      "aisle": "Aisle 11",
+      "folder_path": "products/cleaning-supplies/cleaning-tools/mops-brooms.json",
+      "specs": {},
+      "tags": [
+        "broom",
+        "dustpan",
+        "sweeping"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__drywall-anchors__self-drilling-drywall-anchors-20-pack",
+      "name": "Self-Drilling Drywall Anchors (20-pack)",
+      "description": "Plastic anchors that screw directly into drywall for light-duty hanging.",
+      "department": "Fasteners & Hardware",
+      "category": "Anchors & Wall Fasteners",
+      "subcategory": "Drywall Anchors",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/anchors-wall-fasteners/drywall-anchors.json",
+      "specs": {
+        "weight_rating": "up to 50 lb"
+      },
+      "tags": [
+        "drywall anchor",
+        "wall hanging",
+        "picture frame"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__drywall-anchors__toggle-bolts-1-8",
+      "name": "Toggle Bolts 1/8\"",
+      "description": "Spring-wing toggle bolts for heavier items on hollow walls, like shelves or TV mounts.",
+      "department": "Fasteners & Hardware",
+      "category": "Anchors & Wall Fasteners",
+      "subcategory": "Drywall Anchors",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/anchors-wall-fasteners/drywall-anchors.json",
+      "specs": {
+        "weight_rating": "up to 100 lb"
+      },
+      "tags": [
+        "toggle bolt",
+        "drywall anchor",
+        "shelf",
+        "tv mount"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__concrete-anchors__concrete-sleeve-anchors-3-8",
+      "name": "Concrete Sleeve Anchors 3/8\"",
+      "description": "Expansion anchors for fastening into concrete, brick, or block.",
+      "department": "Fasteners & Hardware",
+      "category": "Anchors & Wall Fasteners",
+      "subcategory": "Concrete Anchors",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/anchors-wall-fasteners/concrete-anchors.json",
+      "specs": {
+        "size": "3/8 in"
+      },
+      "tags": [
+        "concrete anchor",
+        "masonry anchor"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__concrete-anchors__plastic-concrete-anchors-with-screws",
+      "name": "Plastic Concrete Anchors with Screws",
+      "description": "Light-duty anchors for mounting into masonry surfaces.",
+      "department": "Fasteners & Hardware",
+      "category": "Anchors & Wall Fasteners",
+      "subcategory": "Concrete Anchors",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/anchors-wall-fasteners/concrete-anchors.json",
+      "specs": {},
+      "tags": [
+        "concrete anchor",
+        "masonry anchor"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__roofing-nails__galvanized-roofing-nails-1-1-4",
+      "name": "Galvanized Roofing Nails 1-1/4\"",
+      "description": "Wide-head galvanized nails for asphalt shingles and roofing felt.",
+      "department": "Fasteners & Hardware",
+      "category": "Nails",
+      "subcategory": "Roofing Nails",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/nails/roofing-nails.json",
+      "specs": {
+        "length": "1.25 in",
+        "coating": "galvanized"
+      },
+      "tags": [
+        "roofing nail",
+        "shingles",
+        "roof repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__roofing-nails__coil-roofing-nails-for-nail-gun",
+      "name": "Coil Roofing Nails for Nail Gun",
+      "description": "Coiled roofing nails sized for pneumatic roofing nailers.",
+      "department": "Fasteners & Hardware",
+      "category": "Nails",
+      "subcategory": "Roofing Nails",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/nails/roofing-nails.json",
+      "specs": {
+        "format": "coil"
+      },
+      "tags": [
+        "roofing nail",
+        "roof repair",
+        "nail gun"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__common-framing-nails__16d-common-nails-5lb-box",
+      "name": "16d Common Nails (5lb box)",
+      "description": "Standard framing nails for structural wood-to-wood connections.",
+      "department": "Fasteners & Hardware",
+      "category": "Nails",
+      "subcategory": "Common & Framing Nails",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/nails/common-framing-nails.json",
+      "specs": {
+        "size": "16d",
+        "length": "3.5 in"
+      },
+      "tags": [
+        "nail",
+        "framing",
+        "construction"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__common-framing-nails__8d-box-nails",
+      "name": "8d Box Nails",
+      "description": "Lighter-gauge nails for general construction and box framing.",
+      "department": "Fasteners & Hardware",
+      "category": "Nails",
+      "subcategory": "Common & Framing Nails",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/nails/common-framing-nails.json",
+      "specs": {
+        "size": "8d"
+      },
+      "tags": [
+        "nail",
+        "construction",
+        "framing"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__concrete-masonry-nails__fluted-concrete-nails-2",
+      "name": "Fluted Concrete Nails 2\"",
+      "description": "Hardened steel nails for fastening directly into concrete or masonry.",
+      "department": "Fasteners & Hardware",
+      "category": "Nails",
+      "subcategory": "Concrete & Masonry Nails",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/nails/concrete-masonry-nails.json",
+      "specs": {
+        "length": "2 in"
+      },
+      "tags": [
+        "concrete nail",
+        "masonry",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__finishing-trim-nails__finishing-nails-1-1-2",
+      "name": "Finishing Nails 1-1/2\"",
+      "description": "Small-head nails for trim, molding, and cabinetry where the head is set below the surface.",
+      "department": "Fasteners & Hardware",
+      "category": "Nails",
+      "subcategory": "Finishing & Trim Nails",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/nails/finishing-trim-nails.json",
+      "specs": {
+        "length": "1.5 in"
+      },
+      "tags": [
+        "nail",
+        "trim",
+        "molding",
+        "finish carpentry"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__finishing-trim-nails__brad-nails-18-gauge-5000-pack",
+      "name": "Brad Nails 18-Gauge (5000-pack)",
+      "description": "Thin brad nails for pneumatic nailers, used in trim and craft projects.",
+      "department": "Fasteners & Hardware",
+      "category": "Nails",
+      "subcategory": "Finishing & Trim Nails",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/nails/finishing-trim-nails.json",
+      "specs": {
+        "gauge": "18",
+        "length": "assorted"
+      },
+      "tags": [
+        "nail",
+        "brad",
+        "trim",
+        "nail gun"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__machine-screws__m4-x-20mm-machine-screws-25-pack",
+      "name": "M4 x 20mm Machine Screws (25-pack)",
+      "description": "Metric machine screws for electronics and small equipment assembly.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Machine Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/machine-screws.json",
+      "specs": {
+        "size": "M4",
+        "length": "20mm"
+      },
+      "tags": [
+        "machine screw",
+        "metric",
+        "electronics"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__machine-screws__10-32-x-1-machine-screws",
+      "name": "10-32 x 1\" Machine Screws",
+      "description": "Standard machine screws for metal-to-metal fastening with a nut or tapped hole.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Machine Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/machine-screws.json",
+      "specs": {
+        "size": "10-32",
+        "length": "1 in"
+      },
+      "tags": [
+        "machine screw",
+        "metal",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__self-tapping-screws__sheet-metal-self-tapping-screws",
+      "name": "Sheet Metal Self-Tapping Screws",
+      "description": "Sharp-point screws that tap their own threads into thin metal.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Self-Tapping Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/self-tapping-screws.json",
+      "specs": {
+        "length": "3/4 in"
+      },
+      "tags": [
+        "self-tapping",
+        "sheet metal",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__self-tapping-screws__hex-washer-head-self-drilling-screws",
+      "name": "Hex Washer Head Self-Drilling Screws",
+      "description": "Self-drilling screws for attaching to steel studs and metal framing.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Self-Tapping Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/self-tapping-screws.json",
+      "specs": {
+        "drive": "hex washer"
+      },
+      "tags": [
+        "self-tapping",
+        "metal framing",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__drywall-screws__1-1-4-coarse-drywall-screws-1lb-box",
+      "name": "1-1/4\" Coarse Drywall Screws (1lb box)",
+      "description": "Standard drywall screws for hanging sheetrock to wood studs.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Drywall Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/drywall-screws.json",
+      "specs": {
+        "length": "1-1/4 in",
+        "thread": "coarse"
+      },
+      "tags": [
+        "drywall screw",
+        "sheetrock",
+        "wall repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__drywall-screws__2-fine-thread-drywall-screws",
+      "name": "2\" Fine-Thread Drywall Screws",
+      "description": "Fine-thread screws for attaching drywall to metal studs.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Drywall Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/drywall-screws.json",
+      "specs": {
+        "length": "2 in",
+        "thread": "fine"
+      },
+      "tags": [
+        "drywall screw",
+        "metal stud",
+        "wall repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__drywall-screws__self-tapping-drywall-screws-bulk-box",
+      "name": "Self-Tapping Drywall Screws (bulk box)",
+      "description": "Sharp-point screws that bite into drywall without pre-drilling.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Drywall Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/drywall-screws.json",
+      "specs": {
+        "count": "500"
+      },
+      "tags": [
+        "drywall screw",
+        "self-tapping",
+        "wall repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__deck-screws__3-exterior-deck-screws-5lb-box",
+      "name": "3\" Exterior Deck Screws (5lb box)",
+      "description": "Weather-resistant coated screws for deck boards and outdoor framing.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Deck Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/deck-screws.json",
+      "specs": {
+        "length": "3 in",
+        "coating": "ACQ-safe"
+      },
+      "tags": [
+        "deck screw",
+        "exterior",
+        "outdoor",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__deck-screws__2-1-2-composite-deck-screws",
+      "name": "2-1/2\" Composite Deck Screws",
+      "description": "Color-matched screws designed for composite decking material.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Deck Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/deck-screws.json",
+      "specs": {
+        "length": "2.5 in"
+      },
+      "tags": [
+        "deck screw",
+        "composite decking",
+        "outdoor"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__deck-screws__star-drive-deck-screws",
+      "name": "Star-Drive Deck Screws",
+      "description": "Star-drive head resists cam-out for high-torque deck installs.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Deck Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/deck-screws.json",
+      "specs": {
+        "drive": "star/torx"
+      },
+      "tags": [
+        "deck screw",
+        "outdoor",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__wood-screws__8-x-1-1-4-wood-screws-100-pack",
+      "name": "#8 x 1-1/4\" Wood Screws (100-pack)",
+      "description": "Coarse-thread wood screws for general carpentry and furniture assembly.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Wood Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/wood-screws.json",
+      "specs": {
+        "gauge": "#8",
+        "length": "1-1/4 in",
+        "drive": "Phillips",
+        "material": "steel"
+      },
+      "tags": [
+        "wood screw",
+        "carpentry",
+        "furniture",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__wood-screws__10-x-2-wood-screws-50-pack",
+      "name": "#10 x 2\" Wood Screws (50-pack)",
+      "description": "Heavier-gauge wood screws for framing and load-bearing wood joints.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Wood Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/wood-screws.json",
+      "specs": {
+        "gauge": "#10",
+        "length": "2 in",
+        "drive": "Phillips",
+        "material": "steel"
+      },
+      "tags": [
+        "wood screw",
+        "framing",
+        "joint",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__wood-screws__brass-wood-screws-assortment",
+      "name": "Brass Wood Screws Assortment",
+      "description": "Corrosion-resistant brass screws for fine furniture and cabinetry.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Wood Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/wood-screws.json",
+      "specs": {
+        "material": "brass",
+        "drive": "slotted"
+      },
+      "tags": [
+        "wood screw",
+        "brass",
+        "cabinetry",
+        "furniture"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__door-hinges__3-5-interior-door-hinges-pair",
+      "name": "3.5\" Interior Door Hinges (pair)",
+      "description": "Standard steel hinges for interior door installation or replacement.",
+      "department": "Fasteners & Hardware",
+      "category": "Hinges & Brackets",
+      "subcategory": "Door Hinges",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/hinges-brackets/door-hinges.json",
+      "specs": {
+        "size": "3.5 in"
+      },
+      "tags": [
+        "hinge",
+        "door hinge",
+        "door repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__door-hinges__self-closing-cabinet-hinges",
+      "name": "Self-Closing Cabinet Hinges",
+      "description": "Spring-loaded hinges that automatically close cabinet doors.",
+      "department": "Fasteners & Hardware",
+      "category": "Hinges & Brackets",
+      "subcategory": "Door Hinges",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/hinges-brackets/door-hinges.json",
+      "specs": {},
+      "tags": [
+        "hinge",
+        "cabinet hinge",
+        "cabinet repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__shelf-brackets-braces__10-steel-shelf-brackets-pair",
+      "name": "10\" Steel Shelf Brackets (pair)",
+      "description": "Heavy-duty L-brackets for mounting wood or wire shelving to a wall.",
+      "department": "Fasteners & Hardware",
+      "category": "Hinges & Brackets",
+      "subcategory": "Shelf Brackets & Braces",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/hinges-brackets/shelf-brackets-braces.json",
+      "specs": {
+        "size": "10 in"
+      },
+      "tags": [
+        "bracket",
+        "shelf bracket",
+        "shelving"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__shelf-brackets-braces__corner-braces-assortment",
+      "name": "Corner Braces Assortment",
+      "description": "Small L-shaped braces for reinforcing wood joints and frames.",
+      "department": "Fasteners & Hardware",
+      "category": "Hinges & Brackets",
+      "subcategory": "Shelf Brackets & Braces",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/hinges-brackets/shelf-brackets-braces.json",
+      "specs": {},
+      "tags": [
+        "bracket",
+        "corner brace",
+        "joint reinforcement"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__washers__flat-washers-assortment-kit",
+      "name": "Flat Washers Assortment Kit",
+      "description": "Assorted flat washers to distribute load under bolt and screw heads.",
+      "department": "Fasteners & Hardware",
+      "category": "Bolts, Nuts & Washers",
+      "subcategory": "Washers",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/bolts-nuts-washers/washers.json",
+      "specs": {},
+      "tags": [
+        "washer",
+        "flat washer",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__washers__lock-washers-split-ring-assortment",
+      "name": "Lock Washers (split-ring) Assortment",
+      "description": "Split-ring washers that resist loosening from vibration.",
+      "department": "Fasteners & Hardware",
+      "category": "Bolts, Nuts & Washers",
+      "subcategory": "Washers",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/bolts-nuts-washers/washers.json",
+      "specs": {},
+      "tags": [
+        "washer",
+        "lock washer",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__nuts__1-4-20-hex-nuts-50-pack",
+      "name": "1/4\"-20 Hex Nuts (50-pack)",
+      "description": "Standard hex nuts to pair with 1/4-20 bolts and threaded rod.",
+      "department": "Fasteners & Hardware",
+      "category": "Bolts, Nuts & Washers",
+      "subcategory": "Nuts",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/bolts-nuts-washers/nuts.json",
+      "specs": {
+        "size": "1/4-20"
+      },
+      "tags": [
+        "nut",
+        "hex nut",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__nuts__wing-nuts-assortment",
+      "name": "Wing Nuts Assortment",
+      "description": "Hand-tightenable nuts for parts that need frequent removal.",
+      "department": "Fasteners & Hardware",
+      "category": "Bolts, Nuts & Washers",
+      "subcategory": "Nuts",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/bolts-nuts-washers/nuts.json",
+      "specs": {},
+      "tags": [
+        "nut",
+        "wing nut",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__hex-bolts__1-4-20-x-2-hex-bolts",
+      "name": "1/4\"-20 x 2\" Hex Bolts",
+      "description": "Standard hex-head bolts for general mechanical assembly.",
+      "department": "Fasteners & Hardware",
+      "category": "Bolts, Nuts & Washers",
+      "subcategory": "Hex Bolts",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/bolts-nuts-washers/hex-bolts.json",
+      "specs": {
+        "size": "1/4-20",
+        "length": "2 in"
+      },
+      "tags": [
+        "bolt",
+        "hex bolt",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__hex-bolts__carriage-bolts-3-8-x-3",
+      "name": "Carriage Bolts 3/8\" x 3\"",
+      "description": "Smooth-head bolts for wood-to-wood connections like fences and decks.",
+      "department": "Fasteners & Hardware",
+      "category": "Bolts, Nuts & Washers",
+      "subcategory": "Hex Bolts",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/bolts-nuts-washers/hex-bolts.json",
+      "specs": {
+        "size": "3/8 in",
+        "length": "3 in"
+      },
+      "tags": [
+        "bolt",
+        "carriage bolt",
+        "fence",
+        "deck"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "building-materials__osb__7-16-osb-sheet-4x8",
+      "name": "7/16\" OSB Sheet (4x8)",
+      "description": "Oriented strand board for sheathing and subfloor applications.",
+      "department": "Building Materials",
+      "category": "Sheet Goods",
+      "subcategory": "OSB",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/sheet-goods/osb.json",
+      "specs": {
+        "thickness": "0.4375 in",
+        "size": "4x8 ft"
+      },
+      "tags": [
+        "osb",
+        "sheathing",
+        "subfloor"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "building-materials__plywood__1-2-plywood-sheet-4x8",
+      "name": "1/2\" Plywood Sheet (4x8)",
+      "description": "General-purpose plywood for shelving, subfloor, and paneling.",
+      "department": "Building Materials",
+      "category": "Sheet Goods",
+      "subcategory": "Plywood",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/sheet-goods/plywood.json",
+      "specs": {
+        "thickness": "0.5 in",
+        "size": "4x8 ft"
+      },
+      "tags": [
+        "plywood",
+        "sheet goods",
+        "subfloor"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "building-materials__pressure-treated-lumber__2x6-pressure-treated-board-8-ft",
+      "name": "2x6 Pressure-Treated Board (8 ft)",
+      "description": "Rot-resistant lumber rated for outdoor and ground contact use.",
+      "department": "Building Materials",
+      "category": "Lumber",
+      "subcategory": "Pressure-Treated Lumber",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/lumber/pressure-treated-lumber.json",
+      "specs": {
+        "length": "8 ft"
+      },
+      "tags": [
+        "lumber",
+        "pressure treated",
+        "deck",
+        "outdoor"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "building-materials__dimensional-lumber__2x4-stud-8-ft",
+      "name": "2x4 Stud (8 ft)",
+      "description": "Standard framing lumber for walls and general construction.",
+      "department": "Building Materials",
+      "category": "Lumber",
+      "subcategory": "Dimensional Lumber",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/lumber/dimensional-lumber.json",
+      "specs": {
+        "length": "8 ft"
+      },
+      "tags": [
+        "lumber",
+        "2x4",
+        "framing"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "building-materials__dimensional-lumber__1x6-pine-board-8-ft",
+      "name": "1x6 Pine Board (8 ft)",
+      "description": "General-purpose board for shelving and trim projects.",
+      "department": "Building Materials",
+      "category": "Lumber",
+      "subcategory": "Dimensional Lumber",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/lumber/dimensional-lumber.json",
+      "specs": {
+        "length": "8 ft"
+      },
+      "tags": [
+        "lumber",
+        "pine board",
+        "shelving"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "building-materials__drywall-sheets__1-2-drywall-sheet-4x8",
+      "name": "1/2\" Drywall Sheet (4x8)",
+      "description": "Standard gypsum board for interior walls and ceilings.",
+      "department": "Building Materials",
+      "category": "Drywall & Compound",
+      "subcategory": "Drywall Sheets",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/drywall-compound/drywall-sheets.json",
+      "specs": {
+        "thickness": "0.5 in",
+        "size": "4x8 ft"
+      },
+      "tags": [
+        "drywall",
+        "sheetrock",
+        "wall repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "building-materials__joint-compound-tape__joint-compound-all-purpose-5-gal",
+      "name": "Joint Compound (all-purpose, 5 gal)",
+      "description": "Ready-mixed compound for finishing drywall seams and patching holes.",
+      "department": "Building Materials",
+      "category": "Drywall & Compound",
+      "subcategory": "Joint Compound & Tape",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/drywall-compound/joint-compound-tape.json",
+      "specs": {
+        "size": "5 gal"
+      },
+      "tags": [
+        "joint compound",
+        "drywall repair",
+        "spackle"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "building-materials__joint-compound-tape__drywall-joint-tape",
+      "name": "Drywall Joint Tape",
+      "description": "Paper tape for reinforcing drywall seams before compound is applied.",
+      "department": "Building Materials",
+      "category": "Drywall & Compound",
+      "subcategory": "Joint Compound & Tape",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/drywall-compound/joint-compound-tape.json",
+      "specs": {},
+      "tags": [
+        "drywall tape",
+        "joint tape",
+        "drywall repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "building-materials__spray-foam__gap-crack-spray-foam-sealant",
+      "name": "Gap & Crack Spray Foam Sealant",
+      "description": "Expanding foam for sealing drafts around windows, doors, and pipes.",
+      "department": "Building Materials",
+      "category": "Insulation",
+      "subcategory": "Spray Foam",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/insulation/spray-foam.json",
+      "specs": {},
+      "tags": [
+        "insulation",
+        "spray foam",
+        "draft sealing"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "building-materials__batt-insulation__r-13-fiberglass-batt-insulation",
+      "name": "R-13 Fiberglass Batt Insulation",
+      "description": "Insulation for 2x4 wall cavities to improve energy efficiency.",
+      "department": "Building Materials",
+      "category": "Insulation",
+      "subcategory": "Batt Insulation",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/insulation/batt-insulation.json",
+      "specs": {
+        "r_value": "R-13"
+      },
+      "tags": [
+        "insulation",
+        "fiberglass",
+        "energy efficiency"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "building-materials__roofing-underlayment-sealant__roofing-cement-10-3-oz-tube",
+      "name": "Roofing Cement (10.3 oz tube)",
+      "description": "Waterproof sealant for patching roof leaks and flashing.",
+      "department": "Building Materials",
+      "category": "Roofing Materials",
+      "subcategory": "Roofing Underlayment & Sealant",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/roofing-materials/roofing-underlayment-sealant.json",
+      "specs": {
+        "size": "10.3 oz"
+      },
+      "tags": [
+        "roofing cement",
+        "roof repair",
+        "leak"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "building-materials__shingles__architectural-asphalt-shingles-bundle",
+      "name": "Architectural Asphalt Shingles (bundle)",
+      "description": "Dimensional shingles for residential roof replacement and repair.",
+      "department": "Building Materials",
+      "category": "Roofing Materials",
+      "subcategory": "Shingles",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/roofing-materials/shingles.json",
+      "specs": {},
+      "tags": [
+        "shingles",
+        "roofing",
+        "roof repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "housewares-kitchen__food-storage__airtight-food-storage-container-set",
+      "name": "Airtight Food Storage Container Set",
+      "description": "Stackable containers for pantry and leftover storage.",
+      "department": "Housewares & Kitchen",
+      "category": "Household Storage",
+      "subcategory": "Food Storage",
+      "aisle": "Aisle 15",
+      "folder_path": "products/housewares-kitchen/household-storage/food-storage.json",
+      "specs": {},
+      "tags": [
+        "food storage",
+        "kitchen organization"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "housewares-kitchen__countertop-appliances__2-slice-toaster",
+      "name": "2-Slice Toaster",
+      "description": "Basic countertop toaster for everyday use.",
+      "department": "Housewares & Kitchen",
+      "category": "Small Appliances",
+      "subcategory": "Countertop Appliances",
+      "aisle": "Aisle 15",
+      "folder_path": "products/housewares-kitchen/small-appliances/countertop-appliances.json",
+      "specs": {},
+      "tags": [
+        "appliance",
+        "toaster",
+        "kitchen"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "housewares-kitchen__countertop-appliances__12-cup-coffee-maker",
+      "name": "12-Cup Coffee Maker",
+      "description": "Drip coffee maker for home brewing.",
+      "department": "Housewares & Kitchen",
+      "category": "Small Appliances",
+      "subcategory": "Countertop Appliances",
+      "aisle": "Aisle 15",
+      "folder_path": "products/housewares-kitchen/small-appliances/countertop-appliances.json",
+      "specs": {},
+      "tags": [
+        "appliance",
+        "coffee maker",
+        "kitchen"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "housewares-kitchen__kitchen-gadgets__kitchen-utensil-set",
+      "name": "Kitchen Utensil Set",
+      "description": "Set of essential cooking utensils in heat-resistant nylon.",
+      "department": "Housewares & Kitchen",
+      "category": "Kitchen Tools",
+      "subcategory": "Kitchen Gadgets",
+      "aisle": "Aisle 15",
+      "folder_path": "products/housewares-kitchen/kitchen-tools/kitchen-gadgets.json",
+      "specs": {},
+      "tags": [
+        "kitchen tool",
+        "utensils",
+        "cooking"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "housewares-kitchen__kitchen-gadgets__digital-kitchen-scale",
+      "name": "Digital Kitchen Scale",
+      "description": "Scale for measuring ingredients by weight.",
+      "department": "Housewares & Kitchen",
+      "category": "Kitchen Tools",
+      "subcategory": "Kitchen Gadgets",
+      "aisle": "Aisle 15",
+      "folder_path": "products/housewares-kitchen/kitchen-tools/kitchen-gadgets.json",
+      "specs": {},
+      "tags": [
+        "kitchen tool",
+        "scale",
+        "baking"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "housewares-kitchen__cookware__10-non-stick-frying-pan",
+      "name": "10\" Non-Stick Frying Pan",
+      "description": "Everyday frying pan for stovetop cooking.",
+      "department": "Housewares & Kitchen",
+      "category": "Kitchen Tools",
+      "subcategory": "Cookware",
+      "aisle": "Aisle 15",
+      "folder_path": "products/housewares-kitchen/kitchen-tools/cookware.json",
+      "specs": {
+        "size": "10 in"
+      },
+      "tags": [
+        "cookware",
+        "frying pan",
+        "kitchen"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "housewares-kitchen__cookware__stainless-steel-pot-set",
+      "name": "Stainless Steel Pot Set",
+      "description": "Set of pots for boiling, simmering, and sauces.",
+      "department": "Housewares & Kitchen",
+      "category": "Kitchen Tools",
+      "subcategory": "Cookware",
+      "aisle": "Aisle 15",
+      "folder_path": "products/housewares-kitchen/kitchen-tools/cookware.json",
+      "specs": {},
+      "tags": [
+        "cookware",
+        "pots",
+        "kitchen"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "safety-ppe__safety-glasses-goggles__clear-safety-glasses",
+      "name": "Clear Safety Glasses",
+      "description": "ANSI-rated eye protection for cutting, grinding, and general shop work.",
+      "department": "Safety & PPE",
+      "category": "Eye & Ear Protection",
+      "subcategory": "Safety Glasses & Goggles",
+      "aisle": "Aisle 12",
+      "folder_path": "products/safety-ppe/eye-ear-protection/safety-glasses-goggles.json",
+      "specs": {},
+      "tags": [
+        "safety glasses",
+        "eye protection"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "safety-ppe__hearing-protection__foam-earplugs-pair",
+      "name": "Foam Earplugs (pair)",
+      "description": "Disposable hearing protection for loud power tool use.",
+      "department": "Safety & PPE",
+      "category": "Eye & Ear Protection",
+      "subcategory": "Hearing Protection",
+      "aisle": "Aisle 12",
+      "folder_path": "products/safety-ppe/eye-ear-protection/hearing-protection.json",
+      "specs": {},
+      "tags": [
+        "earplugs",
+        "hearing protection"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "safety-ppe__masks-respirators__n95-dust-mask-10-pack",
+      "name": "N95 Dust Mask (10-pack)",
+      "description": "Disposable mask for sanding, sweeping, and dusty work.",
+      "department": "Safety & PPE",
+      "category": "Respiratory Protection",
+      "subcategory": "Masks & Respirators",
+      "aisle": "Aisle 12",
+      "folder_path": "products/safety-ppe/respiratory-protection/masks-respirators.json",
+      "specs": {},
+      "tags": [
+        "mask",
+        "dust mask",
+        "respiratory protection"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "safety-ppe__masks-respirators__half-face-respirator",
+      "name": "Half-Face Respirator",
+      "description": "Reusable respirator with replaceable cartridges for paint fumes and solvents.",
+      "department": "Safety & PPE",
+      "category": "Respiratory Protection",
+      "subcategory": "Masks & Respirators",
+      "aisle": "Aisle 12",
+      "folder_path": "products/safety-ppe/respiratory-protection/masks-respirators.json",
+      "specs": {},
+      "tags": [
+        "respirator",
+        "paint fumes",
+        "respiratory protection"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "safety-ppe__first-aid-kits__home-first-aid-kit",
+      "name": "Home First Aid Kit",
+      "description": "Basic kit with bandages and supplies for minor injuries around the home or shop.",
+      "department": "Safety & PPE",
+      "category": "First Aid",
+      "subcategory": "First Aid Kits",
+      "aisle": "Aisle 12",
+      "folder_path": "products/safety-ppe/first-aid/first-aid-kits.json",
+      "specs": {},
+      "tags": [
+        "first aid",
+        "safety"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "safety-ppe__work-gloves__leather-work-gloves",
+      "name": "Leather Work Gloves",
+      "description": "Durable gloves for general yard work and construction tasks.",
+      "department": "Safety & PPE",
+      "category": "Hand & Body Protection",
+      "subcategory": "Work Gloves",
+      "aisle": "Aisle 12",
+      "folder_path": "products/safety-ppe/hand-body-protection/work-gloves.json",
+      "specs": {},
+      "tags": [
+        "gloves",
+        "work gloves",
+        "hand protection"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "safety-ppe__work-gloves__nitrile-disposable-gloves-box",
+      "name": "Nitrile Disposable Gloves (box)",
+      "description": "Chemical-resistant gloves for painting, cleaning, and light chemical work.",
+      "department": "Safety & PPE",
+      "category": "Hand & Body Protection",
+      "subcategory": "Work Gloves",
+      "aisle": "Aisle 12",
+      "folder_path": "products/safety-ppe/hand-body-protection/work-gloves.json",
+      "specs": {},
+      "tags": [
+        "gloves",
+        "nitrile gloves",
+        "chemical protection"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "seasonal__grill-accessories__propane-grill-tank-refill-exchange",
+      "name": "Propane Grill Tank Refill/Exchange",
+      "description": "Standard 20 lb propane tank for gas grills.",
+      "department": "Seasonal",
+      "category": "Grilling & Outdoor Cooking",
+      "subcategory": "Grill Accessories",
+      "aisle": "Aisle 16",
+      "folder_path": "products/seasonal/grilling-outdoor-cooking/grill-accessories.json",
+      "specs": {
+        "size": "20 lb"
+      },
+      "tags": [
+        "propane",
+        "grilling",
+        "outdoor cooking"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "seasonal__grill-accessories__grill-cleaning-brush",
+      "name": "Grill Cleaning Brush",
+      "description": "Wire brush for cleaning grill grates.",
+      "department": "Seasonal",
+      "category": "Grilling & Outdoor Cooking",
+      "subcategory": "Grill Accessories",
+      "aisle": "Aisle 16",
+      "folder_path": "products/seasonal/grilling-outdoor-cooking/grill-accessories.json",
+      "specs": {},
+      "tags": [
+        "grill brush",
+        "grilling",
+        "cleaning"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "seasonal__shovels-ice-melt__steel-edge-snow-shovel",
+      "name": "Steel-Edge Snow Shovel",
+      "description": "Shovel for clearing snow from walkways and driveways.",
+      "department": "Seasonal",
+      "category": "Snow Removal",
+      "subcategory": "Shovels & Ice Melt",
+      "aisle": "Aisle 16",
+      "folder_path": "products/seasonal/snow-removal/shovels-ice-melt.json",
+      "specs": {},
+      "tags": [
+        "snow shovel",
+        "snow removal",
+        "winter"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "seasonal__shovels-ice-melt__ice-melt-25-lb-bag",
+      "name": "Ice Melt (25 lb bag)",
+      "description": "Fast-acting ice melt for sidewalks and driveways.",
+      "department": "Seasonal",
+      "category": "Snow Removal",
+      "subcategory": "Shovels & Ice Melt",
+      "aisle": "Aisle 16",
+      "folder_path": "products/seasonal/snow-removal/shovels-ice-melt.json",
+      "specs": {
+        "size": "25 lb"
+      },
+      "tags": [
+        "ice melt",
+        "snow removal",
+        "winter"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "locks-security__deadbolts__single-cylinder-deadbolt",
+      "name": "Single-Cylinder Deadbolt",
+      "description": "Standard deadbolt for exterior door security.",
+      "department": "Locks & Security",
+      "category": "Door Locks",
+      "subcategory": "Deadbolts",
+      "aisle": "Aisle 9",
+      "folder_path": "products/locks-security/door-locks/deadbolts.json",
+      "specs": {},
+      "tags": [
+        "lock",
+        "deadbolt",
+        "door security"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "locks-security__deadbolts__smart-deadbolt-keypad",
+      "name": "Smart Deadbolt (keypad)",
+      "description": "Keyless deadbolt with keypad entry and smartphone app control.",
+      "department": "Locks & Security",
+      "category": "Door Locks",
+      "subcategory": "Deadbolts",
+      "aisle": "Aisle 9",
+      "folder_path": "products/locks-security/door-locks/deadbolts.json",
+      "specs": {},
+      "tags": [
+        "lock",
+        "smart lock",
+        "deadbolt",
+        "keyless entry"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "locks-security__doorknobs-levers__entry-door-lever-set",
+      "name": "Entry Door Lever Set",
+      "description": "Locking lever set for exterior doors.",
+      "department": "Locks & Security",
+      "category": "Door Locks",
+      "subcategory": "Doorknobs & Levers",
+      "aisle": "Aisle 9",
+      "folder_path": "products/locks-security/door-locks/doorknobs-levers.json",
+      "specs": {},
+      "tags": [
+        "door lock",
+        "lever set",
+        "entry door"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "locks-security__doorknobs-levers__passage-doorknob-non-locking",
+      "name": "Passage Doorknob (non-locking)",
+      "description": "Non-locking knob for closets and interior passageways.",
+      "department": "Locks & Security",
+      "category": "Door Locks",
+      "subcategory": "Doorknobs & Levers",
+      "aisle": "Aisle 9",
+      "folder_path": "products/locks-security/door-locks/doorknobs-levers.json",
+      "specs": {},
+      "tags": [
+        "doorknob",
+        "interior door"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "locks-security__home-safes__fireproof-document-safe",
+      "name": "Fireproof Document Safe",
+      "description": "Small fireproof safe for important documents and valuables.",
+      "department": "Locks & Security",
+      "category": "Safes & Security",
+      "subcategory": "Home Safes",
+      "aisle": "Aisle 9",
+      "folder_path": "products/locks-security/safes-security/home-safes.json",
+      "specs": {},
+      "tags": [
+        "safe",
+        "fireproof safe",
+        "home security"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "locks-security__cameras-alarms__wireless-security-camera",
+      "name": "Wireless Security Camera",
+      "description": "Wi-Fi camera with motion alerts for home monitoring.",
+      "department": "Locks & Security",
+      "category": "Safes & Security",
+      "subcategory": "Cameras & Alarms",
+      "aisle": "Aisle 9",
+      "folder_path": "products/locks-security/safes-security/cameras-alarms.json",
+      "specs": {},
+      "tags": [
+        "security camera",
+        "home security",
+        "surveillance"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "locks-security__cameras-alarms__door-window-alarm-sensor",
+      "name": "Door/Window Alarm Sensor",
+      "description": "Battery-powered alarm that triggers when a door or window opens.",
+      "department": "Locks & Security",
+      "category": "Safes & Security",
+      "subcategory": "Cameras & Alarms",
+      "aisle": "Aisle 9",
+      "folder_path": "products/locks-security/safes-security/cameras-alarms.json",
+      "specs": {},
+      "tags": [
+        "alarm",
+        "door sensor",
+        "home security"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "locks-security__padlocks__laminated-steel-padlock",
+      "name": "Laminated Steel Padlock",
+      "description": "Weather-resistant padlock for sheds, gates, and storage.",
+      "department": "Locks & Security",
+      "category": "Padlocks & Chains",
+      "subcategory": "Padlocks",
+      "aisle": "Aisle 9",
+      "folder_path": "products/locks-security/padlocks-chains/padlocks.json",
+      "specs": {},
+      "tags": [
+        "padlock",
+        "lock",
+        "shed",
+        "security"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "locks-security__padlocks__combination-padlock",
+      "name": "Combination Padlock",
+      "description": "Keyless padlock with resettable combination.",
+      "department": "Locks & Security",
+      "category": "Padlocks & Chains",
+      "subcategory": "Padlocks",
+      "aisle": "Aisle 9",
+      "folder_path": "products/locks-security/padlocks-chains/padlocks.json",
+      "specs": {},
+      "tags": [
+        "padlock",
+        "combination lock",
+        "security"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__rodent-control__mouse-snap-traps-4-pack",
+      "name": "Mouse Snap Traps (4-pack)",
+      "description": "Traditional traps for catching mice indoors.",
+      "department": "Outdoor & Garden",
+      "category": "Pest Control",
+      "subcategory": "Rodent Control",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/pest-control/rodent-control.json",
+      "specs": {},
+      "tags": [
+        "pest control",
+        "mouse trap",
+        "rodents"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__insect-control__ant-roach-killer-spray",
+      "name": "Ant & Roach Killer Spray",
+      "description": "Fast-acting spray for common household insects.",
+      "department": "Outdoor & Garden",
+      "category": "Pest Control",
+      "subcategory": "Insect Control",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/pest-control/insect-control.json",
+      "specs": {},
+      "tags": [
+        "pest control",
+        "insect spray",
+        "ants",
+        "roaches"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__insect-control__outdoor-insect-granules",
+      "name": "Outdoor Insect Granules",
+      "description": "Perimeter treatment for lawns to reduce insect activity.",
+      "department": "Outdoor & Garden",
+      "category": "Pest Control",
+      "subcategory": "Insect Control",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/pest-control/insect-control.json",
+      "specs": {},
+      "tags": [
+        "pest control",
+        "outdoor",
+        "insects"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__sprinklers-nozzles__oscillating-sprinkler",
+      "name": "Oscillating Sprinkler",
+      "description": "Sprinkler for even lawn watering coverage.",
+      "department": "Outdoor & Garden",
+      "category": "Hoses & Watering",
+      "subcategory": "Sprinklers & Nozzles",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/hoses-watering/sprinklers-nozzles.json",
+      "specs": {},
+      "tags": [
+        "sprinkler",
+        "lawn watering"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__sprinklers-nozzles__adjustable-hose-nozzle",
+      "name": "Adjustable Hose Nozzle",
+      "description": "Multi-pattern nozzle for hand watering and cleaning.",
+      "department": "Outdoor & Garden",
+      "category": "Hoses & Watering",
+      "subcategory": "Sprinklers & Nozzles",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/hoses-watering/sprinklers-nozzles.json",
+      "specs": {},
+      "tags": [
+        "hose nozzle",
+        "watering"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__garden-hoses__50-ft-garden-hose",
+      "name": "50 ft Garden Hose",
+      "description": "Kink-resistant hose for watering and outdoor cleaning.",
+      "department": "Outdoor & Garden",
+      "category": "Hoses & Watering",
+      "subcategory": "Garden Hoses",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/hoses-watering/garden-hoses.json",
+      "specs": {
+        "length": "50 ft"
+      },
+      "tags": [
+        "hose",
+        "garden hose",
+        "watering"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__trimmers-edgers__cordless-string-trimmer",
+      "name": "Cordless String Trimmer",
+      "description": "Battery-powered trimmer for edges and hard-to-mow areas.",
+      "department": "Outdoor & Garden",
+      "category": "Lawn Care",
+      "subcategory": "Trimmers & Edgers",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/lawn-care/trimmers-edgers.json",
+      "specs": {},
+      "tags": [
+        "trimmer",
+        "weed eater",
+        "lawn care"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__lawn-mowers-parts__21-push-lawn-mower",
+      "name": "21\" Push Lawn Mower",
+      "description": "Gas-powered push mower for small to medium residential lawns.",
+      "department": "Outdoor & Garden",
+      "category": "Lawn Care",
+      "subcategory": "Lawn Mowers & Parts",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/lawn-care/lawn-mowers-parts.json",
+      "specs": {
+        "cut_width": "21 in"
+      },
+      "tags": [
+        "lawn mower",
+        "lawn care",
+        "grass"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__lawn-mowers-parts__replacement-mower-blade",
+      "name": "Replacement Mower Blade",
+      "description": "Universal replacement blade for push mowers.",
+      "department": "Outdoor & Garden",
+      "category": "Lawn Care",
+      "subcategory": "Lawn Mowers & Parts",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/lawn-care/lawn-mowers-parts.json",
+      "specs": {},
+      "tags": [
+        "mower blade",
+        "lawn mower repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__long-handle-tools__round-point-shovel",
+      "name": "Round-Point Shovel",
+      "description": "General-purpose shovel for digging and edging.",
+      "department": "Outdoor & Garden",
+      "category": "Garden Tools",
+      "subcategory": "Long-Handle Tools",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/garden-tools/long-handle-tools.json",
+      "specs": {},
+      "tags": [
+        "garden tool",
+        "shovel",
+        "digging"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__long-handle-tools__bow-rake",
+      "name": "Bow Rake",
+      "description": "Rake for leveling soil and spreading mulch.",
+      "department": "Outdoor & Garden",
+      "category": "Garden Tools",
+      "subcategory": "Long-Handle Tools",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/garden-tools/long-handle-tools.json",
+      "specs": {},
+      "tags": [
+        "garden tool",
+        "rake",
+        "landscaping"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__hand-tools__garden-trowel",
+      "name": "Garden Trowel",
+      "description": "Hand trowel for planting and transplanting.",
+      "department": "Outdoor & Garden",
+      "category": "Garden Tools",
+      "subcategory": "Hand Tools",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/garden-tools/hand-tools.json",
+      "specs": {},
+      "tags": [
+        "garden tool",
+        "trowel",
+        "planting"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__hand-tools__pruning-shears",
+      "name": "Pruning Shears",
+      "description": "Bypass pruners for trimming small branches and stems.",
+      "department": "Outdoor & Garden",
+      "category": "Garden Tools",
+      "subcategory": "Hand Tools",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/garden-tools/hand-tools.json",
+      "specs": {},
+      "tags": [
+        "garden tool",
+        "pruning shears",
+        "trimming"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__fertilizer__all-purpose-lawn-fertilizer",
+      "name": "All-Purpose Lawn Fertilizer",
+      "description": "Granular fertilizer for promoting healthy lawn growth.",
+      "department": "Outdoor & Garden",
+      "category": "Soil, Mulch & Fertilizer",
+      "subcategory": "Fertilizer",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/soil-mulch-fertilizer/fertilizer.json",
+      "specs": {},
+      "tags": [
+        "fertilizer",
+        "lawn care"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__soil-mulch__garden-soil-1-cu-ft-bag",
+      "name": "Garden Soil (1 cu ft bag)",
+      "description": "All-purpose soil for garden beds and containers.",
+      "department": "Outdoor & Garden",
+      "category": "Soil, Mulch & Fertilizer",
+      "subcategory": "Soil & Mulch",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/soil-mulch-fertilizer/soil-mulch.json",
+      "specs": {
+        "size": "1 cu ft"
+      },
+      "tags": [
+        "soil",
+        "garden soil",
+        "planting"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__soil-mulch__hardwood-mulch-2-cu-ft-bag",
+      "name": "Hardwood Mulch (2 cu ft bag)",
+      "description": "Mulch for moisture retention and weed suppression in garden beds.",
+      "department": "Outdoor & Garden",
+      "category": "Soil, Mulch & Fertilizer",
+      "subcategory": "Soil & Mulch",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/soil-mulch-fertilizer/soil-mulch.json",
+      "specs": {
+        "size": "2 cu ft"
+      },
+      "tags": [
+        "mulch",
+        "landscaping",
+        "weed control"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "storage-organization__wall-mounted-shelving__floating-wall-shelf",
+      "name": "Floating Wall Shelf",
+      "description": "Wall-mounted shelf for display or light storage.",
+      "department": "Storage & Organization",
+      "category": "Shelving",
+      "subcategory": "Wall-Mounted Shelving",
+      "aisle": "Aisle 13",
+      "folder_path": "products/storage-organization/shelving/wall-mounted-shelving.json",
+      "specs": {},
+      "tags": [
+        "shelf",
+        "wall shelf",
+        "organization"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "storage-organization__garage-utility-shelving__5-tier-wire-shelving-unit",
+      "name": "5-Tier Wire Shelving Unit",
+      "description": "Adjustable shelving for garage, basement, or pantry storage.",
+      "department": "Storage & Organization",
+      "category": "Shelving",
+      "subcategory": "Garage & Utility Shelving",
+      "aisle": "Aisle 13",
+      "folder_path": "products/storage-organization/shelving/garage-utility-shelving.json",
+      "specs": {
+        "tiers": 5
+      },
+      "tags": [
+        "shelving",
+        "garage storage",
+        "organization"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "storage-organization__storage-totes__27-gallon-storage-tote-with-lid",
+      "name": "27-Gallon Storage Tote with Lid",
+      "description": "Stackable plastic tote for garage and basement storage.",
+      "department": "Storage & Organization",
+      "category": "Bins & Totes",
+      "subcategory": "Storage Totes",
+      "aisle": "Aisle 13",
+      "folder_path": "products/storage-organization/bins-totes/storage-totes.json",
+      "specs": {
+        "size": "27 gal"
+      },
+      "tags": [
+        "storage bin",
+        "tote",
+        "organization"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "storage-organization__small-parts-organizers__small-parts-organizer-box-24-compartment",
+      "name": "Small Parts Organizer Box (24-compartment)",
+      "description": "Compartmented box for screws, nuts, and small hardware.",
+      "department": "Storage & Organization",
+      "category": "Bins & Totes",
+      "subcategory": "Small Parts Organizers",
+      "aisle": "Aisle 13",
+      "folder_path": "products/storage-organization/bins-totes/small-parts-organizers.json",
+      "specs": {
+        "compartments": 24
+      },
+      "tags": [
+        "organizer",
+        "small parts",
+        "hardware storage"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "storage-organization__wall-hooks__heavy-duty-utility-hooks-set",
+      "name": "Heavy-Duty Utility Hooks (set)",
+      "description": "Wall-mounted hooks for hanging tools, bikes, and ladders.",
+      "department": "Storage & Organization",
+      "category": "Hooks & Hangers",
+      "subcategory": "Wall Hooks",
+      "aisle": "Aisle 13",
+      "folder_path": "products/storage-organization/hooks-hangers/wall-hooks.json",
+      "specs": {},
+      "tags": [
+        "hook",
+        "utility hook",
+        "garage organization"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "storage-organization__pegboard-systems__pegboard-panel-with-hook-kit",
+      "name": "Pegboard Panel with Hook Kit",
+      "description": "Pegboard and hook set for organizing hand tools in a garage or shop.",
+      "department": "Storage & Organization",
+      "category": "Hooks & Hangers",
+      "subcategory": "Pegboard Systems",
+      "aisle": "Aisle 13",
+      "folder_path": "products/storage-organization/hooks-hangers/pegboard-systems.json",
+      "specs": {},
+      "tags": [
+        "pegboard",
+        "tool organization",
+        "garage"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "heating-cooling-weatherization__hvac-filters__16x20x1-pleated-hvac-filter",
+      "name": "16x20x1 Pleated HVAC Filter",
+      "description": "Furnace/AC filter for improving indoor air quality.",
+      "department": "Heating, Cooling & Weatherization",
+      "category": "Air Filters",
+      "subcategory": "HVAC Filters",
+      "aisle": "Aisle 10",
+      "folder_path": "products/heating-cooling-weatherization/air-filters/hvac-filters.json",
+      "specs": {
+        "size": "16x20x1"
+      },
+      "tags": [
+        "air filter",
+        "hvac",
+        "furnace filter"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "heating-cooling-weatherization__space-heaters__ceramic-space-heater",
+      "name": "Ceramic Space Heater",
+      "description": "Compact electric heater for supplemental room heating.",
+      "department": "Heating, Cooling & Weatherization",
+      "category": "Heating",
+      "subcategory": "Space Heaters",
+      "aisle": "Aisle 10",
+      "folder_path": "products/heating-cooling-weatherization/heating/space-heaters.json",
+      "specs": {},
+      "tags": [
+        "space heater",
+        "heating"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "heating-cooling-weatherization__fans__box-fan",
+      "name": "Box Fan",
+      "description": "Portable fan for cooling and air circulation.",
+      "department": "Heating, Cooling & Weatherization",
+      "category": "Fans & Ventilation",
+      "subcategory": "Fans",
+      "aisle": "Aisle 10",
+      "folder_path": "products/heating-cooling-weatherization/fans-ventilation/fans.json",
+      "specs": {},
+      "tags": [
+        "fan",
+        "cooling",
+        "ventilation"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "heating-cooling-weatherization__fans__bathroom-exhaust-fan",
+      "name": "Bathroom Exhaust Fan",
+      "description": "Vent fan for reducing bathroom moisture and odor.",
+      "department": "Heating, Cooling & Weatherization",
+      "category": "Fans & Ventilation",
+      "subcategory": "Fans",
+      "aisle": "Aisle 10",
+      "folder_path": "products/heating-cooling-weatherization/fans-ventilation/fans.json",
+      "specs": {},
+      "tags": [
+        "exhaust fan",
+        "bathroom",
+        "ventilation"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "heating-cooling-weatherization__weatherstripping__self-adhesive-foam-weatherstrip-tape",
+      "name": "Self-Adhesive Foam Weatherstrip Tape",
+      "description": "Seals gaps around windows and doors to block drafts.",
+      "department": "Heating, Cooling & Weatherization",
+      "category": "Weatherization",
+      "subcategory": "Weatherstripping",
+      "aisle": "Aisle 10",
+      "folder_path": "products/heating-cooling-weatherization/weatherization/weatherstripping.json",
+      "specs": {},
+      "tags": [
+        "weatherstripping",
+        "draft sealing",
+        "energy efficiency"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "heating-cooling-weatherization__weatherstripping__door-sweep",
+      "name": "Door Sweep",
+      "description": "Bottom-of-door seal that blocks drafts and pests.",
+      "department": "Heating, Cooling & Weatherization",
+      "category": "Weatherization",
+      "subcategory": "Weatherstripping",
+      "aisle": "Aisle 10",
+      "folder_path": "products/heating-cooling-weatherization/weatherization/weatherstripping.json",
+      "specs": {},
+      "tags": [
+        "door sweep",
+        "draft sealing",
+        "weatherproofing"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "heating-cooling-weatherization__window-insulation__window-insulation-film-kit",
+      "name": "Window Insulation Film Kit",
+      "description": "Shrink film kit that adds an insulating layer to windows in winter.",
+      "department": "Heating, Cooling & Weatherization",
+      "category": "Weatherization",
+      "subcategory": "Window Insulation",
+      "aisle": "Aisle 10",
+      "folder_path": "products/heating-cooling-weatherization/weatherization/window-insulation.json",
+      "specs": {},
+      "tags": [
+        "window insulation",
+        "draft sealing",
+        "energy efficiency"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__pvc-pipe-fittings__1-2-pvc-pipe-10-ft",
+      "name": "1/2\" PVC Pipe (10 ft)",
+      "description": "Rigid PVC pipe for drain, waste, and vent lines.",
+      "department": "Plumbing",
+      "category": "Pipes & Fittings",
+      "subcategory": "PVC Pipe & Fittings",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/pipes-fittings/pvc-pipe-fittings.json",
+      "specs": {
+        "diameter": "0.5 in",
+        "length": "10 ft"
+      },
+      "tags": [
+        "pvc pipe",
+        "plumbing pipe",
+        "drain"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__pvc-pipe-fittings__pvc-elbow-fitting-90",
+      "name": "PVC Elbow Fitting 90\u00b0",
+      "description": "Connector for changing PVC pipe direction.",
+      "department": "Plumbing",
+      "category": "Pipes & Fittings",
+      "subcategory": "PVC Pipe & Fittings",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/pipes-fittings/pvc-pipe-fittings.json",
+      "specs": {},
+      "tags": [
+        "pvc fitting",
+        "elbow",
+        "plumbing"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__pex-pipe-fittings__1-2-pex-tubing-100-ft-coil",
+      "name": "1/2\" PEX Tubing (100 ft coil)",
+      "description": "Flexible cross-linked polyethylene tubing for water supply lines.",
+      "department": "Plumbing",
+      "category": "Pipes & Fittings",
+      "subcategory": "PEX Pipe & Fittings",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/pipes-fittings/pex-pipe-fittings.json",
+      "specs": {
+        "diameter": "0.5 in",
+        "length": "100 ft"
+      },
+      "tags": [
+        "pex",
+        "water supply",
+        "plumbing"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__copper-pipe-fittings__1-2-copper-pipe-10-ft",
+      "name": "1/2\" Copper Pipe (10 ft)",
+      "description": "Type L copper pipe for water supply lines.",
+      "department": "Plumbing",
+      "category": "Pipes & Fittings",
+      "subcategory": "Copper Pipe & Fittings",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/pipes-fittings/copper-pipe-fittings.json",
+      "specs": {
+        "diameter": "0.5 in",
+        "length": "10 ft"
+      },
+      "tags": [
+        "copper pipe",
+        "water supply",
+        "plumbing"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__drain-cleaning-tools__25-ft-drain-snake-hand-auger",
+      "name": "25 ft Drain Snake (hand auger)",
+      "description": "Manual auger for clearing clogged sink and tub drains.",
+      "department": "Plumbing",
+      "category": "Drain Care",
+      "subcategory": "Drain Cleaning Tools",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/drain-care/drain-cleaning-tools.json",
+      "specs": {
+        "length": "25 ft"
+      },
+      "tags": [
+        "drain snake",
+        "clogged drain",
+        "auger"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__drain-cleaning-tools__heavy-duty-sink-plunger",
+      "name": "Heavy-Duty Sink Plunger",
+      "description": "Cup plunger for clearing minor sink and tub clogs.",
+      "department": "Plumbing",
+      "category": "Drain Care",
+      "subcategory": "Drain Cleaning Tools",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/drain-care/drain-cleaning-tools.json",
+      "specs": {},
+      "tags": [
+        "plunger",
+        "clogged drain"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__drain-cleaning-tools__toilet-flange-plunger",
+      "name": "Toilet Flange Plunger",
+      "description": "Flanged plunger designed specifically for toilet clogs.",
+      "department": "Plumbing",
+      "category": "Drain Care",
+      "subcategory": "Drain Cleaning Tools",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/drain-care/drain-cleaning-tools.json",
+      "specs": {},
+      "tags": [
+        "plunger",
+        "clogged toilet"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__chemical-drain-cleaners__gel-drain-cleaner-32-oz",
+      "name": "Gel Drain Cleaner (32 oz)",
+      "description": "Fast-acting gel for dissolving hair and grease clogs.",
+      "department": "Plumbing",
+      "category": "Drain Care",
+      "subcategory": "Chemical Drain Cleaners",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/drain-care/chemical-drain-cleaners.json",
+      "specs": {
+        "size": "32 oz"
+      },
+      "tags": [
+        "drain cleaner",
+        "clogged drain",
+        "chemical"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__toilet-repair-kits__universal-toilet-fill-valve",
+      "name": "Universal Toilet Fill Valve",
+      "description": "Replacement fill valve to fix a toilet that runs constantly.",
+      "department": "Plumbing",
+      "category": "Toilet Parts",
+      "subcategory": "Toilet Repair Kits",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/toilet-parts/toilet-repair-kits.json",
+      "specs": {},
+      "tags": [
+        "toilet repair",
+        "fill valve",
+        "running toilet"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__toilet-repair-kits__toilet-flapper-replacement",
+      "name": "Toilet Flapper Replacement",
+      "description": "Replacement flapper to stop toilet leaks between flushes.",
+      "department": "Plumbing",
+      "category": "Toilet Parts",
+      "subcategory": "Toilet Repair Kits",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/toilet-parts/toilet-repair-kits.json",
+      "specs": {},
+      "tags": [
+        "toilet repair",
+        "flapper",
+        "running toilet"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__toilet-repair-kits__wax-ring-toilet-seal",
+      "name": "Wax Ring Toilet Seal",
+      "description": "Seals the base of the toilet to the drain flange.",
+      "department": "Plumbing",
+      "category": "Toilet Parts",
+      "subcategory": "Toilet Repair Kits",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/toilet-parts/toilet-repair-kits.json",
+      "specs": {},
+      "tags": [
+        "toilet repair",
+        "wax ring",
+        "toilet leak"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__shutoff-valves__1-2-quarter-turn-shutoff-valve",
+      "name": "1/2\" Quarter-Turn Shutoff Valve",
+      "description": "Supply-line valve for sinks and toilets, allows quick water shutoff.",
+      "department": "Plumbing",
+      "category": "Valves & Faucets",
+      "subcategory": "Shutoff Valves",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/valves-faucets/shutoff-valves.json",
+      "specs": {},
+      "tags": [
+        "valve",
+        "shutoff valve",
+        "water supply"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__faucets__single-handle-kitchen-faucet",
+      "name": "Single-Handle Kitchen Faucet",
+      "description": "Replacement kitchen faucet with pull-down sprayer.",
+      "department": "Plumbing",
+      "category": "Valves & Faucets",
+      "subcategory": "Faucets",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/valves-faucets/faucets.json",
+      "specs": {},
+      "tags": [
+        "faucet",
+        "kitchen faucet",
+        "sink"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__faucets__bathroom-sink-faucet",
+      "name": "Bathroom Sink Faucet",
+      "description": "Two-handle replacement faucet for bathroom vanities.",
+      "department": "Plumbing",
+      "category": "Valves & Faucets",
+      "subcategory": "Faucets",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/valves-faucets/faucets.json",
+      "specs": {},
+      "tags": [
+        "faucet",
+        "bathroom faucet",
+        "sink"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__faucet-repair-parts__faucet-cartridge-replacement-kit",
+      "name": "Faucet Cartridge Replacement Kit",
+      "description": "Replacement cartridge to fix a dripping single-handle faucet.",
+      "department": "Plumbing",
+      "category": "Valves & Faucets",
+      "subcategory": "Faucet Repair Parts",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/valves-faucets/faucet-repair-parts.json",
+      "specs": {},
+      "tags": [
+        "faucet repair",
+        "cartridge",
+        "leaky faucet"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__faucet-repair-parts__rubber-washers-assortment-plumbing",
+      "name": "Rubber Washers Assortment (plumbing)",
+      "description": "Assorted faucet washers to stop drips at the handle or spout.",
+      "department": "Plumbing",
+      "category": "Valves & Faucets",
+      "subcategory": "Faucet Repair Parts",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/valves-faucets/faucet-repair-parts.json",
+      "specs": {},
+      "tags": [
+        "faucet repair",
+        "washer",
+        "leaky faucet"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__batteries-chargers__18v-lithium-ion-battery-pack",
+      "name": "18V Lithium-Ion Battery Pack",
+      "description": "Replacement/spare battery for compatible cordless power tools.",
+      "department": "Hand & Power Tools",
+      "category": "Power Tools",
+      "subcategory": "Batteries & Chargers",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/power-tools/batteries-chargers.json",
+      "specs": {
+        "voltage": "18V"
+      },
+      "tags": [
+        "battery",
+        "cordless tool",
+        "charger"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__saws__7-1-4-circular-saw",
+      "name": "7-1/4\" Circular Saw",
+      "description": "Corded circular saw for straight cuts in lumber and sheet goods.",
+      "department": "Hand & Power Tools",
+      "category": "Power Tools",
+      "subcategory": "Saws",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/power-tools/saws.json",
+      "specs": {
+        "blade": "7.25 in"
+      },
+      "tags": [
+        "saw",
+        "circular saw",
+        "cutting"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__saws__cordless-jigsaw",
+      "name": "Cordless Jigsaw",
+      "description": "Handheld saw for curved and detail cuts in wood, plastic, and metal.",
+      "department": "Hand & Power Tools",
+      "category": "Power Tools",
+      "subcategory": "Saws",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/power-tools/saws.json",
+      "specs": {},
+      "tags": [
+        "saw",
+        "jigsaw",
+        "cutting"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__saws__reciprocating-saw",
+      "name": "Reciprocating Saw",
+      "description": "Heavy-duty saw for demolition and rough cutting.",
+      "department": "Hand & Power Tools",
+      "category": "Power Tools",
+      "subcategory": "Saws",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/power-tools/saws.json",
+      "specs": {},
+      "tags": [
+        "saw",
+        "reciprocating saw",
+        "demolition"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__drills-drivers__18v-cordless-drill-driver-kit",
+      "name": "18V Cordless Drill/Driver Kit",
+      "description": "Cordless drill with battery and charger for drilling and driving screws.",
+      "department": "Hand & Power Tools",
+      "category": "Power Tools",
+      "subcategory": "Drills & Drivers",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/power-tools/drills-drivers.json",
+      "specs": {
+        "voltage": "18V"
+      },
+      "tags": [
+        "drill",
+        "cordless drill",
+        "driver"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__drills-drivers__impact-driver",
+      "name": "Impact Driver",
+      "description": "High-torque driver for driving long screws and lag bolts quickly.",
+      "department": "Hand & Power Tools",
+      "category": "Power Tools",
+      "subcategory": "Drills & Drivers",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/power-tools/drills-drivers.json",
+      "specs": {},
+      "tags": [
+        "impact driver",
+        "screws",
+        "lag bolt"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__drills-drivers__drill-bit-set-titanium-coated",
+      "name": "Drill Bit Set (Titanium-coated)",
+      "description": "Assorted bit sizes for drilling wood, metal, and plastic.",
+      "department": "Hand & Power Tools",
+      "category": "Power Tools",
+      "subcategory": "Drills & Drivers",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/power-tools/drills-drivers.json",
+      "specs": {},
+      "tags": [
+        "drill bit",
+        "drilling"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__sanders-grinders__orbital-sander",
+      "name": "Orbital Sander",
+      "description": "Palm sander for smoothing wood surfaces before finishing.",
+      "department": "Hand & Power Tools",
+      "category": "Power Tools",
+      "subcategory": "Sanders & Grinders",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/power-tools/sanders-grinders.json",
+      "specs": {},
+      "tags": [
+        "sander",
+        "sanding",
+        "wood finishing"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__sanders-grinders__angle-grinder-4-1-2",
+      "name": "Angle Grinder 4-1/2\"",
+      "description": "Grinder for cutting, grinding, and polishing metal.",
+      "department": "Hand & Power Tools",
+      "category": "Power Tools",
+      "subcategory": "Sanders & Grinders",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/power-tools/sanders-grinders.json",
+      "specs": {
+        "disc": "4.5 in"
+      },
+      "tags": [
+        "grinder",
+        "metal work",
+        "cutting"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__pliers-cutters__slip-joint-pliers",
+      "name": "Slip-Joint Pliers",
+      "description": "General-purpose gripping pliers with adjustable jaw width.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Pliers & Cutters",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/pliers-cutters.json",
+      "specs": {},
+      "tags": [
+        "pliers",
+        "gripping tool"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__pliers-cutters__wire-cutters-diagonal-cutters",
+      "name": "Wire Cutters / Diagonal Cutters",
+      "description": "Cutting pliers for wire, cable ties, and small-gauge wire.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Pliers & Cutters",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/pliers-cutters.json",
+      "specs": {},
+      "tags": [
+        "pliers",
+        "wire cutter",
+        "electrical"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__pliers-cutters__locking-pliers-vise-grip-style",
+      "name": "Locking Pliers (Vise-Grip style)",
+      "description": "Self-locking pliers for clamping and holding stubborn fasteners.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Pliers & Cutters",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/pliers-cutters.json",
+      "specs": {},
+      "tags": [
+        "pliers",
+        "locking pliers",
+        "clamp"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__wrenches__adjustable-wrench-10",
+      "name": "Adjustable Wrench 10\"",
+      "description": "Adjustable jaw wrench for plumbing and general mechanical work.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Wrenches",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/wrenches.json",
+      "specs": {
+        "length": "10 in"
+      },
+      "tags": [
+        "wrench",
+        "adjustable wrench",
+        "plumbing"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__wrenches__combination-wrench-set-sae",
+      "name": "Combination Wrench Set (SAE)",
+      "description": "Standard open/box-end wrench set for nuts and bolts.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Wrenches",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/wrenches.json",
+      "specs": {},
+      "tags": [
+        "wrench",
+        "socket",
+        "mechanical repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__screwdrivers-nut-drivers__6-piece-screwdriver-set",
+      "name": "6-Piece Screwdriver Set",
+      "description": "Phillips and flathead screwdrivers in common sizes for everyday repairs.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Screwdrivers & Nut Drivers",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/screwdrivers-nut-drivers.json",
+      "specs": {
+        "pieces": 6
+      },
+      "tags": [
+        "screwdriver",
+        "hand tool",
+        "repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__screwdrivers-nut-drivers__precision-screwdriver-set",
+      "name": "Precision Screwdriver Set",
+      "description": "Small screwdrivers for electronics, eyeglasses, and small appliances.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Screwdrivers & Nut Drivers",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/screwdrivers-nut-drivers.json",
+      "specs": {},
+      "tags": [
+        "screwdriver",
+        "electronics repair",
+        "precision"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__hammers-mallets__16-oz-curved-claw-hammer",
+      "name": "16 oz Curved-Claw Hammer",
+      "description": "All-purpose hammer for driving and pulling nails.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Hammers & Mallets",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/hammers-mallets.json",
+      "specs": {
+        "weight": "16 oz"
+      },
+      "tags": [
+        "hammer",
+        "nail",
+        "framing"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__hammers-mallets__rubber-mallet",
+      "name": "Rubber Mallet",
+      "description": "Soft-face mallet for assembling furniture and tapping parts without marring surfaces.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Hammers & Mallets",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/hammers-mallets.json",
+      "specs": {},
+      "tags": [
+        "mallet",
+        "furniture assembly"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__measuring-layout__25-ft-tape-measure",
+      "name": "25 ft Tape Measure",
+      "description": "Retractable tape measure with belt clip for general project use.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Measuring & Layout",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/measuring-layout.json",
+      "specs": {
+        "length": "25 ft"
+      },
+      "tags": [
+        "tape measure",
+        "measuring",
+        "layout"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__measuring-layout__24-torpedo-box-level",
+      "name": "24\" Torpedo & Box Level",
+      "description": "Level for checking horizontal and vertical alignment on shelves, frames, and pictures.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Measuring & Layout",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/measuring-layout.json",
+      "specs": {
+        "length": "24 in"
+      },
+      "tags": [
+        "level",
+        "measuring",
+        "alignment"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__measuring-layout__combination-square",
+      "name": "Combination Square",
+      "description": "Multi-use square for marking 90 and 45-degree angles.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Measuring & Layout",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/measuring-layout.json",
+      "specs": {},
+      "tags": [
+        "square",
+        "measuring",
+        "layout"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__step-ladders__6-ft-aluminum-step-ladder",
+      "name": "6 ft Aluminum Step Ladder",
+      "description": "Lightweight step ladder for indoor and light outdoor tasks.",
+      "department": "Hand & Power Tools",
+      "category": "Ladders & Access",
+      "subcategory": "Step Ladders",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/ladders-access/step-ladders.json",
+      "specs": {
+        "height": "6 ft"
+      },
+      "tags": [
+        "ladder",
+        "step ladder",
+        "access"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__extension-ladders__20-ft-extension-ladder",
+      "name": "20 ft Extension Ladder",
+      "description": "Extendable ladder for roof and gutter access.",
+      "department": "Hand & Power Tools",
+      "category": "Ladders & Access",
+      "subcategory": "Extension Ladders",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/ladders-access/extension-ladders.json",
+      "specs": {
+        "height": "20 ft"
+      },
+      "tags": [
+        "ladder",
+        "extension ladder",
+        "roof access",
+        "gutter"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

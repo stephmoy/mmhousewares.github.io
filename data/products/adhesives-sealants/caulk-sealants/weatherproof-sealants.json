@@ -1,0 +1,26 @@
+{
+  "department": "Adhesives & Sealants",
+  "category": "Caulk & Sealants",
+  "subcategory": "Weatherproof Sealants",
+  "aisle": "Aisle 7",
+  "products": [
+    {
+      "id": "adhesives-sealants__weatherproof-sealants__exterior-window-door-sealant",
+      "name": "Exterior Window & Door Sealant",
+      "description": "Weatherproof sealant for gaps around windows and doors.",
+      "department": "Adhesives & Sealants",
+      "category": "Caulk & Sealants",
+      "subcategory": "Weatherproof Sealants",
+      "aisle": "Aisle 7",
+      "folder_path": "products/adhesives-sealants/caulk-sealants/weatherproof-sealants.json",
+      "specs": {},
+      "tags": [
+        "sealant",
+        "weatherproofing",
+        "draft sealing"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

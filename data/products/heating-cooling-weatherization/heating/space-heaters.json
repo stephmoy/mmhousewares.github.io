@@ -1,0 +1,25 @@
+{
+  "department": "Heating, Cooling & Weatherization",
+  "category": "Heating",
+  "subcategory": "Space Heaters",
+  "aisle": "Aisle 10",
+  "products": [
+    {
+      "id": "heating-cooling-weatherization__space-heaters__ceramic-space-heater",
+      "name": "Ceramic Space Heater",
+      "description": "Compact electric heater for supplemental room heating.",
+      "department": "Heating, Cooling & Weatherization",
+      "category": "Heating",
+      "subcategory": "Space Heaters",
+      "aisle": "Aisle 10",
+      "folder_path": "products/heating-cooling-weatherization/heating/space-heaters.json",
+      "specs": {},
+      "tags": [
+        "space heater",
+        "heating"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

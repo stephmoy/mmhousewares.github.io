@@ -1,0 +1,27 @@
+{
+  "department": "Electrical & Lighting",
+  "category": "Circuit Breakers & Panels",
+  "subcategory": "Circuit Breakers",
+  "aisle": "Aisle 5",
+  "products": [
+    {
+      "id": "electrical-lighting__circuit-breakers__20a-single-pole-circuit-breaker",
+      "name": "20A Single-Pole Circuit Breaker",
+      "description": "Replacement breaker for standard household panels.",
+      "department": "Electrical & Lighting",
+      "category": "Circuit Breakers & Panels",
+      "subcategory": "Circuit Breakers",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/circuit-breakers-panels/circuit-breakers.json",
+      "specs": {
+        "amperage": "20A"
+      },
+      "tags": [
+        "circuit breaker",
+        "electrical panel"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

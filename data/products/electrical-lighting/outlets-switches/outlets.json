@@ -1,0 +1,48 @@
+{
+  "department": "Electrical & Lighting",
+  "category": "Outlets & Switches",
+  "subcategory": "Outlets",
+  "aisle": "Aisle 5",
+  "products": [
+    {
+      "id": "electrical-lighting__outlets__15a-duplex-outlet",
+      "name": "15A Duplex Outlet",
+      "description": "Standard grounded outlet for general household use.",
+      "department": "Electrical & Lighting",
+      "category": "Outlets & Switches",
+      "subcategory": "Outlets",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/outlets-switches/outlets.json",
+      "specs": {
+        "amperage": "15A"
+      },
+      "tags": [
+        "outlet",
+        "receptacle",
+        "electrical"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__outlets__gfci-outlet",
+      "name": "GFCI Outlet",
+      "description": "Ground-fault protected outlet required near water sources like kitchens and bathrooms.",
+      "department": "Electrical & Lighting",
+      "category": "Outlets & Switches",
+      "subcategory": "Outlets",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/outlets-switches/outlets.json",
+      "specs": {},
+      "tags": [
+        "outlet",
+        "gfci",
+        "bathroom",
+        "kitchen",
+        "electrical safety"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

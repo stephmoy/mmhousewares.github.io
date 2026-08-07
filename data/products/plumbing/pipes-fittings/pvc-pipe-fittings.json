@@ -1,0 +1,47 @@
+{
+  "department": "Plumbing",
+  "category": "Pipes & Fittings",
+  "subcategory": "PVC Pipe & Fittings",
+  "aisle": "Aisle 4",
+  "products": [
+    {
+      "id": "plumbing__pvc-pipe-fittings__1-2-pvc-pipe-10-ft",
+      "name": "1/2\" PVC Pipe (10 ft)",
+      "description": "Rigid PVC pipe for drain, waste, and vent lines.",
+      "department": "Plumbing",
+      "category": "Pipes & Fittings",
+      "subcategory": "PVC Pipe & Fittings",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/pipes-fittings/pvc-pipe-fittings.json",
+      "specs": {
+        "diameter": "0.5 in",
+        "length": "10 ft"
+      },
+      "tags": [
+        "pvc pipe",
+        "plumbing pipe",
+        "drain"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__pvc-pipe-fittings__pvc-elbow-fitting-90",
+      "name": "PVC Elbow Fitting 90\u00b0",
+      "description": "Connector for changing PVC pipe direction.",
+      "department": "Plumbing",
+      "category": "Pipes & Fittings",
+      "subcategory": "PVC Pipe & Fittings",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/pipes-fittings/pvc-pipe-fittings.json",
+      "specs": {},
+      "tags": [
+        "pvc fitting",
+        "elbow",
+        "plumbing"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

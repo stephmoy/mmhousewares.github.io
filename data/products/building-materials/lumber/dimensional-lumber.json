@@ -1,0 +1,48 @@
+{
+  "department": "Building Materials",
+  "category": "Lumber",
+  "subcategory": "Dimensional Lumber",
+  "aisle": "Aisle 6",
+  "products": [
+    {
+      "id": "building-materials__dimensional-lumber__2x4-stud-8-ft",
+      "name": "2x4 Stud (8 ft)",
+      "description": "Standard framing lumber for walls and general construction.",
+      "department": "Building Materials",
+      "category": "Lumber",
+      "subcategory": "Dimensional Lumber",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/lumber/dimensional-lumber.json",
+      "specs": {
+        "length": "8 ft"
+      },
+      "tags": [
+        "lumber",
+        "2x4",
+        "framing"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "building-materials__dimensional-lumber__1x6-pine-board-8-ft",
+      "name": "1x6 Pine Board (8 ft)",
+      "description": "General-purpose board for shelving and trim projects.",
+      "department": "Building Materials",
+      "category": "Lumber",
+      "subcategory": "Dimensional Lumber",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/lumber/dimensional-lumber.json",
+      "specs": {
+        "length": "8 ft"
+      },
+      "tags": [
+        "lumber",
+        "pine board",
+        "shelving"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

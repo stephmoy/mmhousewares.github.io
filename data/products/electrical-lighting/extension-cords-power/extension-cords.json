@@ -1,0 +1,28 @@
+{
+  "department": "Electrical & Lighting",
+  "category": "Extension Cords & Power",
+  "subcategory": "Extension Cords",
+  "aisle": "Aisle 5",
+  "products": [
+    {
+      "id": "electrical-lighting__extension-cords__25-ft-outdoor-extension-cord",
+      "name": "25 ft Outdoor Extension Cord",
+      "description": "Heavy-duty weatherproof cord for outdoor tools and lighting.",
+      "department": "Electrical & Lighting",
+      "category": "Extension Cords & Power",
+      "subcategory": "Extension Cords",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/extension-cords-power/extension-cords.json",
+      "specs": {
+        "length": "25 ft"
+      },
+      "tags": [
+        "extension cord",
+        "outdoor",
+        "power"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

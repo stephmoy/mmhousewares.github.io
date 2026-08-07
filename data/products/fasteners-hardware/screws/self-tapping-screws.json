@@ -1,0 +1,48 @@
+{
+  "department": "Fasteners & Hardware",
+  "category": "Screws",
+  "subcategory": "Self-Tapping Screws",
+  "aisle": "Aisle 1",
+  "products": [
+    {
+      "id": "fasteners-hardware__self-tapping-screws__sheet-metal-self-tapping-screws",
+      "name": "Sheet Metal Self-Tapping Screws",
+      "description": "Sharp-point screws that tap their own threads into thin metal.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Self-Tapping Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/self-tapping-screws.json",
+      "specs": {
+        "length": "3/4 in"
+      },
+      "tags": [
+        "self-tapping",
+        "sheet metal",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__self-tapping-screws__hex-washer-head-self-drilling-screws",
+      "name": "Hex Washer Head Self-Drilling Screws",
+      "description": "Self-drilling screws for attaching to steel studs and metal framing.",
+      "department": "Fasteners & Hardware",
+      "category": "Screws",
+      "subcategory": "Self-Tapping Screws",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/screws/self-tapping-screws.json",
+      "specs": {
+        "drive": "hex washer"
+      },
+      "tags": [
+        "self-tapping",
+        "metal framing",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

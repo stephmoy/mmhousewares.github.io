@@ -1,0 +1,47 @@
+{
+  "department": "Cleaning Supplies",
+  "category": "Trash & Storage Bags",
+  "subcategory": "Trash Bags",
+  "aisle": "Aisle 11",
+  "products": [
+    {
+      "id": "cleaning-supplies__trash-bags__13-gallon-kitchen-trash-bags",
+      "name": "13-Gallon Kitchen Trash Bags",
+      "description": "Drawstring trash bags for kitchen use.",
+      "department": "Cleaning Supplies",
+      "category": "Trash & Storage Bags",
+      "subcategory": "Trash Bags",
+      "aisle": "Aisle 11",
+      "folder_path": "products/cleaning-supplies/trash-storage-bags/trash-bags.json",
+      "specs": {
+        "size": "13 gal"
+      },
+      "tags": [
+        "trash bag",
+        "kitchen"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "cleaning-supplies__trash-bags__42-gallon-contractor-trash-bags",
+      "name": "42-Gallon Contractor Trash Bags",
+      "description": "Heavy-duty bags for yard waste and construction debris.",
+      "department": "Cleaning Supplies",
+      "category": "Trash & Storage Bags",
+      "subcategory": "Trash Bags",
+      "aisle": "Aisle 11",
+      "folder_path": "products/cleaning-supplies/trash-storage-bags/trash-bags.json",
+      "specs": {
+        "size": "42 gal"
+      },
+      "tags": [
+        "trash bag",
+        "contractor bag",
+        "yard waste"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

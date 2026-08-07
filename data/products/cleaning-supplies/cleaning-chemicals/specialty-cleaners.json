@@ -1,0 +1,43 @@
+{
+  "department": "Cleaning Supplies",
+  "category": "Cleaning Chemicals",
+  "subcategory": "Specialty Cleaners",
+  "aisle": "Aisle 11",
+  "products": [
+    {
+      "id": "cleaning-supplies__specialty-cleaners__glass-window-cleaner",
+      "name": "Glass & Window Cleaner",
+      "description": "Streak-free cleaner for glass and mirrors.",
+      "department": "Cleaning Supplies",
+      "category": "Cleaning Chemicals",
+      "subcategory": "Specialty Cleaners",
+      "aisle": "Aisle 11",
+      "folder_path": "products/cleaning-supplies/cleaning-chemicals/specialty-cleaners.json",
+      "specs": {},
+      "tags": [
+        "cleaner",
+        "glass cleaner"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "cleaning-supplies__specialty-cleaners__bathroom-mold-mildew-remover",
+      "name": "Bathroom Mold & Mildew Remover",
+      "description": "Cleaner formulated to remove mold and mildew stains in bathrooms.",
+      "department": "Cleaning Supplies",
+      "category": "Cleaning Chemicals",
+      "subcategory": "Specialty Cleaners",
+      "aisle": "Aisle 11",
+      "folder_path": "products/cleaning-supplies/cleaning-chemicals/specialty-cleaners.json",
+      "specs": {},
+      "tags": [
+        "cleaner",
+        "mold remover",
+        "bathroom"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

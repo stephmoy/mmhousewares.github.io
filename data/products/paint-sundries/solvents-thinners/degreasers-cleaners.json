@@ -1,0 +1,26 @@
+{
+  "department": "Paint & Sundries",
+  "category": "Solvents & Thinners",
+  "subcategory": "Degreasers & Cleaners",
+  "aisle": "Aisle 3",
+  "products": [
+    {
+      "id": "paint-sundries__degreasers-cleaners__tsp-heavy-duty-cleaner",
+      "name": "TSP Heavy-Duty Cleaner",
+      "description": "Trisodium phosphate substitute for prepping walls before painting.",
+      "department": "Paint & Sundries",
+      "category": "Solvents & Thinners",
+      "subcategory": "Degreasers & Cleaners",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/solvents-thinners/degreasers-cleaners.json",
+      "specs": {},
+      "tags": [
+        "cleaner",
+        "degreaser",
+        "paint prep"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

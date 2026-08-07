@@ -1,0 +1,27 @@
+{
+  "department": "Automotive",
+  "category": "Car Care",
+  "subcategory": "Cleaning & Detailing",
+  "aisle": "Aisle 14",
+  "products": [
+    {
+      "id": "automotive__cleaning-detailing__car-wash-soap-1-gal",
+      "name": "Car Wash Soap (1 gal)",
+      "description": "Concentrated soap for hand-washing vehicles.",
+      "department": "Automotive",
+      "category": "Car Care",
+      "subcategory": "Cleaning & Detailing",
+      "aisle": "Aisle 14",
+      "folder_path": "products/automotive/car-care/cleaning-detailing.json",
+      "specs": {
+        "size": "1 gal"
+      },
+      "tags": [
+        "car wash",
+        "car care"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

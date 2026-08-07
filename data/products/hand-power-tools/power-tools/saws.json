@@ -1,0 +1,64 @@
+{
+  "department": "Hand & Power Tools",
+  "category": "Power Tools",
+  "subcategory": "Saws",
+  "aisle": "Aisle 2",
+  "products": [
+    {
+      "id": "hand-power-tools__saws__7-1-4-circular-saw",
+      "name": "7-1/4\" Circular Saw",
+      "description": "Corded circular saw for straight cuts in lumber and sheet goods.",
+      "department": "Hand & Power Tools",
+      "category": "Power Tools",
+      "subcategory": "Saws",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/power-tools/saws.json",
+      "specs": {
+        "blade": "7.25 in"
+      },
+      "tags": [
+        "saw",
+        "circular saw",
+        "cutting"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__saws__cordless-jigsaw",
+      "name": "Cordless Jigsaw",
+      "description": "Handheld saw for curved and detail cuts in wood, plastic, and metal.",
+      "department": "Hand & Power Tools",
+      "category": "Power Tools",
+      "subcategory": "Saws",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/power-tools/saws.json",
+      "specs": {},
+      "tags": [
+        "saw",
+        "jigsaw",
+        "cutting"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__saws__reciprocating-saw",
+      "name": "Reciprocating Saw",
+      "description": "Heavy-duty saw for demolition and rough cutting.",
+      "department": "Hand & Power Tools",
+      "category": "Power Tools",
+      "subcategory": "Saws",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/power-tools/saws.json",
+      "specs": {},
+      "tags": [
+        "saw",
+        "reciprocating saw",
+        "demolition"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

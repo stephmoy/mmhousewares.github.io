@@ -1,0 +1,44 @@
+{
+  "department": "Housewares & Kitchen",
+  "category": "Kitchen Tools",
+  "subcategory": "Kitchen Gadgets",
+  "aisle": "Aisle 15",
+  "products": [
+    {
+      "id": "housewares-kitchen__kitchen-gadgets__kitchen-utensil-set",
+      "name": "Kitchen Utensil Set",
+      "description": "Set of essential cooking utensils in heat-resistant nylon.",
+      "department": "Housewares & Kitchen",
+      "category": "Kitchen Tools",
+      "subcategory": "Kitchen Gadgets",
+      "aisle": "Aisle 15",
+      "folder_path": "products/housewares-kitchen/kitchen-tools/kitchen-gadgets.json",
+      "specs": {},
+      "tags": [
+        "kitchen tool",
+        "utensils",
+        "cooking"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "housewares-kitchen__kitchen-gadgets__digital-kitchen-scale",
+      "name": "Digital Kitchen Scale",
+      "description": "Scale for measuring ingredients by weight.",
+      "department": "Housewares & Kitchen",
+      "category": "Kitchen Tools",
+      "subcategory": "Kitchen Gadgets",
+      "aisle": "Aisle 15",
+      "folder_path": "products/housewares-kitchen/kitchen-tools/kitchen-gadgets.json",
+      "specs": {},
+      "tags": [
+        "kitchen tool",
+        "scale",
+        "baking"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

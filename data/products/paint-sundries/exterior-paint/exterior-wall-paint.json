@@ -1,0 +1,29 @@
+{
+  "department": "Paint & Sundries",
+  "category": "Exterior Paint",
+  "subcategory": "Exterior Wall Paint",
+  "aisle": "Aisle 3",
+  "products": [
+    {
+      "id": "paint-sundries__exterior-wall-paint__exterior-acrylic-paint-satin-1-gal",
+      "name": "Exterior Acrylic Paint - Satin (1 gal)",
+      "description": "Weather-resistant paint for siding, trim, and exterior surfaces.",
+      "department": "Paint & Sundries",
+      "category": "Exterior Paint",
+      "subcategory": "Exterior Wall Paint",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/exterior-paint/exterior-wall-paint.json",
+      "specs": {
+        "finish": "satin",
+        "size": "1 gal"
+      },
+      "tags": [
+        "paint",
+        "exterior paint",
+        "siding"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

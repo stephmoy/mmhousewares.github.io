@@ -1,0 +1,28 @@
+{
+  "department": "Paint & Sundries",
+  "category": "Brushes, Rollers & Tape",
+  "subcategory": "Painter's Tape",
+  "aisle": "Aisle 3",
+  "products": [
+    {
+      "id": "paint-sundries__painter-s-tape__1-5-painter-s-tape",
+      "name": "1.5\" Painter's Tape",
+      "description": "Low-tack tape for clean paint lines that removes without residue.",
+      "department": "Paint & Sundries",
+      "category": "Brushes, Rollers & Tape",
+      "subcategory": "Painter's Tape",
+      "aisle": "Aisle 3",
+      "folder_path": "products/paint-sundries/brushes-rollers-tape/painter-s-tape.json",
+      "specs": {
+        "width": "1.5 in"
+      },
+      "tags": [
+        "tape",
+        "painter's tape",
+        "masking"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

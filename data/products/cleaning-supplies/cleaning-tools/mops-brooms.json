@@ -1,0 +1,43 @@
+{
+  "department": "Cleaning Supplies",
+  "category": "Cleaning Tools",
+  "subcategory": "Mops & Brooms",
+  "aisle": "Aisle 11",
+  "products": [
+    {
+      "id": "cleaning-supplies__mops-brooms__microfiber-flat-mop",
+      "name": "Microfiber Flat Mop",
+      "description": "Reusable mop for hard floors.",
+      "department": "Cleaning Supplies",
+      "category": "Cleaning Tools",
+      "subcategory": "Mops & Brooms",
+      "aisle": "Aisle 11",
+      "folder_path": "products/cleaning-supplies/cleaning-tools/mops-brooms.json",
+      "specs": {},
+      "tags": [
+        "mop",
+        "floor cleaning"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "cleaning-supplies__mops-brooms__angle-broom-dustpan-set",
+      "name": "Angle Broom & Dustpan Set",
+      "description": "Broom and dustpan combo for sweeping indoor and outdoor surfaces.",
+      "department": "Cleaning Supplies",
+      "category": "Cleaning Tools",
+      "subcategory": "Mops & Brooms",
+      "aisle": "Aisle 11",
+      "folder_path": "products/cleaning-supplies/cleaning-tools/mops-brooms.json",
+      "specs": {},
+      "tags": [
+        "broom",
+        "dustpan",
+        "sweeping"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

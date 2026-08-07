@@ -1,0 +1,44 @@
+{
+  "department": "Heating, Cooling & Weatherization",
+  "category": "Weatherization",
+  "subcategory": "Weatherstripping",
+  "aisle": "Aisle 10",
+  "products": [
+    {
+      "id": "heating-cooling-weatherization__weatherstripping__self-adhesive-foam-weatherstrip-tape",
+      "name": "Self-Adhesive Foam Weatherstrip Tape",
+      "description": "Seals gaps around windows and doors to block drafts.",
+      "department": "Heating, Cooling & Weatherization",
+      "category": "Weatherization",
+      "subcategory": "Weatherstripping",
+      "aisle": "Aisle 10",
+      "folder_path": "products/heating-cooling-weatherization/weatherization/weatherstripping.json",
+      "specs": {},
+      "tags": [
+        "weatherstripping",
+        "draft sealing",
+        "energy efficiency"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "heating-cooling-weatherization__weatherstripping__door-sweep",
+      "name": "Door Sweep",
+      "description": "Bottom-of-door seal that blocks drafts and pests.",
+      "department": "Heating, Cooling & Weatherization",
+      "category": "Weatherization",
+      "subcategory": "Weatherstripping",
+      "aisle": "Aisle 10",
+      "folder_path": "products/heating-cooling-weatherization/weatherization/weatherstripping.json",
+      "specs": {},
+      "tags": [
+        "door sweep",
+        "draft sealing",
+        "weatherproofing"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

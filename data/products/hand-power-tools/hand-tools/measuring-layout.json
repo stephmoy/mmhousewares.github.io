@@ -1,0 +1,66 @@
+{
+  "department": "Hand & Power Tools",
+  "category": "Hand Tools",
+  "subcategory": "Measuring & Layout",
+  "aisle": "Aisle 2",
+  "products": [
+    {
+      "id": "hand-power-tools__measuring-layout__25-ft-tape-measure",
+      "name": "25 ft Tape Measure",
+      "description": "Retractable tape measure with belt clip for general project use.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Measuring & Layout",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/measuring-layout.json",
+      "specs": {
+        "length": "25 ft"
+      },
+      "tags": [
+        "tape measure",
+        "measuring",
+        "layout"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__measuring-layout__24-torpedo-box-level",
+      "name": "24\" Torpedo & Box Level",
+      "description": "Level for checking horizontal and vertical alignment on shelves, frames, and pictures.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Measuring & Layout",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/measuring-layout.json",
+      "specs": {
+        "length": "24 in"
+      },
+      "tags": [
+        "level",
+        "measuring",
+        "alignment"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__measuring-layout__combination-square",
+      "name": "Combination Square",
+      "description": "Multi-use square for marking 90 and 45-degree angles.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Measuring & Layout",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/measuring-layout.json",
+      "specs": {},
+      "tags": [
+        "square",
+        "measuring",
+        "layout"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

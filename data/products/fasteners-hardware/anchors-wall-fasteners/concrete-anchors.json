@@ -1,0 +1,44 @@
+{
+  "department": "Fasteners & Hardware",
+  "category": "Anchors & Wall Fasteners",
+  "subcategory": "Concrete Anchors",
+  "aisle": "Aisle 1",
+  "products": [
+    {
+      "id": "fasteners-hardware__concrete-anchors__concrete-sleeve-anchors-3-8",
+      "name": "Concrete Sleeve Anchors 3/8\"",
+      "description": "Expansion anchors for fastening into concrete, brick, or block.",
+      "department": "Fasteners & Hardware",
+      "category": "Anchors & Wall Fasteners",
+      "subcategory": "Concrete Anchors",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/anchors-wall-fasteners/concrete-anchors.json",
+      "specs": {
+        "size": "3/8 in"
+      },
+      "tags": [
+        "concrete anchor",
+        "masonry anchor"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__concrete-anchors__plastic-concrete-anchors-with-screws",
+      "name": "Plastic Concrete Anchors with Screws",
+      "description": "Light-duty anchors for mounting into masonry surfaces.",
+      "department": "Fasteners & Hardware",
+      "category": "Anchors & Wall Fasteners",
+      "subcategory": "Concrete Anchors",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/anchors-wall-fasteners/concrete-anchors.json",
+      "specs": {},
+      "tags": [
+        "concrete anchor",
+        "masonry anchor"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

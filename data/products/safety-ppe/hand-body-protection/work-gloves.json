@@ -1,0 +1,44 @@
+{
+  "department": "Safety & PPE",
+  "category": "Hand & Body Protection",
+  "subcategory": "Work Gloves",
+  "aisle": "Aisle 12",
+  "products": [
+    {
+      "id": "safety-ppe__work-gloves__leather-work-gloves",
+      "name": "Leather Work Gloves",
+      "description": "Durable gloves for general yard work and construction tasks.",
+      "department": "Safety & PPE",
+      "category": "Hand & Body Protection",
+      "subcategory": "Work Gloves",
+      "aisle": "Aisle 12",
+      "folder_path": "products/safety-ppe/hand-body-protection/work-gloves.json",
+      "specs": {},
+      "tags": [
+        "gloves",
+        "work gloves",
+        "hand protection"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "safety-ppe__work-gloves__nitrile-disposable-gloves-box",
+      "name": "Nitrile Disposable Gloves (box)",
+      "description": "Chemical-resistant gloves for painting, cleaning, and light chemical work.",
+      "department": "Safety & PPE",
+      "category": "Hand & Body Protection",
+      "subcategory": "Work Gloves",
+      "aisle": "Aisle 12",
+      "folder_path": "products/safety-ppe/hand-body-protection/work-gloves.json",
+      "specs": {},
+      "tags": [
+        "gloves",
+        "nitrile gloves",
+        "chemical protection"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

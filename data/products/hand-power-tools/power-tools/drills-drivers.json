@@ -1,0 +1,63 @@
+{
+  "department": "Hand & Power Tools",
+  "category": "Power Tools",
+  "subcategory": "Drills & Drivers",
+  "aisle": "Aisle 2",
+  "products": [
+    {
+      "id": "hand-power-tools__drills-drivers__18v-cordless-drill-driver-kit",
+      "name": "18V Cordless Drill/Driver Kit",
+      "description": "Cordless drill with battery and charger for drilling and driving screws.",
+      "department": "Hand & Power Tools",
+      "category": "Power Tools",
+      "subcategory": "Drills & Drivers",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/power-tools/drills-drivers.json",
+      "specs": {
+        "voltage": "18V"
+      },
+      "tags": [
+        "drill",
+        "cordless drill",
+        "driver"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__drills-drivers__impact-driver",
+      "name": "Impact Driver",
+      "description": "High-torque driver for driving long screws and lag bolts quickly.",
+      "department": "Hand & Power Tools",
+      "category": "Power Tools",
+      "subcategory": "Drills & Drivers",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/power-tools/drills-drivers.json",
+      "specs": {},
+      "tags": [
+        "impact driver",
+        "screws",
+        "lag bolt"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__drills-drivers__drill-bit-set-titanium-coated",
+      "name": "Drill Bit Set (Titanium-coated)",
+      "description": "Assorted bit sizes for drilling wood, metal, and plastic.",
+      "department": "Hand & Power Tools",
+      "category": "Power Tools",
+      "subcategory": "Drills & Drivers",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/power-tools/drills-drivers.json",
+      "specs": {},
+      "tags": [
+        "drill bit",
+        "drilling"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "department": "Adhesives & Sealants",
+  "category": "Glues",
+  "subcategory": "Super Glue & Epoxy",
+  "aisle": "Aisle 7",
+  "products": [
+    {
+      "id": "adhesives-sealants__super-glue-epoxy__cyanoacrylate-super-glue",
+      "name": "Cyanoacrylate Super Glue",
+      "description": "Fast-bonding glue for small repairs on ceramic, plastic, and rubber.",
+      "department": "Adhesives & Sealants",
+      "category": "Glues",
+      "subcategory": "Super Glue & Epoxy",
+      "aisle": "Aisle 7",
+      "folder_path": "products/adhesives-sealants/glues/super-glue-epoxy.json",
+      "specs": {},
+      "tags": [
+        "glue",
+        "super glue",
+        "quick repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "adhesives-sealants__super-glue-epoxy__5-minute-epoxy-2-part",
+      "name": "5-Minute Epoxy (2-part)",
+      "description": "Strong two-part epoxy for bonding metal, wood, and ceramic.",
+      "department": "Adhesives & Sealants",
+      "category": "Glues",
+      "subcategory": "Super Glue & Epoxy",
+      "aisle": "Aisle 7",
+      "folder_path": "products/adhesives-sealants/glues/super-glue-epoxy.json",
+      "specs": {},
+      "tags": [
+        "glue",
+        "epoxy",
+        "strong bond"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

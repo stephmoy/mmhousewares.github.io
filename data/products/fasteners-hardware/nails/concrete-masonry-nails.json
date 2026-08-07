@@ -1,0 +1,28 @@
+{
+  "department": "Fasteners & Hardware",
+  "category": "Nails",
+  "subcategory": "Concrete & Masonry Nails",
+  "aisle": "Aisle 1",
+  "products": [
+    {
+      "id": "fasteners-hardware__concrete-masonry-nails__fluted-concrete-nails-2",
+      "name": "Fluted Concrete Nails 2\"",
+      "description": "Hardened steel nails for fastening directly into concrete or masonry.",
+      "department": "Fasteners & Hardware",
+      "category": "Nails",
+      "subcategory": "Concrete & Masonry Nails",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/nails/concrete-masonry-nails.json",
+      "specs": {
+        "length": "2 in"
+      },
+      "tags": [
+        "concrete nail",
+        "masonry",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

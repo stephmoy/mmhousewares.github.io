@@ -1,0 +1,25 @@
+{
+  "department": "Outdoor & Garden",
+  "category": "Soil, Mulch & Fertilizer",
+  "subcategory": "Fertilizer",
+  "aisle": "Aisle 8",
+  "products": [
+    {
+      "id": "outdoor-garden__fertilizer__all-purpose-lawn-fertilizer",
+      "name": "All-Purpose Lawn Fertilizer",
+      "description": "Granular fertilizer for promoting healthy lawn growth.",
+      "department": "Outdoor & Garden",
+      "category": "Soil, Mulch & Fertilizer",
+      "subcategory": "Fertilizer",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/soil-mulch-fertilizer/fertilizer.json",
+      "specs": {},
+      "tags": [
+        "fertilizer",
+        "lawn care"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

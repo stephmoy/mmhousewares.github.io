@@ -1,0 +1,44 @@
+{
+  "department": "Locks & Security",
+  "category": "Safes & Security",
+  "subcategory": "Cameras & Alarms",
+  "aisle": "Aisle 9",
+  "products": [
+    {
+      "id": "locks-security__cameras-alarms__wireless-security-camera",
+      "name": "Wireless Security Camera",
+      "description": "Wi-Fi camera with motion alerts for home monitoring.",
+      "department": "Locks & Security",
+      "category": "Safes & Security",
+      "subcategory": "Cameras & Alarms",
+      "aisle": "Aisle 9",
+      "folder_path": "products/locks-security/safes-security/cameras-alarms.json",
+      "specs": {},
+      "tags": [
+        "security camera",
+        "home security",
+        "surveillance"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "locks-security__cameras-alarms__door-window-alarm-sensor",
+      "name": "Door/Window Alarm Sensor",
+      "description": "Battery-powered alarm that triggers when a door or window opens.",
+      "department": "Locks & Security",
+      "category": "Safes & Security",
+      "subcategory": "Cameras & Alarms",
+      "aisle": "Aisle 9",
+      "folder_path": "products/locks-security/safes-security/cameras-alarms.json",
+      "specs": {},
+      "tags": [
+        "alarm",
+        "door sensor",
+        "home security"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

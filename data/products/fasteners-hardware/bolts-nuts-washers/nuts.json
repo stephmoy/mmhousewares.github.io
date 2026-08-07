@@ -1,0 +1,46 @@
+{
+  "department": "Fasteners & Hardware",
+  "category": "Bolts, Nuts & Washers",
+  "subcategory": "Nuts",
+  "aisle": "Aisle 1",
+  "products": [
+    {
+      "id": "fasteners-hardware__nuts__1-4-20-hex-nuts-50-pack",
+      "name": "1/4\"-20 Hex Nuts (50-pack)",
+      "description": "Standard hex nuts to pair with 1/4-20 bolts and threaded rod.",
+      "department": "Fasteners & Hardware",
+      "category": "Bolts, Nuts & Washers",
+      "subcategory": "Nuts",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/bolts-nuts-washers/nuts.json",
+      "specs": {
+        "size": "1/4-20"
+      },
+      "tags": [
+        "nut",
+        "hex nut",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "fasteners-hardware__nuts__wing-nuts-assortment",
+      "name": "Wing Nuts Assortment",
+      "description": "Hand-tightenable nuts for parts that need frequent removal.",
+      "department": "Fasteners & Hardware",
+      "category": "Bolts, Nuts & Washers",
+      "subcategory": "Nuts",
+      "aisle": "Aisle 1",
+      "folder_path": "products/fasteners-hardware/bolts-nuts-washers/nuts.json",
+      "specs": {},
+      "tags": [
+        "nut",
+        "wing nut",
+        "fastener"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

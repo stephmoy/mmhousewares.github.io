@@ -1,0 +1,28 @@
+{
+  "department": "Hand & Power Tools",
+  "category": "Power Tools",
+  "subcategory": "Batteries & Chargers",
+  "aisle": "Aisle 2",
+  "products": [
+    {
+      "id": "hand-power-tools__batteries-chargers__18v-lithium-ion-battery-pack",
+      "name": "18V Lithium-Ion Battery Pack",
+      "description": "Replacement/spare battery for compatible cordless power tools.",
+      "department": "Hand & Power Tools",
+      "category": "Power Tools",
+      "subcategory": "Batteries & Chargers",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/power-tools/batteries-chargers.json",
+      "specs": {
+        "voltage": "18V"
+      },
+      "tags": [
+        "battery",
+        "cordless tool",
+        "charger"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

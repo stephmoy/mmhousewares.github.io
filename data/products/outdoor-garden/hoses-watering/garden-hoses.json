@@ -1,0 +1,28 @@
+{
+  "department": "Outdoor & Garden",
+  "category": "Hoses & Watering",
+  "subcategory": "Garden Hoses",
+  "aisle": "Aisle 8",
+  "products": [
+    {
+      "id": "outdoor-garden__garden-hoses__50-ft-garden-hose",
+      "name": "50 ft Garden Hose",
+      "description": "Kink-resistant hose for watering and outdoor cleaning.",
+      "department": "Outdoor & Garden",
+      "category": "Hoses & Watering",
+      "subcategory": "Garden Hoses",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/hoses-watering/garden-hoses.json",
+      "specs": {
+        "length": "50 ft"
+      },
+      "tags": [
+        "hose",
+        "garden hose",
+        "watering"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

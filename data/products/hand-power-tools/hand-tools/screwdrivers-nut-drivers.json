@@ -1,0 +1,46 @@
+{
+  "department": "Hand & Power Tools",
+  "category": "Hand Tools",
+  "subcategory": "Screwdrivers & Nut Drivers",
+  "aisle": "Aisle 2",
+  "products": [
+    {
+      "id": "hand-power-tools__screwdrivers-nut-drivers__6-piece-screwdriver-set",
+      "name": "6-Piece Screwdriver Set",
+      "description": "Phillips and flathead screwdrivers in common sizes for everyday repairs.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Screwdrivers & Nut Drivers",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/screwdrivers-nut-drivers.json",
+      "specs": {
+        "pieces": 6
+      },
+      "tags": [
+        "screwdriver",
+        "hand tool",
+        "repair"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__screwdrivers-nut-drivers__precision-screwdriver-set",
+      "name": "Precision Screwdriver Set",
+      "description": "Small screwdrivers for electronics, eyeglasses, and small appliances.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Screwdrivers & Nut Drivers",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/screwdrivers-nut-drivers.json",
+      "specs": {},
+      "tags": [
+        "screwdriver",
+        "electronics repair",
+        "precision"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "department": "Plumbing",
+  "category": "Drain Care",
+  "subcategory": "Drain Cleaning Tools",
+  "aisle": "Aisle 4",
+  "products": [
+    {
+      "id": "plumbing__drain-cleaning-tools__25-ft-drain-snake-hand-auger",
+      "name": "25 ft Drain Snake (hand auger)",
+      "description": "Manual auger for clearing clogged sink and tub drains.",
+      "department": "Plumbing",
+      "category": "Drain Care",
+      "subcategory": "Drain Cleaning Tools",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/drain-care/drain-cleaning-tools.json",
+      "specs": {
+        "length": "25 ft"
+      },
+      "tags": [
+        "drain snake",
+        "clogged drain",
+        "auger"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__drain-cleaning-tools__heavy-duty-sink-plunger",
+      "name": "Heavy-Duty Sink Plunger",
+      "description": "Cup plunger for clearing minor sink and tub clogs.",
+      "department": "Plumbing",
+      "category": "Drain Care",
+      "subcategory": "Drain Cleaning Tools",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/drain-care/drain-cleaning-tools.json",
+      "specs": {},
+      "tags": [
+        "plunger",
+        "clogged drain"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "plumbing__drain-cleaning-tools__toilet-flange-plunger",
+      "name": "Toilet Flange Plunger",
+      "description": "Flanged plunger designed specifically for toilet clogs.",
+      "department": "Plumbing",
+      "category": "Drain Care",
+      "subcategory": "Drain Cleaning Tools",
+      "aisle": "Aisle 4",
+      "folder_path": "products/plumbing/drain-care/drain-cleaning-tools.json",
+      "specs": {},
+      "tags": [
+        "plunger",
+        "clogged toilet"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

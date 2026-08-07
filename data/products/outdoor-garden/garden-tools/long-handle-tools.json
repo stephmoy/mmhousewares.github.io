@@ -1,0 +1,44 @@
+{
+  "department": "Outdoor & Garden",
+  "category": "Garden Tools",
+  "subcategory": "Long-Handle Tools",
+  "aisle": "Aisle 8",
+  "products": [
+    {
+      "id": "outdoor-garden__long-handle-tools__round-point-shovel",
+      "name": "Round-Point Shovel",
+      "description": "General-purpose shovel for digging and edging.",
+      "department": "Outdoor & Garden",
+      "category": "Garden Tools",
+      "subcategory": "Long-Handle Tools",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/garden-tools/long-handle-tools.json",
+      "specs": {},
+      "tags": [
+        "garden tool",
+        "shovel",
+        "digging"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__long-handle-tools__bow-rake",
+      "name": "Bow Rake",
+      "description": "Rake for leveling soil and spreading mulch.",
+      "department": "Outdoor & Garden",
+      "category": "Garden Tools",
+      "subcategory": "Long-Handle Tools",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/garden-tools/long-handle-tools.json",
+      "specs": {},
+      "tags": [
+        "garden tool",
+        "rake",
+        "landscaping"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

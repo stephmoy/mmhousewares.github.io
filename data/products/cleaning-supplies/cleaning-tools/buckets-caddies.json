@@ -1,0 +1,28 @@
+{
+  "department": "Cleaning Supplies",
+  "category": "Cleaning Tools",
+  "subcategory": "Buckets & Caddies",
+  "aisle": "Aisle 11",
+  "products": [
+    {
+      "id": "cleaning-supplies__buckets-caddies__5-gallon-utility-bucket",
+      "name": "5-Gallon Utility Bucket",
+      "description": "Multi-purpose bucket for cleaning and general project use.",
+      "department": "Cleaning Supplies",
+      "category": "Cleaning Tools",
+      "subcategory": "Buckets & Caddies",
+      "aisle": "Aisle 11",
+      "folder_path": "products/cleaning-supplies/cleaning-tools/buckets-caddies.json",
+      "specs": {
+        "size": "5 gal"
+      },
+      "tags": [
+        "bucket",
+        "cleaning",
+        "utility"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

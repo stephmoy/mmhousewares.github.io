@@ -1,0 +1,26 @@
+{
+  "department": "Outdoor & Garden",
+  "category": "Pest Control",
+  "subcategory": "Rodent Control",
+  "aisle": "Aisle 8",
+  "products": [
+    {
+      "id": "outdoor-garden__rodent-control__mouse-snap-traps-4-pack",
+      "name": "Mouse Snap Traps (4-pack)",
+      "description": "Traditional traps for catching mice indoors.",
+      "department": "Outdoor & Garden",
+      "category": "Pest Control",
+      "subcategory": "Rodent Control",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/pest-control/rodent-control.json",
+      "specs": {},
+      "tags": [
+        "pest control",
+        "mouse trap",
+        "rodents"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

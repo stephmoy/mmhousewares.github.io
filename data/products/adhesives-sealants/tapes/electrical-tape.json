@@ -1,0 +1,26 @@
+{
+  "department": "Adhesives & Sealants",
+  "category": "Tapes",
+  "subcategory": "Electrical Tape",
+  "aisle": "Aisle 7",
+  "products": [
+    {
+      "id": "adhesives-sealants__electrical-tape__electrical-tape-black",
+      "name": "Electrical Tape (black)",
+      "description": "Vinyl tape for insulating electrical connections.",
+      "department": "Adhesives & Sealants",
+      "category": "Tapes",
+      "subcategory": "Electrical Tape",
+      "aisle": "Aisle 7",
+      "folder_path": "products/adhesives-sealants/tapes/electrical-tape.json",
+      "specs": {},
+      "tags": [
+        "tape",
+        "electrical tape",
+        "wiring"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

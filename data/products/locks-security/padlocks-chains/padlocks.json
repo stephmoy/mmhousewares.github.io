@@ -1,0 +1,45 @@
+{
+  "department": "Locks & Security",
+  "category": "Padlocks & Chains",
+  "subcategory": "Padlocks",
+  "aisle": "Aisle 9",
+  "products": [
+    {
+      "id": "locks-security__padlocks__laminated-steel-padlock",
+      "name": "Laminated Steel Padlock",
+      "description": "Weather-resistant padlock for sheds, gates, and storage.",
+      "department": "Locks & Security",
+      "category": "Padlocks & Chains",
+      "subcategory": "Padlocks",
+      "aisle": "Aisle 9",
+      "folder_path": "products/locks-security/padlocks-chains/padlocks.json",
+      "specs": {},
+      "tags": [
+        "padlock",
+        "lock",
+        "shed",
+        "security"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "locks-security__padlocks__combination-padlock",
+      "name": "Combination Padlock",
+      "description": "Keyless padlock with resettable combination.",
+      "department": "Locks & Security",
+      "category": "Padlocks & Chains",
+      "subcategory": "Padlocks",
+      "aisle": "Aisle 9",
+      "folder_path": "products/locks-security/padlocks-chains/padlocks.json",
+      "specs": {},
+      "tags": [
+        "padlock",
+        "combination lock",
+        "security"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

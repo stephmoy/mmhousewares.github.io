@@ -1,0 +1,44 @@
+{
+  "department": "Housewares & Kitchen",
+  "category": "Small Appliances",
+  "subcategory": "Countertop Appliances",
+  "aisle": "Aisle 15",
+  "products": [
+    {
+      "id": "housewares-kitchen__countertop-appliances__2-slice-toaster",
+      "name": "2-Slice Toaster",
+      "description": "Basic countertop toaster for everyday use.",
+      "department": "Housewares & Kitchen",
+      "category": "Small Appliances",
+      "subcategory": "Countertop Appliances",
+      "aisle": "Aisle 15",
+      "folder_path": "products/housewares-kitchen/small-appliances/countertop-appliances.json",
+      "specs": {},
+      "tags": [
+        "appliance",
+        "toaster",
+        "kitchen"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "housewares-kitchen__countertop-appliances__12-cup-coffee-maker",
+      "name": "12-Cup Coffee Maker",
+      "description": "Drip coffee maker for home brewing.",
+      "department": "Housewares & Kitchen",
+      "category": "Small Appliances",
+      "subcategory": "Countertop Appliances",
+      "aisle": "Aisle 15",
+      "folder_path": "products/housewares-kitchen/small-appliances/countertop-appliances.json",
+      "specs": {},
+      "tags": [
+        "appliance",
+        "coffee maker",
+        "kitchen"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

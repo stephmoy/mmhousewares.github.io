@@ -1,0 +1,44 @@
+{
+  "department": "Heating, Cooling & Weatherization",
+  "category": "Fans & Ventilation",
+  "subcategory": "Fans",
+  "aisle": "Aisle 10",
+  "products": [
+    {
+      "id": "heating-cooling-weatherization__fans__box-fan",
+      "name": "Box Fan",
+      "description": "Portable fan for cooling and air circulation.",
+      "department": "Heating, Cooling & Weatherization",
+      "category": "Fans & Ventilation",
+      "subcategory": "Fans",
+      "aisle": "Aisle 10",
+      "folder_path": "products/heating-cooling-weatherization/fans-ventilation/fans.json",
+      "specs": {},
+      "tags": [
+        "fan",
+        "cooling",
+        "ventilation"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "heating-cooling-weatherization__fans__bathroom-exhaust-fan",
+      "name": "Bathroom Exhaust Fan",
+      "description": "Vent fan for reducing bathroom moisture and odor.",
+      "department": "Heating, Cooling & Weatherization",
+      "category": "Fans & Ventilation",
+      "subcategory": "Fans",
+      "aisle": "Aisle 10",
+      "folder_path": "products/heating-cooling-weatherization/fans-ventilation/fans.json",
+      "specs": {},
+      "tags": [
+        "exhaust fan",
+        "bathroom",
+        "ventilation"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "department": "Safety & PPE",
+  "category": "Respiratory Protection",
+  "subcategory": "Masks & Respirators",
+  "aisle": "Aisle 12",
+  "products": [
+    {
+      "id": "safety-ppe__masks-respirators__n95-dust-mask-10-pack",
+      "name": "N95 Dust Mask (10-pack)",
+      "description": "Disposable mask for sanding, sweeping, and dusty work.",
+      "department": "Safety & PPE",
+      "category": "Respiratory Protection",
+      "subcategory": "Masks & Respirators",
+      "aisle": "Aisle 12",
+      "folder_path": "products/safety-ppe/respiratory-protection/masks-respirators.json",
+      "specs": {},
+      "tags": [
+        "mask",
+        "dust mask",
+        "respiratory protection"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "safety-ppe__masks-respirators__half-face-respirator",
+      "name": "Half-Face Respirator",
+      "description": "Reusable respirator with replaceable cartridges for paint fumes and solvents.",
+      "department": "Safety & PPE",
+      "category": "Respiratory Protection",
+      "subcategory": "Masks & Respirators",
+      "aisle": "Aisle 12",
+      "folder_path": "products/safety-ppe/respiratory-protection/masks-respirators.json",
+      "specs": {},
+      "tags": [
+        "respirator",
+        "paint fumes",
+        "respiratory protection"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

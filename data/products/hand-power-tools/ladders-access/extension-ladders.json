@@ -1,0 +1,29 @@
+{
+  "department": "Hand & Power Tools",
+  "category": "Ladders & Access",
+  "subcategory": "Extension Ladders",
+  "aisle": "Aisle 2",
+  "products": [
+    {
+      "id": "hand-power-tools__extension-ladders__20-ft-extension-ladder",
+      "name": "20 ft Extension Ladder",
+      "description": "Extendable ladder for roof and gutter access.",
+      "department": "Hand & Power Tools",
+      "category": "Ladders & Access",
+      "subcategory": "Extension Ladders",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/ladders-access/extension-ladders.json",
+      "specs": {
+        "height": "20 ft"
+      },
+      "tags": [
+        "ladder",
+        "extension ladder",
+        "roof access",
+        "gutter"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

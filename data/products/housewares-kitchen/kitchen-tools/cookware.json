@@ -1,0 +1,46 @@
+{
+  "department": "Housewares & Kitchen",
+  "category": "Kitchen Tools",
+  "subcategory": "Cookware",
+  "aisle": "Aisle 15",
+  "products": [
+    {
+      "id": "housewares-kitchen__cookware__10-non-stick-frying-pan",
+      "name": "10\" Non-Stick Frying Pan",
+      "description": "Everyday frying pan for stovetop cooking.",
+      "department": "Housewares & Kitchen",
+      "category": "Kitchen Tools",
+      "subcategory": "Cookware",
+      "aisle": "Aisle 15",
+      "folder_path": "products/housewares-kitchen/kitchen-tools/cookware.json",
+      "specs": {
+        "size": "10 in"
+      },
+      "tags": [
+        "cookware",
+        "frying pan",
+        "kitchen"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "housewares-kitchen__cookware__stainless-steel-pot-set",
+      "name": "Stainless Steel Pot Set",
+      "description": "Set of pots for boiling, simmering, and sauces.",
+      "department": "Housewares & Kitchen",
+      "category": "Kitchen Tools",
+      "subcategory": "Cookware",
+      "aisle": "Aisle 15",
+      "folder_path": "products/housewares-kitchen/kitchen-tools/cookware.json",
+      "specs": {},
+      "tags": [
+        "cookware",
+        "pots",
+        "kitchen"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

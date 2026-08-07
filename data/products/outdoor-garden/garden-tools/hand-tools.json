@@ -1,0 +1,44 @@
+{
+  "department": "Outdoor & Garden",
+  "category": "Garden Tools",
+  "subcategory": "Hand Tools",
+  "aisle": "Aisle 8",
+  "products": [
+    {
+      "id": "outdoor-garden__hand-tools__garden-trowel",
+      "name": "Garden Trowel",
+      "description": "Hand trowel for planting and transplanting.",
+      "department": "Outdoor & Garden",
+      "category": "Garden Tools",
+      "subcategory": "Hand Tools",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/garden-tools/hand-tools.json",
+      "specs": {},
+      "tags": [
+        "garden tool",
+        "trowel",
+        "planting"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "outdoor-garden__hand-tools__pruning-shears",
+      "name": "Pruning Shears",
+      "description": "Bypass pruners for trimming small branches and stems.",
+      "department": "Outdoor & Garden",
+      "category": "Garden Tools",
+      "subcategory": "Hand Tools",
+      "aisle": "Aisle 8",
+      "folder_path": "products/outdoor-garden/garden-tools/hand-tools.json",
+      "specs": {},
+      "tags": [
+        "garden tool",
+        "pruning shears",
+        "trimming"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

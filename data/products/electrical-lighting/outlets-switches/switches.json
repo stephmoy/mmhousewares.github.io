@@ -1,0 +1,44 @@
+{
+  "department": "Electrical & Lighting",
+  "category": "Outlets & Switches",
+  "subcategory": "Switches",
+  "aisle": "Aisle 5",
+  "products": [
+    {
+      "id": "electrical-lighting__switches__single-pole-light-switch",
+      "name": "Single-Pole Light Switch",
+      "description": "Standard on/off switch for controlling a single light fixture.",
+      "department": "Electrical & Lighting",
+      "category": "Outlets & Switches",
+      "subcategory": "Switches",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/outlets-switches/switches.json",
+      "specs": {},
+      "tags": [
+        "switch",
+        "light switch",
+        "electrical"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "electrical-lighting__switches__dimmer-switch",
+      "name": "Dimmer Switch",
+      "description": "Switch that adjusts light brightness, compatible with dimmable bulbs.",
+      "department": "Electrical & Lighting",
+      "category": "Outlets & Switches",
+      "subcategory": "Switches",
+      "aisle": "Aisle 5",
+      "folder_path": "products/electrical-lighting/outlets-switches/switches.json",
+      "specs": {},
+      "tags": [
+        "switch",
+        "dimmer",
+        "lighting control"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

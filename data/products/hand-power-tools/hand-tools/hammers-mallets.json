@@ -1,0 +1,45 @@
+{
+  "department": "Hand & Power Tools",
+  "category": "Hand Tools",
+  "subcategory": "Hammers & Mallets",
+  "aisle": "Aisle 2",
+  "products": [
+    {
+      "id": "hand-power-tools__hammers-mallets__16-oz-curved-claw-hammer",
+      "name": "16 oz Curved-Claw Hammer",
+      "description": "All-purpose hammer for driving and pulling nails.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Hammers & Mallets",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/hammers-mallets.json",
+      "specs": {
+        "weight": "16 oz"
+      },
+      "tags": [
+        "hammer",
+        "nail",
+        "framing"
+      ],
+      "price": null,
+      "image": null
+    },
+    {
+      "id": "hand-power-tools__hammers-mallets__rubber-mallet",
+      "name": "Rubber Mallet",
+      "description": "Soft-face mallet for assembling furniture and tapping parts without marring surfaces.",
+      "department": "Hand & Power Tools",
+      "category": "Hand Tools",
+      "subcategory": "Hammers & Mallets",
+      "aisle": "Aisle 2",
+      "folder_path": "products/hand-power-tools/hand-tools/hammers-mallets.json",
+      "specs": {},
+      "tags": [
+        "mallet",
+        "furniture assembly"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}

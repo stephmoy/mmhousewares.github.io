@@ -1,0 +1,29 @@
+{
+  "department": "Building Materials",
+  "category": "Drywall & Compound",
+  "subcategory": "Drywall Sheets",
+  "aisle": "Aisle 6",
+  "products": [
+    {
+      "id": "building-materials__drywall-sheets__1-2-drywall-sheet-4x8",
+      "name": "1/2\" Drywall Sheet (4x8)",
+      "description": "Standard gypsum board for interior walls and ceilings.",
+      "department": "Building Materials",
+      "category": "Drywall & Compound",
+      "subcategory": "Drywall Sheets",
+      "aisle": "Aisle 6",
+      "folder_path": "products/building-materials/drywall-compound/drywall-sheets.json",
+      "specs": {
+        "thickness": "0.5 in",
+        "size": "4x8 ft"
+      },
+      "tags": [
+        "drywall",
+        "sheetrock",
+        "wall repair"
+      ],
+      "price": null,
+      "image": null
+    }
+  ]
+}
