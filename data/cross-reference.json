@@ -20,31 +20,31 @@
       "plumbing__toilet-repair-kits__wax-ring-toilet-seal"
     ],
     "fix-a-clogged-or-leaking-toilet": [
-      "plumbing__toilet-repair-kits__wax-ring-toilet-seal",
       "plumbing__drain-cleaning-tools__toilet-flange-plunger",
+      "plumbing__toilet-repair-kits__wax-ring-toilet-seal",
+      "plumbing__drain-cleaning-tools__heavy-duty-sink-plunger",
       "plumbing__toilet-repair-kits__universal-toilet-fill-valve",
-      "plumbing__toilet-repair-kits__toilet-flapper-replacement",
-      "plumbing__drain-cleaning-tools__heavy-duty-sink-plunger"
+      "plumbing__toilet-repair-kits__toilet-flapper-replacement"
     ],
     "install-a-new-faucet": [
       "plumbing__faucets__single-handle-kitchen-faucet",
       "plumbing__faucets__bathroom-sink-faucet",
+      "plumbing__shutoff-valves__1-2-quarter-turn-shutoff-valve",
       "hand-power-tools__wrenches__adjustable-wrench-10",
-      "hand-power-tools__wrenches__combination-wrench-set-sae",
-      "plumbing__shutoff-valves__1-2-quarter-turn-shutoff-valve"
+      "hand-power-tools__wrenches__combination-wrench-set-sae"
     ],
     "sweat-or-connect-copper-pex-pipe": [
-      "plumbing__copper-pipe-fittings__1-2-copper-pipe-10-ft",
       "plumbing__pex-pipe-fittings__1-2-pex-tubing-100-ft-coil",
-      "plumbing__shutoff-valves__1-2-quarter-turn-shutoff-valve",
-      "plumbing__pvc-pipe-fittings__1-2-pvc-pipe-10-ft"
+      "plumbing__copper-pipe-fittings__1-2-copper-pipe-10-ft",
+      "plumbing__pvc-pipe-fittings__1-2-pvc-pipe-10-ft",
+      "plumbing__shutoff-valves__1-2-quarter-turn-shutoff-valve"
     ],
     "hang-a-shelf-on-drywall": [
       "fasteners-hardware__drywall-anchors__toggle-bolts-1-8",
       "fasteners-hardware__shelf-brackets-braces__10-steel-shelf-brackets-pair",
+      "fasteners-hardware__drywall-anchors__self-drilling-drywall-anchors-20-pack",
       "building-materials__dimensional-lumber__1x6-pine-board-8-ft",
       "storage-organization__garage-utility-shelving__5-tier-wire-shelving-unit",
-      "fasteners-hardware__drywall-anchors__self-drilling-drywall-anchors-20-pack",
       "hand-power-tools__measuring-layout__24-torpedo-box-level"
     ],
     "mount-a-tv-on-the-wall": [
@@ -54,18 +54,18 @@
     ],
     "organize-a-garage-or-shed": [
       "storage-organization__wall-hooks__heavy-duty-utility-hooks-set",
+      "fasteners-hardware__shelf-brackets-braces__10-steel-shelf-brackets-pair",
       "building-materials__dimensional-lumber__1x6-pine-board-8-ft",
       "storage-organization__garage-utility-shelving__5-tier-wire-shelving-unit",
-      "storage-organization__pegboard-systems__pegboard-panel-with-hook-kit",
       "storage-organization__storage-totes__27-gallon-storage-tote-with-lid",
-      "fasteners-hardware__shelf-brackets-braces__10-steel-shelf-brackets-pair"
+      "storage-organization__pegboard-systems__pegboard-panel-with-hook-kit"
     ],
     "fix-a-loose-door-hinge": [
       "fasteners-hardware__door-hinges__3-5-interior-door-hinges-pair",
-      "fasteners-hardware__door-hinges__self-closing-cabinet-hinges",
       "fasteners-hardware__wood-screws__8-x-1-1-4-wood-screws-100-pack",
       "fasteners-hardware__wood-screws__10-x-2-wood-screws-50-pack",
-      "fasteners-hardware__wood-screws__brass-wood-screws-assortment"
+      "fasteners-hardware__wood-screws__brass-wood-screws-assortment",
+      "fasteners-hardware__door-hinges__self-closing-cabinet-hinges"
     ],
     "repair-a-squeaky-or-sticking-door": [
       "fasteners-hardware__door-hinges__3-5-interior-door-hinges-pair",
@@ -77,22 +77,22 @@
     ],
     "build-a-deck": [
       "building-materials__pressure-treated-lumber__2x6-pressure-treated-board-8-ft",
-      "building-materials__dimensional-lumber__2x4-stud-8-ft",
-      "building-materials__dimensional-lumber__1x6-pine-board-8-ft",
-      "fasteners-hardware__hex-bolts__carriage-bolts-3-8-x-3",
       "fasteners-hardware__deck-screws__3-exterior-deck-screws-5lb-box",
       "fasteners-hardware__deck-screws__2-1-2-composite-deck-screws",
-      "fasteners-hardware__deck-screws__star-drive-deck-screws"
+      "fasteners-hardware__deck-screws__star-drive-deck-screws",
+      "fasteners-hardware__hex-bolts__carriage-bolts-3-8-x-3",
+      "building-materials__dimensional-lumber__2x4-stud-8-ft",
+      "building-materials__dimensional-lumber__1x6-pine-board-8-ft"
     ],
     "build-or-repair-a-fence": [
       "paint-sundries__deck-fence-stains__solid-fence-stain-1-gal",
-      "building-materials__dimensional-lumber__2x4-stud-8-ft",
-      "building-materials__dimensional-lumber__1x6-pine-board-8-ft",
-      "building-materials__pressure-treated-lumber__2x6-pressure-treated-board-8-ft",
-      "fasteners-hardware__hex-bolts__carriage-bolts-3-8-x-3",
       "fasteners-hardware__deck-screws__3-exterior-deck-screws-5lb-box",
       "fasteners-hardware__deck-screws__2-1-2-composite-deck-screws",
-      "fasteners-hardware__deck-screws__star-drive-deck-screws"
+      "fasteners-hardware__deck-screws__star-drive-deck-screws",
+      "fasteners-hardware__hex-bolts__carriage-bolts-3-8-x-3",
+      "building-materials__pressure-treated-lumber__2x6-pressure-treated-board-8-ft",
+      "building-materials__dimensional-lumber__2x4-stud-8-ft",
+      "building-materials__dimensional-lumber__1x6-pine-board-8-ft"
     ],
     "insulate-an-attic-or-wall": [
       "building-materials__batt-insulation__r-13-fiberglass-batt-insulation",
@@ -102,15 +102,15 @@
     ],
     "repair-a-roof-leak": [
       "building-materials__roofing-underlayment-sealant__roofing-cement-10-3-oz-tube",
-      "building-materials__shingles__architectural-asphalt-shingles-bundle",
       "fasteners-hardware__roofing-nails__galvanized-roofing-nails-1-1-4",
+      "building-materials__shingles__architectural-asphalt-shingles-bundle",
       "fasteners-hardware__roofing-nails__coil-roofing-nails-for-nail-gun"
     ],
     "paint-a-room": [
       "paint-sundries__interior-wall-paint__interior-latex-paint-eggshell-1-gal",
       "paint-sundries__interior-wall-paint__interior-latex-paint-flat-1-gal",
-      "paint-sundries__primers__stain-blocking-primer-1-gal",
       "paint-sundries__exterior-wall-paint__exterior-acrylic-paint-satin-1-gal",
+      "paint-sundries__primers__stain-blocking-primer-1-gal",
       "paint-sundries__rollers-trays__9-roller-tray-kit",
       "paint-sundries__painter-s-tape__1-5-painter-s-tape"
     ],
@@ -134,32 +134,32 @@
     ],
     "replace-a-light-fixture-or-switch": [
       "electrical-lighting__wire-connectors__wire-nuts-assortment",
-      "electrical-lighting__outlets__15a-duplex-outlet",
       "electrical-lighting__switches__single-pole-light-switch",
-      "electrical-lighting__outlets__gfci-outlet",
+      "electrical-lighting__outlets__15a-duplex-outlet",
       "electrical-lighting__cover-plates__outlet-switch-wall-plates",
+      "electrical-lighting__outlets__gfci-outlet",
       "electrical-lighting__power-strips-surge-protectors__6-outlet-surge-protector-power-strip",
       "hand-power-tools__pliers-cutters__wire-cutters-diagonal-cutters"
     ],
     "fix-a-dead-outlet": [
       "electrical-lighting__outlets__15a-duplex-outlet",
-      "electrical-lighting__wire-connectors__wire-nuts-assortment",
       "electrical-lighting__circuit-breakers__20a-single-pole-circuit-breaker",
-      "electrical-lighting__outlets__gfci-outlet",
-      "electrical-lighting__cover-plates__outlet-switch-wall-plates",
+      "electrical-lighting__wire-connectors__wire-nuts-assortment",
       "electrical-lighting__switches__single-pole-light-switch",
+      "electrical-lighting__cover-plates__outlet-switch-wall-plates",
+      "electrical-lighting__outlets__gfci-outlet",
       "electrical-lighting__power-strips-surge-protectors__6-outlet-surge-protector-power-strip",
       "hand-power-tools__pliers-cutters__wire-cutters-diagonal-cutters"
     ],
     "install-a-gfci-outlet": [
       "electrical-lighting__outlets__gfci-outlet",
-      "heating-cooling-weatherization__fans__bathroom-exhaust-fan",
+      "adhesives-sealants__caulk__100-silicone-caulk-clear",
+      "electrical-lighting__outlets__15a-duplex-outlet",
+      "cleaning-supplies__trash-bags__13-gallon-kitchen-trash-bags",
+      "cleaning-supplies__specialty-cleaners__bathroom-mold-mildew-remover",
       "housewares-kitchen__countertop-appliances__2-slice-toaster",
       "housewares-kitchen__countertop-appliances__12-cup-coffee-maker",
-      "housewares-kitchen__cookware__10-non-stick-frying-pan",
-      "housewares-kitchen__cookware__stainless-steel-pot-set",
-      "adhesives-sealants__caulk__100-silicone-caulk-clear",
-      "electrical-lighting__outlets__15a-duplex-outlet"
+      "housewares-kitchen__cookware__10-non-stick-frying-pan"
     ],
     "choose-the-right-light-bulb": [
       "electrical-lighting__led-bulbs__led-a19-bulb-soft-white-60w-equiv",
@@ -171,9 +171,9 @@
     "extend-an-extension-cord-safely": [
       "electrical-lighting__power-strips-surge-protectors__6-outlet-surge-protector-power-strip",
       "electrical-lighting__wire-connectors__wire-nuts-assortment",
-      "electrical-lighting__outlets__15a-duplex-outlet",
-      "electrical-lighting__cover-plates__outlet-switch-wall-plates",
       "electrical-lighting__switches__single-pole-light-switch",
+      "electrical-lighting__cover-plates__outlet-switch-wall-plates",
+      "electrical-lighting__outlets__15a-duplex-outlet",
       "electrical-lighting__extension-cords__25-ft-outdoor-extension-cord",
       "hand-power-tools__pliers-cutters__wire-cutters-diagonal-cutters"
     ],
@@ -222,31 +222,31 @@
     "seal-drafts-around-windows-and-doors": [
       "heating-cooling-weatherization__weatherstripping__self-adhesive-foam-weatherstrip-tape",
       "heating-cooling-weatherization__weatherstripping__door-sweep",
-      "heating-cooling-weatherization__window-insulation__window-insulation-film-kit",
-      "adhesives-sealants__weatherproof-sealants__exterior-window-door-sealant",
       "adhesives-sealants__caulk__100-silicone-caulk-clear",
       "adhesives-sealants__caulk__paintable-acrylic-caulk",
-      "building-materials__spray-foam__gap-crack-spray-foam-sealant"
+      "adhesives-sealants__weatherproof-sealants__exterior-window-door-sealant",
+      "building-materials__spray-foam__gap-crack-spray-foam-sealant",
+      "heating-cooling-weatherization__window-insulation__window-insulation-film-kit"
     ],
     "improve-bathroom-ventilation": [
       "heating-cooling-weatherization__fans__bathroom-exhaust-fan",
-      "heating-cooling-weatherization__fans__box-fan",
       "adhesives-sealants__caulk__100-silicone-caulk-clear",
       "electrical-lighting__outlets__gfci-outlet",
-      "cleaning-supplies__specialty-cleaners__bathroom-mold-mildew-remover"
+      "cleaning-supplies__specialty-cleaners__bathroom-mold-mildew-remover",
+      "heating-cooling-weatherization__fans__box-fan"
     ],
     "change-an-hvac-filter": [
       "heating-cooling-weatherization__hvac-filters__16x20x1-pleated-hvac-filter"
     ],
     "remove-mold-or-mildew-in-a-bathroom": [
       "cleaning-supplies__specialty-cleaners__bathroom-mold-mildew-remover",
-      "heating-cooling-weatherization__fans__bathroom-exhaust-fan",
       "adhesives-sealants__caulk__100-silicone-caulk-clear",
+      "electrical-lighting__outlets__gfci-outlet",
       "paint-sundries__paint-thinners-removers__acetone-1-qt",
       "paint-sundries__degreasers-cleaners__tsp-heavy-duty-cleaner",
-      "electrical-lighting__outlets__gfci-outlet",
       "cleaning-supplies__all-purpose-cleaners__all-purpose-cleaner-spray",
-      "cleaning-supplies__specialty-cleaners__glass-window-cleaner"
+      "cleaning-supplies__specialty-cleaners__glass-window-cleaner",
+      "heating-cooling-weatherization__fans__bathroom-exhaust-fan"
     ],
     "deep-clean-a-kitchen": [
       "paint-sundries__degreasers-cleaners__tsp-heavy-duty-cleaner",
@@ -256,28 +256,28 @@
       "cleaning-supplies__specialty-cleaners__bathroom-mold-mildew-remover"
     ],
     "protect-yourself-when-sanding-or-cutting": [
+      "safety-ppe__safety-glasses-goggles__clear-safety-glasses",
+      "safety-ppe__hearing-protection__foam-earplugs-pair",
       "safety-ppe__masks-respirators__n95-dust-mask-10-pack",
       "safety-ppe__work-gloves__leather-work-gloves",
-      "safety-ppe__work-gloves__nitrile-disposable-gloves-box",
-      "safety-ppe__safety-glasses-goggles__clear-safety-glasses",
-      "safety-ppe__hearing-protection__foam-earplugs-pair"
+      "safety-ppe__work-gloves__nitrile-disposable-gloves-box"
     ],
     "handle-paint-fumes-and-chemicals-safely": [
       "safety-ppe__masks-respirators__half-face-respirator",
       "safety-ppe__work-gloves__nitrile-disposable-gloves-box"
     ],
     "assemble-flat-pack-furniture": [
-      "hand-power-tools__hammers-mallets__16-oz-curved-claw-hammer",
-      "hand-power-tools__hammers-mallets__rubber-mallet",
       "hand-power-tools__screwdrivers-nut-drivers__6-piece-screwdriver-set",
-      "hand-power-tools__screwdrivers-nut-drivers__precision-screwdriver-set"
+      "hand-power-tools__screwdrivers-nut-drivers__precision-screwdriver-set",
+      "hand-power-tools__hammers-mallets__16-oz-curved-claw-hammer",
+      "hand-power-tools__hammers-mallets__rubber-mallet"
     ],
     "cut-lumber-to-size": [
       "hand-power-tools__saws__7-1-4-circular-saw",
       "hand-power-tools__saws__cordless-jigsaw",
+      "building-materials__pressure-treated-lumber__2x6-pressure-treated-board-8-ft",
       "building-materials__dimensional-lumber__2x4-stud-8-ft",
       "building-materials__dimensional-lumber__1x6-pine-board-8-ft",
-      "building-materials__pressure-treated-lumber__2x6-pressure-treated-board-8-ft",
       "hand-power-tools__saws__reciprocating-saw"
     ],
     "drill-into-different-materials": [
@@ -285,18 +285,18 @@
       "hand-power-tools__drills-drivers__18v-cordless-drill-driver-kit"
     ],
     "remove-a-stripped-screw": [
-      "hand-power-tools__screwdrivers-nut-drivers__6-piece-screwdriver-set",
-      "hand-power-tools__screwdrivers-nut-drivers__precision-screwdriver-set",
       "hand-power-tools__pliers-cutters__slip-joint-pliers",
       "hand-power-tools__pliers-cutters__wire-cutters-diagonal-cutters",
-      "hand-power-tools__pliers-cutters__locking-pliers-vise-grip-style"
+      "hand-power-tools__pliers-cutters__locking-pliers-vise-grip-style",
+      "hand-power-tools__screwdrivers-nut-drivers__6-piece-screwdriver-set",
+      "hand-power-tools__screwdrivers-nut-drivers__precision-screwdriver-set"
     ],
     "set-up-a-home-workshop": [
+      "fasteners-hardware__shelf-brackets-braces__10-steel-shelf-brackets-pair",
       "building-materials__dimensional-lumber__1x6-pine-board-8-ft",
       "storage-organization__garage-utility-shelving__5-tier-wire-shelving-unit",
-      "storage-organization__pegboard-systems__pegboard-panel-with-hook-kit",
       "storage-organization__wall-hooks__heavy-duty-utility-hooks-set",
-      "fasteners-hardware__shelf-brackets-braces__10-steel-shelf-brackets-pair"
+      "storage-organization__pegboard-systems__pegboard-panel-with-hook-kit"
     ],
     "fasten-something-to-concrete-or-masonry": [
       "fasteners-hardware__concrete-anchors__concrete-sleeve-anchors-3-8",
@@ -305,13 +305,13 @@
     ],
     "choose-the-right-screw-for-the-job": [
       "fasteners-hardware__drywall-screws__self-tapping-drywall-screws-bulk-box",
-      "fasteners-hardware__wood-screws__8-x-1-1-4-wood-screws-100-pack",
-      "fasteners-hardware__wood-screws__10-x-2-wood-screws-50-pack",
-      "fasteners-hardware__wood-screws__brass-wood-screws-assortment",
+      "fasteners-hardware__self-tapping-screws__sheet-metal-self-tapping-screws",
+      "fasteners-hardware__self-tapping-screws__hex-washer-head-self-drilling-screws",
       "fasteners-hardware__drywall-screws__1-1-4-coarse-drywall-screws-1lb-box",
       "fasteners-hardware__drywall-screws__2-fine-thread-drywall-screws",
-      "fasteners-hardware__self-tapping-screws__sheet-metal-self-tapping-screws",
-      "fasteners-hardware__self-tapping-screws__hex-washer-head-self-drilling-screws"
+      "fasteners-hardware__deck-screws__3-exterior-deck-screws-5lb-box",
+      "fasteners-hardware__deck-screws__2-1-2-composite-deck-screws",
+      "fasteners-hardware__deck-screws__star-drive-deck-screws"
     ],
     "prepare-for-winter-weather": [
       "seasonal__shovels-ice-melt__steel-edge-snow-shovel",
@@ -328,10 +328,27 @@
     ],
     "seal-a-bathroom-or-kitchen-for-water-protection": [
       "adhesives-sealants__caulk__100-silicone-caulk-clear",
-      "heating-cooling-weatherization__fans__bathroom-exhaust-fan",
       "adhesives-sealants__caulk__paintable-acrylic-caulk",
       "electrical-lighting__outlets__gfci-outlet",
-      "cleaning-supplies__specialty-cleaners__bathroom-mold-mildew-remover"
+      "cleaning-supplies__specialty-cleaners__bathroom-mold-mildew-remover",
+      "heating-cooling-weatherization__fans__bathroom-exhaust-fan"
+    ],
+    "fix-a-door-that-wont-lock-properly": [
+      "fasteners-hardware__door-hinges__3-5-interior-door-hinges-pair",
+      "fasteners-hardware__door-hinges__self-closing-cabinet-hinges",
+      "locks-security__doorknobs-levers__entry-door-lever-set"
+    ],
+    "top-off-fluids-and-replace-wiper-blades": [
+      "automotive__motor-oil-fluids__5w-30-motor-oil-5-qt",
+      "automotive__motor-oil-fluids__windshield-washer-fluid-1-gal",
+      "automotive__wiper-blades__22-wiper-blade"
+    ],
+    "organize-a-small-kitchen": [
+      "housewares-kitchen__food-storage__airtight-food-storage-container-set",
+      "housewares-kitchen__kitchen-gadgets__kitchen-utensil-set",
+      "housewares-kitchen__kitchen-gadgets__digital-kitchen-scale",
+      "housewares-kitchen__cookware__10-non-stick-frying-pan",
+      "housewares-kitchen__cookware__stainless-steel-pot-set"
     ]
   },
   "product_to_problems": {
@@ -391,10 +408,10 @@
       "install-a-new-faucet",
       "sweat-or-connect-copper-pex-pipe"
     ],
-    "plumbing__copper-pipe-fittings__1-2-copper-pipe-10-ft": [
+    "plumbing__pex-pipe-fittings__1-2-pex-tubing-100-ft-coil": [
       "sweat-or-connect-copper-pex-pipe"
     ],
-    "plumbing__pex-pipe-fittings__1-2-pex-tubing-100-ft-coil": [
+    "plumbing__copper-pipe-fittings__1-2-copper-pipe-10-ft": [
       "sweat-or-connect-copper-pex-pipe"
     ],
     "plumbing__pvc-pipe-fittings__1-2-pvc-pipe-10-ft": [
@@ -409,6 +426,10 @@
       "organize-a-garage-or-shed",
       "set-up-a-home-workshop"
     ],
+    "fasteners-hardware__drywall-anchors__self-drilling-drywall-anchors-20-pack": [
+      "hang-a-shelf-on-drywall",
+      "mount-a-tv-on-the-wall"
+    ],
     "building-materials__dimensional-lumber__1x6-pine-board-8-ft": [
       "hang-a-shelf-on-drywall",
       "organize-a-garage-or-shed",
@@ -421,10 +442,6 @@
       "organize-a-garage-or-shed",
       "set-up-a-home-workshop"
     ],
-    "fasteners-hardware__drywall-anchors__self-drilling-drywall-anchors-20-pack": [
-      "hang-a-shelf-on-drywall",
-      "mount-a-tv-on-the-wall"
-    ],
     "hand-power-tools__measuring-layout__24-torpedo-box-level": [
       "hang-a-shelf-on-drywall",
       "mount-a-tv-on-the-wall"
@@ -433,32 +450,31 @@
       "organize-a-garage-or-shed",
       "set-up-a-home-workshop"
     ],
+    "storage-organization__storage-totes__27-gallon-storage-tote-with-lid": [
+      "organize-a-garage-or-shed"
+    ],
     "storage-organization__pegboard-systems__pegboard-panel-with-hook-kit": [
       "organize-a-garage-or-shed",
       "set-up-a-home-workshop"
     ],
-    "storage-organization__storage-totes__27-gallon-storage-tote-with-lid": [
-      "organize-a-garage-or-shed"
-    ],
     "fasteners-hardware__door-hinges__3-5-interior-door-hinges-pair": [
       "fix-a-loose-door-hinge",
-      "repair-a-squeaky-or-sticking-door"
+      "repair-a-squeaky-or-sticking-door",
+      "fix-a-door-that-wont-lock-properly"
+    ],
+    "fasteners-hardware__wood-screws__8-x-1-1-4-wood-screws-100-pack": [
+      "fix-a-loose-door-hinge"
+    ],
+    "fasteners-hardware__wood-screws__10-x-2-wood-screws-50-pack": [
+      "fix-a-loose-door-hinge"
+    ],
+    "fasteners-hardware__wood-screws__brass-wood-screws-assortment": [
+      "fix-a-loose-door-hinge"
     ],
     "fasteners-hardware__door-hinges__self-closing-cabinet-hinges": [
       "fix-a-loose-door-hinge",
-      "repair-a-squeaky-or-sticking-door"
-    ],
-    "fasteners-hardware__wood-screws__8-x-1-1-4-wood-screws-100-pack": [
-      "fix-a-loose-door-hinge",
-      "choose-the-right-screw-for-the-job"
-    ],
-    "fasteners-hardware__wood-screws__10-x-2-wood-screws-50-pack": [
-      "fix-a-loose-door-hinge",
-      "choose-the-right-screw-for-the-job"
-    ],
-    "fasteners-hardware__wood-screws__brass-wood-screws-assortment": [
-      "fix-a-loose-door-hinge",
-      "choose-the-right-screw-for-the-job"
+      "repair-a-squeaky-or-sticking-door",
+      "fix-a-door-that-wont-lock-properly"
     ],
     "building-materials__joint-compound-tape__joint-compound-all-purpose-5-gal": [
       "patch-a-hole-in-drywall"
@@ -471,26 +487,29 @@
       "build-or-repair-a-fence",
       "cut-lumber-to-size"
     ],
-    "building-materials__dimensional-lumber__2x4-stud-8-ft": [
+    "fasteners-hardware__deck-screws__3-exterior-deck-screws-5lb-box": [
       "build-a-deck",
       "build-or-repair-a-fence",
-      "cut-lumber-to-size"
+      "choose-the-right-screw-for-the-job"
+    ],
+    "fasteners-hardware__deck-screws__2-1-2-composite-deck-screws": [
+      "build-a-deck",
+      "build-or-repair-a-fence",
+      "choose-the-right-screw-for-the-job"
+    ],
+    "fasteners-hardware__deck-screws__star-drive-deck-screws": [
+      "build-a-deck",
+      "build-or-repair-a-fence",
+      "choose-the-right-screw-for-the-job"
     ],
     "fasteners-hardware__hex-bolts__carriage-bolts-3-8-x-3": [
       "build-a-deck",
       "build-or-repair-a-fence"
     ],
-    "fasteners-hardware__deck-screws__3-exterior-deck-screws-5lb-box": [
+    "building-materials__dimensional-lumber__2x4-stud-8-ft": [
       "build-a-deck",
-      "build-or-repair-a-fence"
-    ],
-    "fasteners-hardware__deck-screws__2-1-2-composite-deck-screws": [
-      "build-a-deck",
-      "build-or-repair-a-fence"
-    ],
-    "fasteners-hardware__deck-screws__star-drive-deck-screws": [
-      "build-a-deck",
-      "build-or-repair-a-fence"
+      "build-or-repair-a-fence",
+      "cut-lumber-to-size"
     ],
     "paint-sundries__deck-fence-stains__solid-fence-stain-1-gal": [
       "stain-or-reseal-a-wood-deck",
@@ -514,10 +533,10 @@
     "building-materials__roofing-underlayment-sealant__roofing-cement-10-3-oz-tube": [
       "repair-a-roof-leak"
     ],
-    "building-materials__shingles__architectural-asphalt-shingles-bundle": [
+    "fasteners-hardware__roofing-nails__galvanized-roofing-nails-1-1-4": [
       "repair-a-roof-leak"
     ],
-    "fasteners-hardware__roofing-nails__galvanized-roofing-nails-1-1-4": [
+    "building-materials__shingles__architectural-asphalt-shingles-bundle": [
       "repair-a-roof-leak"
     ],
     "fasteners-hardware__roofing-nails__coil-roofing-nails-for-nail-gun": [
@@ -529,10 +548,10 @@
     "paint-sundries__interior-wall-paint__interior-latex-paint-flat-1-gal": [
       "paint-a-room"
     ],
-    "paint-sundries__primers__stain-blocking-primer-1-gal": [
+    "paint-sundries__exterior-wall-paint__exterior-acrylic-paint-satin-1-gal": [
       "paint-a-room"
     ],
-    "paint-sundries__exterior-wall-paint__exterior-acrylic-paint-satin-1-gal": [
+    "paint-sundries__primers__stain-blocking-primer-1-gal": [
       "paint-a-room"
     ],
     "paint-sundries__rollers-trays__9-roller-tray-kit": [
@@ -576,11 +595,16 @@
     "cleaning-supplies__specialty-cleaners__bathroom-mold-mildew-remover": [
       "remove-mold-or-mildew-in-a-bathroom",
       "clean-paint-brushes-and-tools",
+      "install-a-gfci-outlet",
       "improve-bathroom-ventilation",
-      "deep-clean-a-kitchen",
-      "seal-a-bathroom-or-kitchen-for-water-protection"
+      "deep-clean-a-kitchen"
     ],
     "electrical-lighting__wire-connectors__wire-nuts-assortment": [
+      "replace-a-light-fixture-or-switch",
+      "fix-a-dead-outlet",
+      "extend-an-extension-cord-safely"
+    ],
+    "electrical-lighting__switches__single-pole-light-switch": [
       "replace-a-light-fixture-or-switch",
       "fix-a-dead-outlet",
       "extend-an-extension-cord-safely"
@@ -591,7 +615,7 @@
       "install-a-gfci-outlet",
       "extend-an-extension-cord-safely"
     ],
-    "electrical-lighting__switches__single-pole-light-switch": [
+    "electrical-lighting__cover-plates__outlet-switch-wall-plates": [
       "replace-a-light-fixture-or-switch",
       "fix-a-dead-outlet",
       "extend-an-extension-cord-safely"
@@ -602,11 +626,6 @@
       "fix-a-dead-outlet",
       "improve-bathroom-ventilation",
       "remove-mold-or-mildew-in-a-bathroom"
-    ],
-    "electrical-lighting__cover-plates__outlet-switch-wall-plates": [
-      "replace-a-light-fixture-or-switch",
-      "fix-a-dead-outlet",
-      "extend-an-extension-cord-safely"
     ],
     "electrical-lighting__power-strips-surge-protectors__6-outlet-surge-protector-power-strip": [
       "extend-an-extension-cord-safely",
@@ -622,11 +641,15 @@
     "electrical-lighting__circuit-breakers__20a-single-pole-circuit-breaker": [
       "fix-a-dead-outlet"
     ],
-    "heating-cooling-weatherization__fans__bathroom-exhaust-fan": [
-      "improve-bathroom-ventilation",
+    "adhesives-sealants__caulk__100-silicone-caulk-clear": [
+      "seal-a-bathroom-or-kitchen-for-water-protection",
       "install-a-gfci-outlet",
-      "remove-mold-or-mildew-in-a-bathroom",
-      "seal-a-bathroom-or-kitchen-for-water-protection"
+      "seal-drafts-around-windows-and-doors",
+      "improve-bathroom-ventilation",
+      "remove-mold-or-mildew-in-a-bathroom"
+    ],
+    "cleaning-supplies__trash-bags__13-gallon-kitchen-trash-bags": [
+      "install-a-gfci-outlet"
     ],
     "housewares-kitchen__countertop-appliances__2-slice-toaster": [
       "install-a-gfci-outlet"
@@ -635,17 +658,8 @@
       "install-a-gfci-outlet"
     ],
     "housewares-kitchen__cookware__10-non-stick-frying-pan": [
-      "install-a-gfci-outlet"
-    ],
-    "housewares-kitchen__cookware__stainless-steel-pot-set": [
-      "install-a-gfci-outlet"
-    ],
-    "adhesives-sealants__caulk__100-silicone-caulk-clear": [
-      "seal-a-bathroom-or-kitchen-for-water-protection",
       "install-a-gfci-outlet",
-      "seal-drafts-around-windows-and-doors",
-      "improve-bathroom-ventilation",
-      "remove-mold-or-mildew-in-a-bathroom"
+      "organize-a-small-kitchen"
     ],
     "electrical-lighting__led-bulbs__led-a19-bulb-soft-white-60w-equiv": [
       "choose-the-right-light-bulb"
@@ -736,11 +750,16 @@
     "heating-cooling-weatherization__weatherstripping__door-sweep": [
       "seal-drafts-around-windows-and-doors"
     ],
+    "adhesives-sealants__caulk__paintable-acrylic-caulk": [
+      "seal-drafts-around-windows-and-doors",
+      "seal-a-bathroom-or-kitchen-for-water-protection"
+    ],
     "adhesives-sealants__weatherproof-sealants__exterior-window-door-sealant": [
       "seal-drafts-around-windows-and-doors"
     ],
-    "adhesives-sealants__caulk__paintable-acrylic-caulk": [
-      "seal-drafts-around-windows-and-doors",
+    "heating-cooling-weatherization__fans__bathroom-exhaust-fan": [
+      "improve-bathroom-ventilation",
+      "remove-mold-or-mildew-in-a-bathroom",
       "seal-a-bathroom-or-kitchen-for-water-protection"
     ],
     "heating-cooling-weatherization__fans__box-fan": [
@@ -748,6 +767,12 @@
     ],
     "heating-cooling-weatherization__hvac-filters__16x20x1-pleated-hvac-filter": [
       "change-an-hvac-filter"
+    ],
+    "safety-ppe__safety-glasses-goggles__clear-safety-glasses": [
+      "protect-yourself-when-sanding-or-cutting"
+    ],
+    "safety-ppe__hearing-protection__foam-earplugs-pair": [
+      "protect-yourself-when-sanding-or-cutting"
     ],
     "safety-ppe__masks-respirators__n95-dust-mask-10-pack": [
       "protect-yourself-when-sanding-or-cutting"
@@ -759,20 +784,8 @@
       "protect-yourself-when-sanding-or-cutting",
       "handle-paint-fumes-and-chemicals-safely"
     ],
-    "safety-ppe__safety-glasses-goggles__clear-safety-glasses": [
-      "protect-yourself-when-sanding-or-cutting"
-    ],
-    "safety-ppe__hearing-protection__foam-earplugs-pair": [
-      "protect-yourself-when-sanding-or-cutting"
-    ],
     "safety-ppe__masks-respirators__half-face-respirator": [
       "handle-paint-fumes-and-chemicals-safely"
-    ],
-    "hand-power-tools__hammers-mallets__16-oz-curved-claw-hammer": [
-      "assemble-flat-pack-furniture"
-    ],
-    "hand-power-tools__hammers-mallets__rubber-mallet": [
-      "assemble-flat-pack-furniture"
     ],
     "hand-power-tools__screwdrivers-nut-drivers__6-piece-screwdriver-set": [
       "assemble-flat-pack-furniture",
@@ -781,6 +794,12 @@
     "hand-power-tools__screwdrivers-nut-drivers__precision-screwdriver-set": [
       "assemble-flat-pack-furniture",
       "remove-a-stripped-screw"
+    ],
+    "hand-power-tools__hammers-mallets__16-oz-curved-claw-hammer": [
+      "assemble-flat-pack-furniture"
+    ],
+    "hand-power-tools__hammers-mallets__rubber-mallet": [
+      "assemble-flat-pack-furniture"
     ],
     "hand-power-tools__saws__7-1-4-circular-saw": [
       "cut-lumber-to-size"
@@ -815,16 +834,16 @@
     "fasteners-hardware__drywall-screws__self-tapping-drywall-screws-bulk-box": [
       "choose-the-right-screw-for-the-job"
     ],
-    "fasteners-hardware__drywall-screws__1-1-4-coarse-drywall-screws-1lb-box": [
-      "choose-the-right-screw-for-the-job"
-    ],
-    "fasteners-hardware__drywall-screws__2-fine-thread-drywall-screws": [
-      "choose-the-right-screw-for-the-job"
-    ],
     "fasteners-hardware__self-tapping-screws__sheet-metal-self-tapping-screws": [
       "choose-the-right-screw-for-the-job"
     ],
     "fasteners-hardware__self-tapping-screws__hex-washer-head-self-drilling-screws": [
+      "choose-the-right-screw-for-the-job"
+    ],
+    "fasteners-hardware__drywall-screws__1-1-4-coarse-drywall-screws-1lb-box": [
+      "choose-the-right-screw-for-the-job"
+    ],
+    "fasteners-hardware__drywall-screws__2-fine-thread-drywall-screws": [
       "choose-the-right-screw-for-the-job"
     ],
     "seasonal__shovels-ice-melt__steel-edge-snow-shovel": [
@@ -847,6 +866,30 @@
     ],
     "adhesives-sealants__super-glue-epoxy__5-minute-epoxy-2-part": [
       "refinish-or-fix-furniture"
+    ],
+    "locks-security__doorknobs-levers__entry-door-lever-set": [
+      "fix-a-door-that-wont-lock-properly"
+    ],
+    "automotive__motor-oil-fluids__5w-30-motor-oil-5-qt": [
+      "top-off-fluids-and-replace-wiper-blades"
+    ],
+    "automotive__motor-oil-fluids__windshield-washer-fluid-1-gal": [
+      "top-off-fluids-and-replace-wiper-blades"
+    ],
+    "automotive__wiper-blades__22-wiper-blade": [
+      "top-off-fluids-and-replace-wiper-blades"
+    ],
+    "housewares-kitchen__food-storage__airtight-food-storage-container-set": [
+      "organize-a-small-kitchen"
+    ],
+    "housewares-kitchen__kitchen-gadgets__kitchen-utensil-set": [
+      "organize-a-small-kitchen"
+    ],
+    "housewares-kitchen__kitchen-gadgets__digital-kitchen-scale": [
+      "organize-a-small-kitchen"
+    ],
+    "housewares-kitchen__cookware__stainless-steel-pot-set": [
+      "organize-a-small-kitchen"
     ]
   }
 }

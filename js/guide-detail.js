@@ -42,7 +42,13 @@
       descEl.textContent = problem.description;
 
       var topicsHtml = '';
-      if (problem.how_to_guide.topics_covered && problem.how_to_guide.topics_covered.length) {
+      if (problem.steps && problem.steps.length) {
+        var metaParts = [];
+        if (problem.tools_needed) metaParts.push('Tools needed: ' + escapeHtml(problem.tools_needed));
+        if (problem.time_estimate) metaParts.push(escapeHtml(problem.time_estimate));
+        topicsHtml = (metaParts.length ? '<p class="meta">' + metaParts.join(' &middot; ') + '</p>' : '') +
+          '<ol>' + problem.steps.map(function (s) { return '<li>' + escapeHtml(s) + '</li>'; }).join('') + '</ol>';
+      } else if (problem.how_to_guide.topics_covered && problem.how_to_guide.topics_covered.length) {
         topicsHtml = '<div class="section-intro"><span class="eyebrow">This guide will cover</span></div><ul>' +
           problem.how_to_guide.topics_covered.map(function (t) {
             return '<li>' + escapeHtml(t) + '</li>';

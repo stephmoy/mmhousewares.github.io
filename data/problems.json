@@ -22,7 +22,16 @@
           "replacing the cartridge or washer"
         ]
       },
-      "connect_a_technician": true
+      "connect_a_technician": true,
+      "featured": true,
+      "tools_needed": "adjustable wrench, screwdriver, replacement washer or O-ring",
+      "time_estimate": "~30 minutes",
+      "steps": [
+        "Shut off the water supply valves under the sink.",
+        "Remove the faucet handle to expose the cartridge or valve stem.",
+        "Replace the worn washer or O-ring with a matching size from the kit.",
+        "Reassemble and turn the water back on slowly, checking for drips."
+      ]
     },
     {
       "id": "unclog-a-slow-or-blocked-drain",
@@ -161,7 +170,16 @@
           "leveling the shelf"
         ]
       },
-      "connect_a_technician": true
+      "connect_a_technician": true,
+      "featured": true,
+      "tools_needed": "stud finder, drill, level",
+      "time_estimate": "~20 minutes",
+      "steps": [
+        "Use a stud finder to locate studs; hang directly into a stud when possible.",
+        "If no stud is available, use a rated toggle bolt anchor for the item's weight.",
+        "Mark and level your hanging points before drilling.",
+        "Drill pilot holes, insert anchors, and mount your item."
+      ]
     },
     {
       "id": "mount-a-tv-on-the-wall",
@@ -274,7 +292,8 @@
           "sanding and priming"
         ]
       },
-      "connect_a_technician": true
+      "connect_a_technician": true,
+      "featured": true
     },
     {
       "id": "build-a-deck",
@@ -390,7 +409,16 @@
           "cutting in vs rolling"
         ]
       },
-      "connect_a_technician": true
+      "connect_a_technician": true,
+      "featured": true,
+      "tools_needed": "roller, brush, painter's tape, drop cloth",
+      "time_estimate": "~1 day",
+      "steps": [
+        "Clean walls and patch any holes; let patches dry fully.",
+        "Tape off trim, outlets, and ceiling lines.",
+        "Cut in edges with a brush, then roll large areas in a \"W\" pattern.",
+        "Apply a second coat after the first has fully dried, usually 2-4 hours."
+      ]
     },
     {
       "id": "stain-or-reseal-a-wood-deck",
@@ -499,7 +527,15 @@
           "testing with a multimeter"
         ]
       },
-      "connect_a_technician": true
+      "connect_a_technician": true,
+      "featured": true,
+      "tools_needed": "non-contact voltage tester",
+      "time_estimate": "~10 minutes \u00b7 Safety first",
+      "steps": [
+        "Check the breaker panel for a tripped breaker first.",
+        "Use a non-contact voltage tester to confirm the outlet is not live before touching it.",
+        "If the breaker is fine and the outlet still doesn't work, the issue is likely wiring \u2014 this is a job for a licensed electrician."
+      ]
     },
     {
       "id": "install-a-gfci-outlet",
@@ -589,7 +625,8 @@
           "outdoor perimeter treatment"
         ]
       },
-      "connect_a_technician": true
+      "connect_a_technician": true,
+      "featured": true
     },
     {
       "id": "get-rid-of-mice",
@@ -763,7 +800,8 @@
           "installing a door sweep"
         ]
       },
-      "connect_a_technician": true
+      "connect_a_technician": true,
+      "featured": true
     },
     {
       "id": "improve-bathroom-ventilation",
@@ -826,7 +864,8 @@
           "ventilation to prevent recurrence"
         ]
       },
-      "connect_a_technician": true
+      "connect_a_technician": true,
+      "featured": true
     },
     {
       "id": "deep-clean-a-kitchen",
@@ -869,7 +908,8 @@
           "respirator ratings for dust vs fumes"
         ]
       },
-      "connect_a_technician": true
+      "connect_a_technician": true,
+      "featured": true
     },
     {
       "id": "handle-paint-fumes-and-chemicals-safely",
@@ -955,7 +995,8 @@
           "using a hammer drill for masonry"
         ]
       },
-      "connect_a_technician": true
+      "connect_a_technician": true,
+      "featured": true
     },
     {
       "id": "remove-a-stripped-screw",
@@ -1041,7 +1082,8 @@
           "screw length rules of thumb"
         ]
       },
-      "connect_a_technician": true
+      "connect_a_technician": true,
+      "featured": true
     },
     {
       "id": "prepare-for-winter-weather",
@@ -1063,7 +1105,8 @@
           "shovel types"
         ]
       },
-      "connect_a_technician": true
+      "connect_a_technician": true,
+      "featured": true
     },
     {
       "id": "set-up-a-grill-for-the-season",
@@ -1127,7 +1170,90 @@
           "applying a clean bead"
         ]
       },
-      "connect_a_technician": true
+      "connect_a_technician": true,
+      "featured": true
+    },
+    {
+      "id": "fix-a-door-that-wont-lock-properly",
+      "title": "Fix a Door That Won't Lock Properly",
+      "department": "Locks & Security",
+      "description": "Sticking, misaligned, or worn-out locks and hardware are usually a strike-plate alignment problem, not a broken lock.",
+      "difficulty": "Beginner",
+      "tags": [
+        "door lock",
+        "strike plate",
+        "door repair",
+        "misaligned door",
+        "hinge",
+        "locksmith"
+      ],
+      "how_to_guide": {
+        "title": "How to Fix a Door That Won't Lock",
+        "slug": "guide-fix-a-door-that-wont-lock-properly",
+        "topics_covered": [
+          "checking latch-to-strike-plate alignment",
+          "adjusting or replacing the strike plate",
+          "tightening loose hinge screws"
+        ]
+      },
+      "connect_a_technician": true,
+      "featured": true,
+      "tools_needed": "screwdriver, file (optional)",
+      "time_estimate": "~15 minutes",
+      "steps": [
+        "Close the door and check whether the latch aligns with the strike plate.",
+        "If it's off by a small amount, file the strike plate opening slightly.",
+        "If it's off by more, reposition or replace the strike plate.",
+        "Tighten loose hinge screws, which are a common hidden cause of misalignment."
+      ]
+    },
+    {
+      "id": "top-off-fluids-and-replace-wiper-blades",
+      "title": "Top Off Fluids and Replace Wiper Blades",
+      "department": "Automotive",
+      "description": "Basic seasonal car maintenance you can do yourself in the driveway: checking fluid levels and swapping worn wiper blades.",
+      "difficulty": "Beginner",
+      "tags": [
+        "motor oil",
+        "washer fluid",
+        "wiper blade",
+        "car maintenance"
+      ],
+      "how_to_guide": {
+        "title": "How to Top Off Fluids and Replace Wiper Blades",
+        "slug": "guide-top-off-fluids-and-replace-wiper-blades",
+        "topics_covered": [
+          "checking oil and washer fluid levels",
+          "choosing the right wiper blade size",
+          "swapping old blades safely"
+        ]
+      },
+      "connect_a_technician": true,
+      "featured": true
+    },
+    {
+      "id": "organize-a-small-kitchen",
+      "title": "Organize a Small Kitchen",
+      "department": "Housewares & Kitchen",
+      "description": "Make the most of limited counter and cabinet space with the right storage, cookware, and gadgets.",
+      "difficulty": "Beginner",
+      "tags": [
+        "food storage",
+        "kitchen organization",
+        "cookware",
+        "kitchen tool"
+      ],
+      "how_to_guide": {
+        "title": "How to Organize a Small Kitchen",
+        "slug": "guide-organize-a-small-kitchen",
+        "topics_covered": [
+          "stackable and airtight storage",
+          "choosing versatile cookware",
+          "freeing up counter space"
+        ]
+      },
+      "connect_a_technician": false,
+      "featured": true
     }
   ]
 }
